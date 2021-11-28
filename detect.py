@@ -9,10 +9,7 @@ ip = "202.81.%d.%d"
 p = 32
 results_dict = {}
 
-headers = {
-    "User-Agent":
-    "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0"
-}
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0"}
 results_file = "results"
 
 
@@ -24,13 +21,12 @@ def pre():
 
 def detect(i):
     res = []
+    S = requests.session()
     for j in range(i, i + 1):
         for k in range(0, 256):
             this_ip = ip % (j, k)
             try:
-                req = requests.get("https://" + this_ip,
-                                   headers=headers,
-                                   timeout=2)
+                req = S.get("https://" + this_ip, headers=headers, timeout=2)
                 print(this_ip, req.status_code)
             except Exception as e:
                 error = str(e)
