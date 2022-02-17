@@ -23,7 +23,7 @@ jobs:
     - name: Detect IPs
       run: | 
         echo "$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %T) start" > time.log
-        python detect.py
+        python DetectIPHTTPS.py
         echo "$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %T) end" >> time.log 
     - name: Commit
       run: |
