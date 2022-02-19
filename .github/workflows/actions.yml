@@ -17,9 +17,6 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.x
-    - name: Install requests
-      run: |
-        pip install requests
     - name: Detect IPs
       run: | 
         echo "$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %T) start" > time.log
