@@ -1,4 +1,4 @@
-name: detect cloudflare-netfront IPs
+name: detect
 
 on: 
   schedule:

@@ -16,21 +16,21 @@ class DetectIPHTTPS:
         self.max_threads = 16
         self.max_processes = 16
 
-    def start_threads(self, i: int) -> list:
+    def start_threads(self, c: int) -> list:
         results = []
         context = ssl.SSLContext(protocol=ssl.PROTOCOL_TLS_CLIENT)
         context.check_hostname = False
         context.load_default_certs()
         with concurrent.futures.ThreadPoolExecutor(max_workers=self.max_threads) as executor:
-            future_to_url = {executor.submit(self.detect, i, j, context): j for j in range(0, 256)}
+            future_to_url = {executor.submit(self.detect, c, d, context): d for d in range(0, 256)}
             for future in concurrent.futures.as_completed(future_to_url):
                 result = future.result()
                 if len(result) > 1:
                     results.append(result)
         return results
 
-    def detect(self, i: int, j: int, context: ssl.SSLContext) -> list:
-        this_ip = self.ipset % (i, j)
+    def detect(self, c: int, d: int, context: ssl.SSLContext) -> list:
+        this_ip = self.ipset % (c, d)
         namelist = [this_ip]
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM, 0) as sock:
             with context.wrap_socket(sock, server_hostname=self.default_hostname) as conn:
