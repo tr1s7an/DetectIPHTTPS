@@ -13,13 +13,10 @@ class DetectIPHTTPS:
     def __init__(self) -> None:
         self.ipset = ''
         self.default_hostname = 'www.cloudflare.com'
-        self.max_threads = 256
+        self.max_threads = 64
         self.max_processes = 16
-        self.loop = asyncio.new_event_loop()
-        asyncio.set_event_loop(self.loop)
-        self.sem = asyncio.Semaphore(1024)
 
-    def start_processes(self, a: int, b: int) -> None:
+    def start_processes(self, a: int, b: int) -> dict:
         self.ipset = f'{a}.{b}.%d.%d'
         results_dict = {}
         with concurrent.futures.ProcessPoolExecutor(max_workers=self.max_processes) as executor:
@@ -55,27 +52,27 @@ class DetectIPHTTPS:
                     pass
         return namelist
 
-    def start_eventloop(self, a: int, b: int) -> list:
+    def start_eventloop(self, a: int, b: int, loop: asyncio.unix_events._UnixSelectorEventLoop, sem: asyncio.locks.Semaphore) -> dict:
         self.ipset = f'{a}.{b}.%d.%d'
-        results_dict = self.loop.run_until_complete(self.async_create_tasks())
+        results_dict = loop.run_until_complete(self.async_create_tasks(sem))
         return results_dict
 
-    async def async_create_tasks(self) -> list:
+    async def async_create_tasks(self, sem: asyncio.locks.Semaphore) -> list:
         results_dict = {}
         context = ssl.SSLContext(protocol=ssl.PROTOCOL_TLS_CLIENT)
         context.check_hostname = False
         context.load_default_certs()
-        tasks = (self.async_start_detect(c, d, context) for c in range(0, 256) for d in range(0, 256))
+        tasks = (self.async_start_detect(c, d, context, sem) for c in range(0, 256) for d in range(0, 256))
         results = await asyncio.gather(*tasks)
         for result in results:
             if len(result) > 1:
                 results_dict[result[0]] = ' '.join(result[1:])
         return results_dict
 
-    async def async_start_detect(self, c: int, d: int, context: ssl.SSLContext) -> list:
+    async def async_start_detect(self, c: int, d: int, context: ssl.SSLContext, sem: asyncio.locks.Semaphore) -> list:
         this_ip = self.ipset % (c, d)
         result = []
-        async with self.sem:
+        async with sem:
             try:
                 result = await asyncio.wait_for(self.async_detect(this_ip, context), 2.0)
             except asyncio.TimeoutError:
@@ -109,7 +106,10 @@ if __name__ == '__main__':
     mydetect = DetectIPHTTPS()
 
     start = time.perf_counter()
-    results_dict_1 = mydetect.start_eventloop(202, 81)
+    loop = asyncio.new_event_loop()
+    asyncio.set_event_loop(loop)
+    sem = asyncio.Semaphore(1024)
+    results_dict_1 = mydetect.start_eventloop(202, 81, loop, sem)
     stop = time.perf_counter()
     print(stop - start)
 
