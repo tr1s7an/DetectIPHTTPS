@@ -13,7 +13,7 @@ class DetectIPHTTPS:
     def __init__(self) -> None:
         self.ipset = ''
         self.default_hostname = 'www.cloudflare.com'
-        self.max_threads = 64
+        self.max_threads = 32
         self.max_processes = 16
 
     def start_processes(self, a: int, b: int) -> dict:
@@ -108,16 +108,19 @@ if __name__ == '__main__':
     start = time.perf_counter()
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
-    sem = asyncio.Semaphore(1024)
+    sem = asyncio.Semaphore(512)
     results_dict_1 = mydetect.start_eventloop(202, 81, loop, sem)
     stop = time.perf_counter()
     print(stop - start)
 
-    socket.setdefaulttimeout(2)
-    start = time.perf_counter()
-    results_dict_2 = mydetect.start_processes(202, 81)
-    stop = time.perf_counter()
-    print(stop - start)
+    print(len(results_dict_1))
+    mydetect.write_to_file(results_dict_1)
 
-    results_dict = results_dict_1 if len(results_dict_1) > len(results_dict_2) else results_dict_2
-    mydetect.write_to_file(results_dict)
+    #socket.setdefaulttimeout(2)
+    #start = time.perf_counter()
+    #results_dict_2 = mydetect.start_processes(202, 81)
+    #stop = time.perf_counter()
+    #print(stop - start)
+
+    #results_dict = results_dict_1 if len(results_dict_1) > len(results_dict_2) else results_dict_2
+    #mydetect.write_to_file(results_dict)
