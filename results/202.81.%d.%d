@@ -18,7 +18,6 @@
 202.81.4.247 ipmetadata.backup.fus.craftypenguins.net
 202.81.5.54 mail.neocorp.com.au
 202.81.5.136 remote.vassallo.com.au www.remote.vassallo.com.au
-202.81.6.28 *.quintis.com.au quintis.com.au
 202.81.6.29 *.smileteam.com.au smileteam.com.au
 202.81.6.32 remote.pbllaw.com
 202.81.6.102 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
@@ -85,8 +84,8 @@
 202.81.108.33 login.common.freefiremobile.com www.login.common.freefiremobile.com
 202.81.108.34 login.common.freefiremobile.com www.login.common.freefiremobile.com
 202.81.108.35 login.common.freefiremobile.com www.login.common.freefiremobile.com
-202.81.108.97 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
 202.81.108.98 ind.network.freefiremobile.com www.ind.network.freefiremobile.com
+202.81.109.2 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
 202.81.109.4 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
 202.81.109.5 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
 202.81.109.6 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
@@ -127,7 +126,6 @@
 202.81.119.19 version.common.ff.garena.com
 202.81.119.20 version.common.ff.garena.com
 202.81.133.5 202.81.133.5 202.81.133.6 202.81.133.7
-202.81.133.6 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10 202.81.155.10
 202.81.155.11 202.81.155.11
@@ -157,19 +155,23 @@
 202.81.217.11 gopc-dr2.gopc.net
 202.81.229.9 zs.coolmi.tk
 202.81.229.12 *.pinge.me pinge.me
+202.81.229.24 jysj101.com www.jysj101.com
+202.81.229.25 jysj101.com www.jysj101.com
+202.81.229.26 jysj101.com www.jysj101.com
+202.81.229.27 jysj101.com www.jysj101.com
 202.81.229.45 n1.ninreiei.xyz
 202.81.229.46 n2.ninreiei.xyz
 202.81.229.47 n3.ninreiei.xyz
 202.81.229.48 n4.ninreiei.xyz
 202.81.230.10 lufanla.com www.lufanla.com
 202.81.230.11 youman0010.com www.youman0010.com
+202.81.230.18 www.peiwei.tk
 202.81.230.24 hk11.netv2.work
 202.81.230.25 switch520.net www.switch520.net
 202.81.230.34 front.mms.ms
 202.81.230.35 admin.fastspeed.me
 202.81.230.40 www.jukergame.net
 202.81.230.45 hk10.netv2.work
-202.81.230.47 www.jukergame.net
 202.81.230.49 angular365.cn www.angular365.cn
 202.81.230.54 hkix2.mfcloud.host
 202.81.230.55 daili.gofadacai.tk
@@ -180,11 +182,14 @@
 202.81.230.81 acgcyw.com www.acgcyw.com
 202.81.230.98 xxly5.minirouter.top
 202.81.230.100 angular365.cn www.angular365.cn
-202.81.230.101 pan.utenurur.me
 202.81.230.109 xxly4.minirouter.top
 202.81.230.110 ibushierbaiwu.xyz
+202.81.230.111 jysj101.com www.jysj101.com
 202.81.230.112 20.hktv.live
+202.81.230.113 jysj101.com www.jysj101.com
 202.81.230.115 acgcyw.com www.acgcyw.com
+202.81.230.117 jysj101.com www.jysj101.com
+202.81.230.118 jysj101.com www.jysj101.com
 202.81.230.119 *.4uo.cn 4uo.cn
 202.81.230.123 hk0123.owall.cf
 202.81.230.148 *.ainivp.com ainivp.com
@@ -225,11 +230,10 @@
 202.81.231.66 svbm.server.kookxiang.network
 202.81.231.67 cdn.jachun.com
 202.81.231.69 hk.zhzhwcn.com
-202.81.231.71 www.jukeracg.com
 202.81.231.80 20.hktv.live
 202.81.231.88 *.rmzbw.com rmzbw.com
 202.81.231.91 hk1091.owall.cf
-202.81.231.94 bbb.mpojie.xyz
+202.81.231.94 kefu.mpojie.xyz
 202.81.231.105 hkal.catm.cc
 202.81.231.106 waverider.network
 202.81.231.138 *.shallserve.cc shallserve.cc
@@ -237,7 +241,7 @@
 202.81.231.150 *.www.cloudflare.com www.cloudflare.com
 202.81.231.156 hk1156.owall.cf
 202.81.231.167 blog.kirikirin.com
-202.81.231.168 hang.imtokene.tk
+202.81.231.168 hk.morgan.tk
 202.81.231.172 panel.glduo.xyz
 202.81.231.177 bbs.library.ac.cn
 202.81.231.195 hk1195.owall.cf
@@ -248,7 +252,6 @@
 202.81.231.233 v2hkg.51ssr.club
 202.81.231.245 mensa.org.hk www.mensa.org.hk
 202.81.231.246 mensa.org.hk www.mensa.org.hk
-202.81.232.8 www.zhongzhuan.cf zhongzhuan.cf
 202.81.232.11 b8c8.com m.b8c8.com www.b8c8.com
 202.81.232.12 *.ohohman.net ohohman.net
 202.81.232.17 clbq.kaokao8888.xyz
@@ -256,6 +259,7 @@
 202.81.232.26 *.q9tech.com q9tech.com
 202.81.232.27 q9tech.netfront.net
 202.81.232.32 *.bitchigo.icu
+202.81.232.130 mquge.com www.mquge.com
 202.81.234.1 cpanel.netfront.net
 202.81.234.2 cpanel.netfront.net
 202.81.234.3 cpanel.netfront.net
@@ -269,6 +273,7 @@
 202.81.234.37 *.ccp-lies.com *.ccp-lies.org ccp-lies.com ccp-lies.org
 202.81.234.88 cpanel.netfront.net
 202.81.235.14 *.ibugone.com *.s.ibugone.com *.taokystrong.com *.ustc.ibugone.com ibugone.com taokystrong.com
+202.81.235.26 hk004.minirouter.top
 202.81.235.30 sky.skydy.vip
 202.81.235.47 334420.org www.334420.org
 202.81.235.52 334420.org www.334420.org
@@ -282,11 +287,13 @@
 202.81.235.96 rss.ikenway.net
 202.81.235.104 v2hkh.51ssr.club
 202.81.235.119 hk119.owall.cf
+202.81.235.137 hyoukyou.moe
 202.81.235.175 *.smartparking.app smartparking.app
 202.81.235.192 *.smartparking.app smartparking.app
 202.81.235.203 hk2.regeneonline.com
 202.81.235.217 nf.jgdtd.com
 202.81.237.7 *.ikelly.me ikelly.me
+202.81.237.8 hyoukyou.moe
 202.81.237.14 *.smartparking.app smartparking.app
 202.81.237.15 *.smartparking.app smartparking.app
 202.81.237.16 a.egoupai.com
@@ -310,14 +317,13 @@
 202.81.237.160 *.55225522.xyz 55225522.xyz
 202.81.237.194 hk7194.owall.cf
 202.81.238.8 *.hk.com
-202.81.238.9 love-dev.sodaflame.com
 202.81.238.18 *.hk.com
 202.81.242.15 ssmgr.xl78693.com
-202.81.242.34 100298.com
+202.81.242.29 blog.estnoc.com
+202.81.242.52 fwd.51shanda.com
 202.81.242.242 drive.netsoft.me
 202.81.242.250 www.igarment.net
 202.81.242.251 www.igarment.net
-202.81.243.69 www.ldcstudy.net
 202.81.244.244 *.frenzymind.com frenzymind.com
 202.81.244.245 *.frenzymind.com frenzymind.com
 202.81.244.249 *.frenzymind.com frenzymind.com
