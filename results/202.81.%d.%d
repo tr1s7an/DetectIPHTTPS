@@ -2,12 +2,12 @@
 202.81.4.26 knx.kasaccountants.com.au
 202.81.4.44 *.appointment.mobi appointment.mobi
 202.81.4.52 *.healthypc.com.au healthypc.com.au
+202.81.4.53 remote.mww.org.au www.remote.mww.org.au
 202.81.4.62 *.wagin.wa.gov.au wagin.wa.gov.au
 202.81.4.88 mail.armadalerealestate.com.au www.mail.armadalerealestate.com.au
 202.81.4.99 *.australce.com australce.com
 202.81.4.103 acerds.australce.com www.acerds.australce.com
 202.81.4.115 remote.yilgarn.wa.gov.au autodiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
-202.81.4.117 remote.oneresidential.com.au www.remote.oneresidential.com.au
 202.81.4.122 *.coorow.wa.gov.au coorow.wa.gov.au
 202.81.4.167 rdgw.ardearesources.com.au www.rdgw.ardearesources.com.au
 202.81.4.174 *.dumbleyung.wa.gov.au dumbleyung.wa.gov.au
@@ -34,12 +34,12 @@
 202.81.63.228 app.doit.biz.id
 202.81.63.229 cloud.interkoneksimedia.id
 202.81.63.234 member.imfiber.id
+202.81.96.8 gmoni1.garenanow.com
 202.81.96.36 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
 202.81.96.58 security.sea.com
 202.81.96.132 sss.garenanow.com
 202.81.96.136 dgd.security.garenanow.com www.dgd.security.garenanow.com
 202.81.96.137 dgd.security.garenanow.com www.dgd.security.garenanow.com
-202.81.96.139 dashboard.security.garenanow.com www.dashboard.security.garenanow.com
 202.81.97.26 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.97.33 client.ind.freefiremobile.com www.client.ind.freefiremobile.com
 202.81.97.34 client.ind.freefiremobile.com www.client.ind.freefiremobile.com
@@ -103,6 +103,7 @@
 202.81.115.101 *.test.sota.insea.io test.sota.insea.io
 202.81.115.185 grafana-mis.sea.com
 202.81.116.206 sato.verzview.com www.sato.verzview.com
+202.81.116.209 adm.deliguru.sg deliguru.sg
 202.81.119.1 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.119.2 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.119.3 version.common.freefiremobile.com www.version.common.freefiremobile.com
@@ -128,7 +129,6 @@
 202.81.133.7 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10 202.81.155.10
 202.81.155.11 202.81.155.11
-202.81.155.12 202.81.155.12
 202.81.208.151 central-data.net prod-www.central-data.net www.central-data.net
 202.81.214.134 api.bankvaultonline.com api01.bankvaultonline.com
 202.81.214.141 *.bankvault.com bankvault.com
@@ -153,7 +153,6 @@
 202.81.217.3 cds-dr2.central-data.net
 202.81.217.10 gopc-dr1.gopc.net
 202.81.217.11 gopc-dr2.gopc.net
-202.81.229.9 zs.coolmi.tk
 202.81.229.12 *.pinge.me pinge.me
 202.81.229.24 jysj101.com www.jysj101.com
 202.81.229.25 jysj101.com www.jysj101.com
@@ -170,13 +169,13 @@
 202.81.230.35 admin.fastspeed.me
 202.81.230.40 www.jukergame.net
 202.81.230.45 hk10.netv2.work
-202.81.230.54 hkix2.mfcloud.host
 202.81.230.55 daili.gofadacai.tk
 202.81.230.59 hkix3.mfcloud.host
 202.81.230.66 apps.lanyiit.com
 202.81.230.71 *.opcal.xyz
 202.81.230.72 v.weixiaoran.top
 202.81.230.74 xxly6.minirouter.top
+202.81.230.78 xxly6.minirouter.top
 202.81.230.81 acgcyw.com www.acgcyw.com
 202.81.230.98 xxly5.minirouter.top
 202.81.230.109 xxly4.minirouter.top
@@ -187,8 +186,8 @@
 202.81.230.115 acgcyw.com www.acgcyw.com
 202.81.230.117 jysj101.com www.jysj101.com
 202.81.230.118 jysj101.com www.jysj101.com
-202.81.230.119 *.4uo.cn 4uo.cn
 202.81.230.123 hk0123.owall.cf
+202.81.230.135 test.yaozi1350.cc
 202.81.230.148 *.ainivp.com ainivp.com
 202.81.230.156 cdn.jachun.com
 202.81.230.162 nft.lioncandy.top
@@ -199,7 +198,6 @@
 202.81.230.174 sga.catm.cc
 202.81.230.178 hkx.catm.cc
 202.81.230.179 file.gzcd.pw
-202.81.230.203 lanpo.xyz
 202.81.230.206 aa.asgood.org
 202.81.230.211 pay.wdnmd.gay
 202.81.230.220 a.egoupai.com
@@ -227,9 +225,10 @@
 202.81.231.80 20.hktv.live
 202.81.231.88 *.rmzbw.com rmzbw.com
 202.81.231.91 hk1091.owall.cf
-202.81.231.94 www.mpojie.com
+202.81.231.94 bb.mpojie.xyz
 202.81.231.105 hkal.catm.cc
 202.81.231.106 waverider.network
+202.81.231.109 imgtu.switch520.com
 202.81.231.138 *.shallserve.cc shallserve.cc
 202.81.231.147 nfvm4.uvdm.dev
 202.81.231.150 *.www.cloudflare.com www.cloudflare.com
@@ -270,6 +269,7 @@
 202.81.235.30 sky.skydy.vip
 202.81.235.47 334420.org www.334420.org
 202.81.235.52 334420.org www.334420.org
+202.81.235.55 *.ikelly.me ikelly.me
 202.81.235.67 *.coz.moe
 202.81.235.68 *.coz.moe
 202.81.235.69 *.coz.moe
@@ -283,6 +283,7 @@
 202.81.235.175 *.smartparking.app smartparking.app
 202.81.235.192 *.smartparking.app smartparking.app
 202.81.235.203 hk2.regeneonline.com
+202.81.237.7 *.ikelly.me ikelly.me
 202.81.237.8 hyoukyou.moe
 202.81.237.14 *.smartparking.app smartparking.app
 202.81.237.15 *.smartparking.app smartparking.app
@@ -309,9 +310,8 @@
 202.81.238.8 *.hk.com
 202.81.238.18 *.hk.com
 202.81.242.15 ssmgr.xl78693.com
-202.81.242.59 www.ken0375.xyz
 202.81.242.242 drive.netsoft.me
-202.81.242.250 www.igarment.net
+202.81.242.251 www.igarment.net
 202.81.243.69 www.ldcstudy.net
 202.81.244.244 *.frenzymind.com frenzymind.com
 202.81.244.245 *.frenzymind.com frenzymind.com
