@@ -8,6 +8,7 @@
 202.81.4.99 *.australce.com australce.com
 202.81.4.103 acerds.australce.com www.acerds.australce.com
 202.81.4.115 remote.yilgarn.wa.gov.au autodiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
+202.81.4.117 remote.oneresidential.com.au www.remote.oneresidential.com.au
 202.81.4.122 *.coorow.wa.gov.au coorow.wa.gov.au
 202.81.4.167 rdgw.ardearesources.com.au www.rdgw.ardearesources.com.au
 202.81.4.174 *.dumbleyung.wa.gov.au dumbleyung.wa.gov.au
@@ -18,6 +19,7 @@
 202.81.5.136 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.6.29 *.smileteam.com.au smileteam.com.au
 202.81.6.32 remote.pbllaw.com
+202.81.6.73 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.102 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
 202.81.6.193 remote.scag.com.au
 202.81.6.196 vpn.trafflec.com.au fw.xlit.com.au nvr.xlit.com.au
@@ -71,7 +73,6 @@
 202.81.99.158 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
 202.81.99.159 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
 202.81.99.160 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
-202.81.100.39 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.108.9 login.common.freefiremobile.com www.login.common.freefiremobile.com
 202.81.108.10 login.common.freefiremobile.com www.login.common.freefiremobile.com
 202.81.108.11 login.common.freefiremobile.com www.login.common.freefiremobile.com
@@ -95,12 +96,10 @@
 202.81.109.65 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
 202.81.113.139 ss-receiver.data.garenanow.com
 202.81.113.140 ss-receiver.data.garenanow.com
-202.81.115.71 *.test.sota.insea.io test.sota.insea.io
 202.81.115.72 *.test.sota.insea.io test.sota.insea.io
 202.81.115.95 *.sota.insea.io sota.insea.io
 202.81.115.96 *.sota.insea.io sota.insea.io
 202.81.115.100 *.sota.insea.io sota.insea.io
-202.81.115.101 *.test.sota.insea.io test.sota.insea.io
 202.81.115.185 grafana-mis.sea.com
 202.81.116.206 sato.verzview.com www.sato.verzview.com
 202.81.116.209 adm.deliguru.sg deliguru.sg
@@ -153,6 +152,7 @@
 202.81.217.3 cds-dr2.central-data.net
 202.81.217.10 gopc-dr1.gopc.net
 202.81.217.11 gopc-dr2.gopc.net
+202.81.229.9 zs.coolmi.tk
 202.81.229.12 *.pinge.me pinge.me
 202.81.229.24 jysj101.com www.jysj101.com
 202.81.229.25 jysj101.com www.jysj101.com
@@ -161,6 +161,7 @@
 202.81.229.45 n1.ninreiei.xyz
 202.81.229.46 n2.ninreiei.xyz
 202.81.229.47 n3.ninreiei.xyz
+202.81.229.55 sub.iplcn2.com
 202.81.230.10 lufanla.com www.lufanla.com
 202.81.230.11 youman0010.com www.youman0010.com
 202.81.230.18 www.peiwei.tk
@@ -186,8 +187,10 @@
 202.81.230.115 acgcyw.com www.acgcyw.com
 202.81.230.117 jysj101.com www.jysj101.com
 202.81.230.118 jysj101.com www.jysj101.com
+202.81.230.119 *.4uo.cn 4uo.cn
+202.81.230.121 hk5.liberplus.network
 202.81.230.123 hk0123.owall.cf
-202.81.230.135 test.yaozi1350.cc
+202.81.230.135 hk2.yaozi1350.cc
 202.81.230.148 *.ainivp.com ainivp.com
 202.81.230.156 cdn.jachun.com
 202.81.230.162 nft.lioncandy.top
@@ -198,6 +201,8 @@
 202.81.230.174 sga.catm.cc
 202.81.230.178 hkx.catm.cc
 202.81.230.179 file.gzcd.pw
+202.81.230.183 hk12.netv2.work
+202.81.230.185 hk14.netv2.work
 202.81.230.206 aa.asgood.org
 202.81.230.211 pay.wdnmd.gay
 202.81.230.220 a.egoupai.com
@@ -205,7 +210,7 @@
 202.81.230.223 a.egoupai.com
 202.81.230.224 a.egoupai.com
 202.81.230.225 files.gocoding.cc
-202.81.230.236 *.ao627.com ao627.com
+202.81.230.236 *.ao818.com ao818.com
 202.81.230.243 youman0000.com www.youman0000.com
 202.81.230.244 waverider.pro
 202.81.230.249 hki.catm.cc
@@ -222,12 +227,13 @@
 202.81.231.66 svbm.server.kookxiang.network
 202.81.231.67 cdn.jachun.com
 202.81.231.69 hk.zhzhwcn.com
+202.81.231.71 www.mpojie.net
 202.81.231.80 20.hktv.live
 202.81.231.88 *.rmzbw.com rmzbw.com
 202.81.231.91 hk1091.owall.cf
 202.81.231.94 bb.mpojie.xyz
 202.81.231.105 hkal.catm.cc
-202.81.231.106 waverider.network
+202.81.231.106 waverider.top
 202.81.231.109 imgtu.switch520.com
 202.81.231.138 *.shallserve.cc shallserve.cc
 202.81.231.147 nfvm4.uvdm.dev
@@ -236,22 +242,22 @@
 202.81.231.167 blog.kirikirin.com
 202.81.231.172 panel.glduo.xyz
 202.81.231.177 bbs.library.ac.cn
-202.81.231.195 hk1195.owall.cf
 202.81.231.199 *.tongyifan.me tongyifan.me
 202.81.231.204 *.catpromax.com catpromax.com
-202.81.231.210 waverider.network
+202.81.231.210 waverider.top
 202.81.231.215 koios.worldbook.online
 202.81.231.233 v2hkg.51ssr.club
 202.81.231.245 mensa.org.hk www.mensa.org.hk
 202.81.231.246 mensa.org.hk www.mensa.org.hk
 202.81.232.11 b8c8.com m.b8c8.com www.b8c8.com
 202.81.232.12 *.ohohman.net ohohman.net
+202.81.232.14 jymxyx.xyz
 202.81.232.17 clbq.kaokao8888.xyz
 202.81.232.18 isoc.hk www.isoc.hk
 202.81.232.26 *.q9tech.com q9tech.com
 202.81.232.27 q9tech.netfront.net
 202.81.232.32 *.bitchigo.icu
-202.81.232.130 buy.seeo.shop
+202.81.232.130 shop.seeo.shop
 202.81.234.1 cpanel.netfront.net
 202.81.234.2 cpanel.netfront.net
 202.81.234.3 cpanel.netfront.net
@@ -309,9 +315,8 @@
 202.81.237.194 hk7194.owall.cf
 202.81.238.8 *.hk.com
 202.81.238.18 *.hk.com
-202.81.242.15 ssmgr.xl78693.com
 202.81.242.242 drive.netsoft.me
-202.81.242.251 www.igarment.net
+202.81.242.250 www.igarment.net
 202.81.243.69 www.ldcstudy.net
 202.81.244.244 *.frenzymind.com frenzymind.com
 202.81.244.245 *.frenzymind.com frenzymind.com
