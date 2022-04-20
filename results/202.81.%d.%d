@@ -65,12 +65,12 @@
 202.81.99.12 sg.event.freefiremobile.com www.sg.event.freefiremobile.com
 202.81.99.56 pk.event.freefiremobile.com www.pk.event.freefiremobile.com
 202.81.99.66 pk.network.freefiremobile.com www.pk.network.freefiremobile.com
-202.81.99.84 bd.network.freefiremobile.com www.bd.network.freefiremobile.com
-202.81.99.99 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
-202.81.99.141 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
-202.81.99.158 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
-202.81.99.159 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
-202.81.99.160 bd.event.freefiremobile.com www.bd.event.freefiremobile.com
+202.81.99.84 bd.network.freefiremobile.com
+202.81.99.99 bd.event.freefiremobile.com
+202.81.99.141 bd.event.freefiremobile.com
+202.81.99.158 bd.event.freefiremobile.com
+202.81.99.159 bd.event.freefiremobile.com
+202.81.99.160 bd.event.freefiremobile.com
 202.81.100.39 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.100.68 version.common.ffmax.garena.com
 202.81.108.9 login.common.freefiremobile.com www.login.common.freefiremobile.com
@@ -96,8 +96,6 @@
 202.81.109.65 ind.event.freefiremobile.com www.ind.event.freefiremobile.com
 202.81.113.139 ss-receiver.data.garenanow.com
 202.81.113.140 ss-receiver.data.garenanow.com
-202.81.113.141 cklb.data.garenanow.com
-202.81.113.142 cklb.data.garenanow.com
 202.81.115.71 *.test.sota.insea.io test.sota.insea.io
 202.81.115.72 *.test.sota.insea.io test.sota.insea.io
 202.81.115.95 *.sota.insea.io sota.insea.io
@@ -146,7 +144,7 @@
 202.81.214.176 *.gopc.net gopc.net
 202.81.214.178 *.bankvault.com bankvault.com
 202.81.214.181 global01.bankvaultonline.com global01.govault.net
-202.81.214.183 blog.central-data.net disasterthinking.com.au ecmaust.com ecmaust.com.au ecmportservices.com graemespeak.com www.disasterthinking.com.au www.ecmaust.com www.ecmaust.com.au www.ecmportservices.com www.graemespeak.com
+202.81.214.183 blog.central-data.net disasterthinking.com.au ecmaust.com ecmaust.com.au ecmportservices-new.blog.central-data.net ecmportservices.com graemespeak.com new-ecmaust.blog.central-data.net www.disasterthinking.com.au www.ecmaust.com www.ecmaust.com.au www.ecmportservices.com www.graemespeak.com
 202.81.214.184 *.gopc.net gopc.net
 202.81.214.185 *.gopc.net gopc.net
 202.81.214.186 passwordlessauthentication.com www.passwordlessauthentication.com
@@ -162,26 +160,25 @@
 202.81.229.25 jysj101.com www.jysj101.com
 202.81.229.26 jysj101.com www.jysj101.com
 202.81.229.27 jysj101.com www.jysj101.com
-202.81.229.45 n1.ninreiei.xyz
-202.81.229.46 n2.ninreiei.xyz
-202.81.229.47 n3.ninreiei.xyz
-202.81.229.55 sub.iplcn2.com
+202.81.229.45 hk.ninreiei.jp
 202.81.230.10 lufanla.com www.lufanla.com
 202.81.230.11 youman0010.com www.youman0010.com
 202.81.230.24 hk11.netv2.work
 202.81.230.25 switch520.net www.switch520.net
 202.81.230.35 admin.fastspeed.me
+202.81.230.36 ww.liquiditymining.shop
 202.81.230.40 www.jukergame.net
 202.81.230.45 hk10.netv2.work
 202.81.230.55 daili.gofadacai.tk
 202.81.230.59 hkix3.mfcloud.host
 202.81.230.64 bili.cdnyunjs.com
-202.81.230.66 apps.lanyiit.com
+202.81.230.66 www.lanyiit.com lanyiit.com
 202.81.230.71 *.opcal.xyz
 202.81.230.72 v.weixiaoran.top
 202.81.230.74 xxly6.minirouter.top
 202.81.230.78 xxly6.minirouter.top
 202.81.230.81 acgcyw.com www.acgcyw.com
+202.81.230.86 8188dl.cc www.8188dl.cc
 202.81.230.98 xxly5.minirouter.top
 202.81.230.109 xxly4.minirouter.top
 202.81.230.110 ibushierbaiwu.xyz
@@ -201,7 +198,6 @@
 202.81.230.156 cdn.jachun.com
 202.81.230.162 nft.lioncandy.top
 202.81.230.163 easydog.xyz
-202.81.230.167 o.biubiufly.cc
 202.81.230.168 lin888.xyz
 202.81.230.172 www.384bit.com 384bit.com
 202.81.230.174 sga.catm.cc
@@ -209,7 +205,6 @@
 202.81.230.179 file.gzcd.pw
 202.81.230.183 hk12.netv2.work
 202.81.230.185 hk14.netv2.work
-202.81.230.197 www.whitebox.world whitebox.world
 202.81.230.206 aa.asgood.org
 202.81.230.211 pay.wdnmd.gay
 202.81.230.220 a.egoupai.com
@@ -219,6 +214,7 @@
 202.81.230.236 *.ao818.com ao818.com
 202.81.230.243 youman0000.com www.youman0000.com
 202.81.230.249 hki.catm.cc
+202.81.230.252 hhgyghh.liquiditymining.shop
 202.81.230.253 acgcyw.com www.acgcyw.com
 202.81.231.2 *.netfront.net
 202.81.231.5 *.netfront.net
@@ -257,8 +253,8 @@
 202.81.232.18 isoc.hk www.isoc.hk
 202.81.232.26 *.q9tech.com q9tech.com
 202.81.232.27 q9tech.netfront.net
-202.81.232.32 *.bitchigo.icu
-202.81.232.43 wq.ganjuzx.cn
+202.81.232.43 netfront.fzht.xyz
+202.81.232.48 58dl1.vip www.58dl1.vip
 202.81.234.1 cpanel.netfront.net
 202.81.234.2 cpanel.netfront.net
 202.81.234.3 cpanel.netfront.net
@@ -320,10 +316,6 @@
 202.81.238.18 *.hk.com
 202.81.242.15 ssmgr.xl78693.com
 202.81.242.29 blog.estnoc.com
-202.81.242.59 www.ken0375.xyz
-202.81.242.242 drive.netsoft.me
-202.81.242.250 www.igarment.net
-202.81.242.251 www.igarment.net
 202.81.243.69 www.ldcstudy.net
 202.81.244.244 *.frenzymind.com frenzymind.com
 202.81.244.245 *.frenzymind.com frenzymind.com
@@ -336,6 +328,7 @@
 202.81.250.35 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38 lms.esrichina.hk www.lms.esrichina.hk
 202.81.250.40 ows.esrichina.hk www.ows.esrichina.hk
+202.81.250.48 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51 eleave.esrichina.hk www.eleave.esrichina.hk
 202.81.250.52 240leave.esrichina.hk www.240leave.esrichina.hk
