@@ -3,7 +3,6 @@
 import ssl
 import asyncio
 import socket
-import ipaddress
 import concurrent.futures
 import time
 
@@ -11,116 +10,108 @@ import time
 class DetectIPHTTPS:
 
     def __init__(self) -> None:
-        self.ipset = ''
+        self.A = 0
+        self.B = 0
+        self.port = 443
         self.default_hostname = 'www.cloudflare.com'
         self.max_threads = 32
         self.max_processes = 16
 
-    def start_processes(self, a: int, b: int) -> dict:
-        self.ipset = f'{a}.{b}.%d.%d'
-        results_dict = {}
+    def start_processes(self, a: int, b: int) -> tuple:
+        self.A, self.B = a, b
         with concurrent.futures.ProcessPoolExecutor(max_workers=self.max_processes) as executor:
-            for results in executor.map(self.start_threads, range(0, 256)):
-                for result in results:
-                    results_dict[result[0]] = ' '.join(result[1:])
-        return results_dict
+            results = executor.map(self.start_threads, range(0, 256))
+            results = tuple(data for result in results for data in result)
+        return results
 
-    def start_threads(self, c: int) -> list:
-        results = []
+    def start_threads(self, c: int) -> tuple:
         context = ssl.SSLContext(protocol=ssl.PROTOCOL_TLS_CLIENT)
         context.check_hostname = False
         context.load_default_certs()
         with concurrent.futures.ThreadPoolExecutor(max_workers=self.max_threads) as executor:
             future_to_url = {executor.submit(self.detect, c, d, context): d for d in range(0, 256)}
-            for future in concurrent.futures.as_completed(future_to_url):
-                result = future.result()
-                if len(result) > 1:
-                    results.append(result)
+            results = (future.result() for future in concurrent.futures.as_completed(future_to_url))
+            results = tuple((c, result[0], result[1]) for result in results if result[1])
         return results
 
-    def detect(self, c: int, d: int, context: ssl.SSLContext) -> list:
-        this_ip = self.ipset % (c, d)
-        namelist = [this_ip]
+    def detect(self, c: int, d: int, context: ssl.SSLContext) -> tuple:
+        ip = f'{self.A}.{self.B}.{c}.{d}'
+        data = ''
         with socket.socket(socket.AF_INET, socket.SOCK_STREAM, 0) as sock:
             with context.wrap_socket(sock, server_hostname=self.default_hostname) as conn:
                 try:
-                    conn.connect((this_ip, 443))
+                    conn.connect((ip, self.port))
                     cert = conn.getpeercert()
-                    for each in cert['subjectAltName']:
-                        namelist.append(each[1])
+                    data = tuple(i[1] for i in cert['subjectAltName'])
+                    data = ' '.join(data)
                 except Exception:
                     pass
-        return namelist
+        return (d, data)
 
-    def start_eventloop(self, a: int, b: int, loop: asyncio.unix_events._UnixSelectorEventLoop, sem: asyncio.locks.Semaphore) -> dict:
-        self.ipset = f'{a}.{b}.%d.%d'
-        results_dict = loop.run_until_complete(self.async_create_tasks(sem))
-        return results_dict
+    def start_eventloop(self, a: int, b: int, loop, sem: asyncio.locks.Semaphore) -> tuple:  #loop: asyncio.unix_events._UnixSelectorEventLoop | asyncio.windows_events.ProactorEventLoop
+        self.A, self.B = a, b
+        results = loop.run_until_complete(self.async_create_tasks(sem))
+        return results
 
-    async def async_create_tasks(self, sem: asyncio.locks.Semaphore) -> list:
-        results_dict = {}
+    async def async_create_tasks(self, sem: asyncio.locks.Semaphore) -> tuple:
         context = ssl.SSLContext(protocol=ssl.PROTOCOL_TLS_CLIENT)
         context.check_hostname = False
         context.load_default_certs()
-        tasks = (self.async_start_detect(c, d, context, sem) for c in range(0, 256) for d in range(0, 256))
+        tasks = (self.async_timeout_detect(c, d, context, sem) for c in range(0, 256) for d in range(0, 256))
         results = await asyncio.gather(*tasks)
-        for result in results:
-            if len(result) > 1:
-                results_dict[result[0]] = ' '.join(result[1:])
-        return results_dict
+        return tuple(result for result in results if result[2])
 
-    async def async_start_detect(self, c: int, d: int, context: ssl.SSLContext, sem: asyncio.locks.Semaphore) -> list:
-        this_ip = self.ipset % (c, d)
-        result = []
+    async def async_timeout_detect(self, c: int, d: int, context: ssl.SSLContext, sem: asyncio.locks.Semaphore) -> tuple:
+        data = ''
         async with sem:
             try:
-                result = await asyncio.wait_for(self.async_detect(this_ip, context), 2.0)
+                data = await asyncio.wait_for(self.async_detect(c, d, context), 2.0)
             except asyncio.TimeoutError:
                 pass
-        return result
+        return (c, d, data)
 
-    async def async_detect(self, ip: str, context: ssl.SSLContext) -> list:
-        namelist = [ip]
+    async def async_detect(self, c: int, d: int, context: ssl.SSLContext) -> str:
+        ip = f'{self.A}.{self.B}.{c}.{d}'
+        data = ''
         try:
-            reader, _ = await asyncio.open_connection(host=ip, port=443, ssl=context, server_hostname=self.default_hostname)
+            reader, _ = await asyncio.open_connection(host=ip, port=self.port, ssl=context, server_hostname=self.default_hostname)
             cert = reader._transport.get_extra_info('peercert')
-            for each in cert['subjectAltName']:
-                namelist.append(each[1])
+            cert_tuple = tuple(i[1] for i in cert['subjectAltName'])
+            data = ' '.join(cert_tuple)
         except Exception:
             pass
-        return namelist
+        return data
 
-    def write_to_file(self, results_dict: dict) -> None:
-        sorted_keys = sorted(results_dict.keys(), key=ipaddress.IPv4Address)
-        with open('results/' + self.ipset, 'w') as f:
+    def write_to_file(self, results: tuple) -> None:
+        sorted_results = sorted(results, key=lambda x: (x[0], x[1]))
+        with open(f'results/{self.A}.{self.B}.x.x:{self.port}', 'w') as f:
             f.write('=====Generated by Github Actions=====\n')
-            for key in sorted_keys:
-                f.write(key)
-                f.write(' ')
-                f.write(results_dict[key])
-                f.write('\n')
+            for result in sorted_results:
+                f.write(f'{self.A}.{self.B}.{result[0]}.{result[1]}:{self.port} {result[2]}\n')
 
 
 if __name__ == '__main__':
-    # detect 202.81.0.0/16
     mydetect = DetectIPHTTPS()
 
     start = time.perf_counter()
     loop = asyncio.new_event_loop()
     asyncio.set_event_loop(loop)
     sem = asyncio.Semaphore(512)
-    results_dict_1 = mydetect.start_eventloop(202, 81, loop, sem)
+    # detect 202.81.0.0/16
+    results_1 = mydetect.start_eventloop(202, 81, loop, sem)
     stop = time.perf_counter()
     print(stop - start)
 
-    print(len(results_dict_1))
-    mydetect.write_to_file(results_dict_1)
+    print(len(results_1))
+    mydetect.write_to_file(results_1)
+
+    #There are some problems when using multiprocessing in this program: too much memory is used. Using Asyncio is a more efficient way
 
     #socket.setdefaulttimeout(2)
     #start = time.perf_counter()
-    #results_dict_2 = mydetect.start_processes(202, 81)
+    #results_2 = mydetect.start_processes(202, 81)
     #stop = time.perf_counter()
     #print(stop - start)
 
-    #results_dict = results_dict_1 if len(results_dict_1) > len(results_dict_2) else results_dict_2
-    #mydetect.write_to_file(results_dict)
+    #print(len(results_2))
+    #mydetect.write_to_file(results_2)
