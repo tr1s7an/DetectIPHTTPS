@@ -103,7 +103,6 @@
 202.81.115.96:443 *.sota.insea.io sota.insea.io
 202.81.115.100:443 *.sota.insea.io sota.insea.io
 202.81.115.101:443 *.test.sota.insea.io test.sota.insea.io
-202.81.115.185:443 grafana-mis.sea.com
 202.81.116.122:443 confluence.garenanow.com
 202.81.116.141:443 confluence.garenanow.com
 202.81.116.146:443 confluence.garenanow.com
@@ -128,11 +127,9 @@
 202.81.119.18:443 version.common.ff.garena.com
 202.81.119.19:443 version.common.ff.garena.com
 202.81.119.20:443 version.common.ff.garena.com
-202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
+202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
-202.81.155.11:443 202.81.155.11
-202.81.155.12:443 202.81.155.12
 202.81.155.43:443 202.81.155.43
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
 202.81.214.134:443 api.bankvaultonline.com api01.bankvaultonline.com
@@ -166,8 +163,8 @@
 202.81.229.26:443 jysj101.com www.jysj101.com
 202.81.229.27:443 jysj101.com www.jysj101.com
 202.81.229.38:443 xsw.ganjuzx.cn
+202.81.229.56:443 hko.ninreiei.jp
 202.81.230.10:443 liehao.cc www.liehao.cc
-202.81.230.11:443 youman0010.com www.youman0010.com
 202.81.230.24:443 hk11.netv2.work
 202.81.230.35:443 admin.fastspeed.me
 202.81.230.40:443 www.jukergame.net
@@ -206,13 +203,12 @@
 202.81.230.206:443 aa.asgood.org
 202.81.230.211:443 *.ropp.it ropp.it
 202.81.230.236:443 *.ao818.com ao818.com
-202.81.230.243:443 youman0000.com www.youman0000.com
 202.81.230.249:443 hki.catm.cc
 202.81.230.251:443 hk4.feuler.tk
-202.81.230.252:443 hhgyghh.liquiditymining.shop
 202.81.230.253:443 acgcyw.com www.acgcyw.com
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
+202.81.231.34:443 gitea.inuyasha.love
 202.81.231.47:443 e6.yuer.cool
 202.81.231.50:443 md5.fuckgov.net
 202.81.231.66:443 svbm.server.kookxiang.network
@@ -240,9 +236,9 @@
 202.81.231.245:443 mensa.org.hk www.mensa.org.hk
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
 202.81.232.12:443 *.ohohman.net ohohman.net
-202.81.232.14:443 jymxyx.xyz
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.20:443 net.jiess.top
+202.81.232.21:443 blog.jpxgyw.vip
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 q9tech.netfront.net
 202.81.232.48:443 58dl1.vip www.58dl1.vip
@@ -300,9 +296,8 @@
 202.81.237.202:443 hkf.mobox.xyz
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
-202.81.242.15:443 ssmgr.xl78693.com
-202.81.242.29:443 blog.estnoc.com
 202.81.242.59:443 www.ken0375.xyz
+202.81.242.109:443 api.huatuben.com
 202.81.242.250:443 www.igarment.net
 202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
