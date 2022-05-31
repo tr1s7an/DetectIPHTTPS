@@ -2,7 +2,6 @@ package main
 
 import (
 	"crypto/tls"
-	"crypto/x509"
 	"flag"
 	"fmt"
 	"net"
@@ -17,7 +16,6 @@ var (
 	OriginCIDR  string
 	Port        int
 	Concurrency int
-	CAPath      string
 	ParsedCIDR  string
 )
 
@@ -30,26 +28,19 @@ func init() {
 	flag.StringVar(&OriginCIDR, "C", "202.81.0.0/16", "IPs that's scanned")
 	flag.IntVar(&Port, "P", 443, "port that's scanned")
 	flag.IntVar(&Concurrency, "T", 512, "max goroutines")
-	flag.StringVar(&CAPath, "CA", "/etc/ssl/certs/ca-certificates.crt", "CA path")
 	flag.Parse()
 }
 
 func getTlsConfig() *tls.Config {
-	caCert, err := os.ReadFile(CAPath)
-	if err != nil {
-		panic(err)
-	}
-	caCertPool := x509.NewCertPool()
-	caCertPool.AppendCertsFromPEM(caCert)
 	return &tls.Config{
 		InsecureSkipVerify: true,
 		ServerName:         "www.cloudflare.com",
-		RootCAs:            caCertPool,
+		RootCAs:            nil,
 	}
 }
 
-func detect(host string, conf *tls.Config) string {
-	conn, err := tls.DialWithDialer(&net.Dialer{Timeout: 2 * time.Second}, "tcp", host, conf)
+func detect(host string, tlsConfig *tls.Config) string {
+	conn, err := tls.DialWithDialer(&net.Dialer{Timeout: 3 * time.Second}, "tcp", host, tlsConfig)
 	if err != nil {
 		//fmt.Printf("%T, %s\n", err, err)
 		return ""
@@ -67,18 +58,18 @@ func writeResults(results *[]result) {
 	})
 	dir := "results"
 	os.Mkdir(dir, 0755)
-	filepath := fmt.Sprintf("%s/%s:%d", dir, strings.ReplaceAll(ParsedCIDR, "/", "_"), Port)
+	filepath := fmt.Sprintf("%s/%s_%d", dir, strings.ReplaceAll(ParsedCIDR, "/", "_"), Port)
 	fmt.Println(filepath)
-	_, err := os.Stat(filepath)
-	if !os.IsNotExist(err) {
-		os.Rename(filepath, filepath+".bck")
-	}
+	//_, err := os.Stat(filepath)
+	//if !os.IsNotExist(err) {
+	//	os.Rename(filepath, filepath+".bck")
+	//}
 
-	f, err := os.OpenFile(filepath, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	f, err := os.OpenFile(filepath, os.O_TRUNC|os.O_CREATE|os.O_WRONLY, 0644)
 	if err != nil {
 		fmt.Println(err)
 	}
-	for _, data := range *results {
+	for _, data := range (*results) {
 		line := fmt.Sprintf("%s:%d %s\n", data.IP.String(), Port, data.Name)
 		if _, err := f.Write([]byte(line)); err != nil {
 			f.Close() // ignore error; Write error takes precedence
@@ -91,7 +82,7 @@ func writeResults(results *[]result) {
 }
 
 func main() {
-	conf := getTlsConfig()
+	tlsConfig := getTlsConfig()
 	results := make([]result, 0)
 	sem := make(chan bool, Concurrency)
 
@@ -104,14 +95,14 @@ func main() {
 
 	for ip := prefix.Addr(); prefix.Contains(ip); ip = ip.Next() {
 		sem <- true
-		go func(ip netip.Addr, conf *tls.Config) {
+		go func(ip netip.Addr, tlsConfig *tls.Config) {
 			defer func() { <-sem }()
 			host := fmt.Sprintf("%s:%d", ip.String(), Port)
-			name := detect(host, conf)
+			name := detect(host, tlsConfig)
 			if len(name) > 0 {
 				results = append(results, result{IP: ip, Name: name})
 			}
-		}(ip, conf)
+		}(ip, tlsConfig)
 	}
 	for i := 0; i < cap(sem); i++ {
 		sem <- true
