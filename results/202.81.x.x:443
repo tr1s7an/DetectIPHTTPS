@@ -4,7 +4,6 @@
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.53:443 remote.mww.org.au www.remote.mww.org.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
-202.81.4.88:443 mail.armadalerealestate.com.au www.mail.armadalerealestate.com.au
 202.81.4.91:443 rdgw.mtmalcolm.com.au www.rdgw.mtmalcolm.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 acerds.australce.com www.acerds.australce.com
@@ -13,7 +12,6 @@
 202.81.4.122:443 *.coorow.wa.gov.au coorow.wa.gov.au
 202.81.4.167:443 rdgw.ardearesources.com.au www.rdgw.ardearesources.com.au
 202.81.4.174:443 *.dumbleyung.wa.gov.au dumbleyung.wa.gov.au
-202.81.4.188:443 innapi.rosecrown.com.au
 202.81.4.230:443 www.mywdms.com mywdms.com
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
@@ -33,6 +31,7 @@
 202.81.52.67:443 nms.mld.id
 202.81.52.108:443 crm.mld.id www.crm.mld.id
 202.81.52.109:443 vp1.mld.id
+202.81.63.80:443 winartid.com www.winartid.com
 202.81.63.234:443 member.imfiber.id
 202.81.96.8:443 gmoni1.garenanow.com
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
@@ -40,7 +39,6 @@
 202.81.96.132:443 sss.garenanow.com
 202.81.96.136:443 dgd.security.garenanow.com www.dgd.security.garenanow.com
 202.81.96.137:443 dgd.security.garenanow.com www.dgd.security.garenanow.com
-202.81.97.26:443 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.97.33:443 client.ind.freefiremobile.com www.client.ind.freefiremobile.com
 202.81.97.34:443 client.ind.freefiremobile.com www.client.ind.freefiremobile.com
 202.81.97.35:443 client.ind.freefiremobile.com www.client.ind.freefiremobile.com
@@ -66,12 +64,9 @@
 202.81.99.56:443 pk.event.freefiremobile.com www.pk.event.freefiremobile.com
 202.81.99.66:443 pk.network.freefiremobile.com www.pk.network.freefiremobile.com
 202.81.99.84:443 bd.network.freefiremobile.com
-202.81.99.99:443 bd.event.freefiremobile.com
-202.81.99.141:443 bd.event.freefiremobile.com
 202.81.99.158:443 bd.event.freefiremobile.com
 202.81.99.159:443 bd.event.freefiremobile.com
 202.81.99.160:443 bd.event.freefiremobile.com
-202.81.100.39:443 version.common.freefiremobile.com www.version.common.freefiremobile.com
 202.81.100.68:443 version.common.ffmax.garena.com
 202.81.108.9:443 login.common.freefiremobile.com
 202.81.108.10:443 login.common.freefiremobile.com
@@ -103,6 +98,7 @@
 202.81.115.96:443 *.sota.insea.io sota.insea.io
 202.81.115.100:443 *.sota.insea.io sota.insea.io
 202.81.115.101:443 *.test.sota.insea.io test.sota.insea.io
+202.81.115.185:443 grafana-mis.sea.com
 202.81.116.122:443 confluence.garenanow.com
 202.81.116.141:443 confluence.garenanow.com
 202.81.116.146:443 confluence.garenanow.com
@@ -127,9 +123,10 @@
 202.81.119.18:443 version.common.ff.garena.com
 202.81.119.19:443 version.common.ff.garena.com
 202.81.119.20:443 version.common.ff.garena.com
-202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
+202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
+202.81.155.11:443 202.81.155.11
 202.81.155.43:443 202.81.155.43
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
 202.81.214.134:443 api.bankvaultonline.com api01.bankvaultonline.com
@@ -163,15 +160,13 @@
 202.81.229.26:443 jysj101.com www.jysj101.com
 202.81.229.27:443 jysj101.com www.jysj101.com
 202.81.229.38:443 xsw.ganjuzx.cn
-202.81.229.56:443 hko.ninreiei.jp
+202.81.229.45:443 hk.nf.fnyun.cyou
 202.81.230.10:443 liehao.cc www.liehao.cc
-202.81.230.24:443 hk11.netv2.work
 202.81.230.35:443 admin.fastspeed.me
 202.81.230.40:443 www.jukergame.net
 202.81.230.45:443 hk10.netv2.work
 202.81.230.55:443 daili.gofadacai.tk
 202.81.230.59:443 hkix3.mfcloud.host
-202.81.230.64:443 bili.cdnyunjs.com
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.74:443 xxly6.minirouter.top
 202.81.230.78:443 xxly6.minirouter.top
@@ -188,7 +183,7 @@
 202.81.230.117:443 jysj101.com www.jysj101.com
 202.81.230.118:443 jysj101.com www.jysj101.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.123:443 hk0123.worldbook.online
+202.81.230.123:443 chaos.nuist.cf
 202.81.230.146:443 *.igod.shop igod.shop
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
@@ -200,9 +195,16 @@
 202.81.230.179:443 file.gzcd.pw
 202.81.230.183:443 hk12.netv2.work
 202.81.230.185:443 hk14.netv2.work
+202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.xyz
+202.81.230.202:443 waverider.works
 202.81.230.206:443 aa.asgood.org
 202.81.230.211:443 *.ropp.it ropp.it
+202.81.230.213:443 zone-c-cn2-hk-e.aliddnsdog.xyz
+202.81.230.214:443 zone-c-cn2-hk-c.aliddnsdog.xyz
+202.81.230.218:443 waverider.one
+202.81.230.222:443 waverider.pro
 202.81.230.236:443 *.ao818.com ao818.com
+202.81.230.244:443 waverider.pro
 202.81.230.249:443 hki.catm.cc
 202.81.230.251:443 hk4.feuler.tk
 202.81.230.253:443 acgcyw.com www.acgcyw.com
@@ -220,6 +222,7 @@
 202.81.231.91:443 hk1091.worldbook.online
 202.81.231.94:443 dd.mpojie.xyz
 202.81.231.105:443 hkal.catm.cc
+202.81.231.106:443 waverider.top
 202.81.231.109:443 gamei520.com www.gamei520.com
 202.81.231.138:443 *.shallserve.cc shallserve.cc
 202.81.231.147:443 nfvm4.uvdm.dev
@@ -231,7 +234,9 @@
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com catpromax.com
+202.81.231.210:443 waverider.top
 202.81.231.215:443 koios.nuist.cf
+202.81.231.224:443 waverider.one
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.231.245:443 mensa.org.hk www.mensa.org.hk
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
@@ -241,21 +246,21 @@
 202.81.232.21:443 blog.jpxgyw.vip
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 q9tech.netfront.net
+202.81.232.28:443 asd.cfatoken.site
 202.81.232.48:443 58dl1.vip www.58dl1.vip
 202.81.232.65:443 www.cptbomb.xyz
-202.81.232.66:443 www.xinsj2022.xyz
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
 202.81.234.4:443 cpanel.netfront.net
-202.81.234.5:443 cpanel.netfront.net
 202.81.234.6:443 sub.iplcn2.com
 202.81.234.7:443 *.xe166.com xe166.com
 202.81.234.8:443 cpanel.netfront.net
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
 202.81.234.10:443 cpanel.netfront.net
-202.81.234.37:443 *.ccp-lies.com *.ccp-lies.org ccp-lies.com ccp-lies.org
+202.81.234.37:443 *.ccp-lies.com ccp-lies.com
 202.81.234.88:443 cpanel.netfront.net
+202.81.235.12:443 waverider.quest
 202.81.235.14:443 *.ibugone.com *.s.ibugone.com *.taokystrong.com *.ustc.ibugone.com ibugone.com taokystrong.com
 202.81.235.26:443 hk004.minirouter.top
 202.81.235.30:443 www.skymanhua.cc skymanhua.cc
@@ -275,6 +280,7 @@
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
 202.81.237.21:443 www.kkiikk02.top
+202.81.237.23:443 zone-c-cn2-hk-e.aliddnsdog.xyz
 202.81.237.70:443 pontus.nuist.cf
 202.81.237.74:443 *.55225522.xyz 55225522.xyz
 202.81.237.79:443 cdn.jachun.com
@@ -287,18 +293,16 @@
 202.81.237.121:443 *.shallserve.cc shallserve.cc
 202.81.237.128:443 *.shallserve.cc shallserve.cc
 202.81.237.130:443 *.shallserve.cc shallserve.cc
-202.81.237.137:443 hk7137.worldbook.online
-202.81.237.140:443 v2.xinz.online
+202.81.237.140:443 24jun.com www.24jun.com
 202.81.237.145:443 adservice.its1.net
 202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.194:443 hk7194.worldbook.online
 202.81.237.197:443 status.ofly.xyz
 202.81.237.202:443 hkf.mobox.xyz
-202.81.238.8:443 *.hk.com
-202.81.238.18:443 *.hk.com
-202.81.242.59:443 www.ken0375.xyz
+202.81.242.15:443 ssmgr.xl78693.com
+202.81.242.29:443 blog.estnoc.com
 202.81.242.109:443 api.huatuben.com
-202.81.242.250:443 www.igarment.net
+202.81.242.242:443 drive.netsoft.me
 202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 *.frenzymind.com frenzymind.com
