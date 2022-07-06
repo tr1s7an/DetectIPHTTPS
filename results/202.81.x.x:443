@@ -31,33 +31,11 @@
 202.81.52.67:443 nms.mld.id
 202.81.52.108:443 crm.mld.id www.crm.mld.id
 202.81.52.109:443 vp1.mld.id
-202.81.52.172:443 ast.digimon.my.id
-202.81.52.173:443 ast.digimon.my.id
 202.81.63.80:443 winartid.com www.winartid.com
 202.81.63.234:443 member.imfiber.id
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
 202.81.96.58:443 blog.security.sea.com
 202.81.97.26:443 version.common.freefiremobile.com
-202.81.97.33:443 client.ind.freefiremobile.com
-202.81.97.34:443 client.ind.freefiremobile.com
-202.81.97.35:443 client.ind.freefiremobile.com
-202.81.97.40:443 client.ind.freefiremobile.com
-202.81.97.41:443 client.ind.freefiremobile.com
-202.81.97.42:443 client.ind.freefiremobile.com
-202.81.97.43:443 client.ind.freefiremobile.com
-202.81.97.44:443 client.ind.freefiremobile.com
-202.81.97.45:443 client.ind.freefiremobile.com
-202.81.97.46:443 client.ind.freefiremobile.com
-202.81.97.47:443 client.ind.freefiremobile.com
-202.81.97.58:443 client.ind.freefiremobile.com
-202.81.97.59:443 client.ind.freefiremobile.com
-202.81.97.60:443 client.ind.freefiremobile.com
-202.81.97.61:443 client.ind.freefiremobile.com
-202.81.97.62:443 client.ind.freefiremobile.com
-202.81.97.70:443 client.ind.freefiremobile.com
-202.81.97.71:443 client.ind.freefiremobile.com
-202.81.97.72:443 client.ind.freefiremobile.com
-202.81.97.73:443 client.ind.freefiremobile.com
 202.81.99.6:443 sg.network.freefiremobile.com www.sg.network.freefiremobile.com
 202.81.99.12:443 sg.event.freefiremobile.com www.sg.event.freefiremobile.com
 202.81.99.56:443 pk.event.freefiremobile.com www.pk.event.freefiremobile.com
@@ -111,6 +89,7 @@
 202.81.116.122:443 confluence.garenanow.com
 202.81.116.141:443 confluence.garenanow.com
 202.81.116.146:443 confluence.garenanow.com
+202.81.116.171:443 learn-ops.tech www.learn-ops.tech
 202.81.116.209:443 adm.deliguru.sg deliguru.sg gl.deliguru.sg
 202.81.119.1:443 version.common.freefiremobile.com
 202.81.119.2:443 version.common.freefiremobile.com
@@ -132,13 +111,14 @@
 202.81.119.18:443 version.common.ff.garena.com
 202.81.119.19:443 version.common.ff.garena.com
 202.81.119.20:443 version.common.ff.garena.com
-202.81.119.83:443 bd.event.freefiremobile.com
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.43:443 202.81.155.43
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
+202.81.208.155:443 kbapi.govault.net
+202.81.208.156:443 passwordless.govault.net
 202.81.208.161:443 backup.central-data.net
 202.81.214.134:443 api.bankvaultonline.com api01.bankvaultonline.com
 202.81.214.141:443 *.bankvault.com bankvault.com
@@ -164,18 +144,19 @@
 202.81.217.3:443 cds-dr2.central-data.net
 202.81.217.10:443 gopc-dr1.gopc.net
 202.81.217.11:443 gopc-dr2.gopc.net
+202.81.229.6:443 *.shallserve.cc shallserve.cc
+202.81.229.9:443 zs.coolmi.tk
 202.81.229.12:443 *.pinge.me pinge.me
 202.81.229.25:443 netfront.aodun.co
 202.81.229.26:443 netfront.aodun.co
 202.81.229.27:443 netfront.aodun.co
+202.81.229.34:443 lhs683.com www.lhs683.com
 202.81.229.37:443 netfront.aodun.co
-202.81.229.38:443 xsw.ganjuzx.cn
-202.81.229.45:443 hk.nf.fnyun.cyou
-202.81.230.18:443 hk.aliyun.fnyun.cyou
+202.81.229.45:443 hk2.nf.fnyun.cyou
+202.81.230.18:443 hk.nf.fnyun.cyou
 202.81.230.24:443 hk11.netv2.work
 202.81.230.35:443 imgtu.free520.net imgtu2.free520.net
 202.81.230.40:443 www.jukergame.net
-202.81.230.45:443 hk10.netv2.work
 202.81.230.55:443 daili.gofadacai.tk
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.74:443 xxly6.minirouter.top
@@ -187,6 +168,7 @@
 202.81.230.112:443 20.hktv.live
 202.81.230.115:443 acgcyw.com www.acgcyw.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
+202.81.230.122:443 hk.tianji.me
 202.81.230.123:443 chaos.nuist.cf
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
@@ -204,13 +186,14 @@
 202.81.230.214:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.218:443 waverider.one
 202.81.230.222:443 waverider.pro
-202.81.230.236:443 *.ao818.com ao818.com
+202.81.230.236:443 admin.ao618.com ag.ao618.com ao618.com
 202.81.230.244:443 waverider.pro
 202.81.230.249:443 hki.catm.cc
 202.81.230.253:443 acgcyw.com www.acgcyw.com
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.34:443 gitea.inuyasha.love
+202.81.231.35:443 july.deanand.com
 202.81.231.47:443 e6.yuer.cool
 202.81.231.50:443 md5.fuckgov.net
 202.81.231.66:443 svbm.server.kookxiang.network
@@ -218,6 +201,7 @@
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.71:443 www.mpojie.net
 202.81.231.80:443 20.hktv.live
+202.81.231.87:443 hk.tianji.me
 202.81.231.88:443 *.rmzbw.com rmzbw.com
 202.81.231.91:443 hk1091.worldbook.online
 202.81.231.94:443 dd.mpojie.xyz
@@ -237,6 +221,7 @@
 202.81.231.215:443 koios.nuist.cf
 202.81.231.224:443 waverider.one
 202.81.231.233:443 v2hkg.51ssr.club
+202.81.231.234:443 hk.tianji.me
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
@@ -245,6 +230,7 @@
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
 202.81.234.4:443 cpanel.netfront.net
+202.81.234.5:443 cpanel.netfront.net
 202.81.234.6:443 sub.iplcn2.com
 202.81.234.7:443 *.xe166.com xe166.com
 202.81.234.8:443 cpanel.netfront.net
@@ -294,14 +280,11 @@
 202.81.237.197:443 status.ofly.xyz
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ak.juyoua.cn
+202.81.237.225:443 hk.tianji.me
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
-202.81.242.15:443 ssmgr.xl78693.com
-202.81.242.29:443 blog.estnoc.com
-202.81.242.59:443 www.ken0375.xyz
-202.81.242.109:443 api.huatuben.com
+202.81.242.242:443 drive.netsoft.me
 202.81.242.250:443 www.igarment.net
-202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 *.frenzymind.com frenzymind.com
 202.81.244.245:443 *.frenzymind.com frenzymind.com
@@ -319,14 +302,24 @@
 202.81.250.52:443 240leave.esrichina.hk www.240leave.esrichina.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
+202.81.252.15:443 *.netfront.net
+202.81.252.16:443 *.netfront.net
+202.81.252.17:443 *.netfront.net
+202.81.252.18:443 *.netfront.net
 202.81.252.23:443 *.netfront.net
 202.81.252.35:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.36:443 *.netfront.net
 202.81.252.41:443 *.netfront.net
+202.81.252.46:443 *.netfront.net
+202.81.252.47:443 *.netfront.net
 202.81.252.48:443 procommons.hk procommons.org.hk www.procommons.hk www.procommons.org.hk
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
+202.81.252.240:443 *.netfront.net
+202.81.252.241:443 *.netfront.net
+202.81.252.243:443 *.netfront.net
+202.81.252.244:443 *.netfront.net
 202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
 202.81.252.246:443 cpanel.netfront.net
