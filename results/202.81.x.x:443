@@ -31,7 +31,6 @@
 202.81.52.67:443 nms.mld.id
 202.81.52.108:443 crm.mld.id www.crm.mld.id
 202.81.52.109:443 vp1.mld.id
-202.81.52.171:443 adminkms-kadin.sandbox-138957.com
 202.81.63.80:443 winartid.com www.winartid.com
 202.81.63.234:443 member.imfiber.id
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
@@ -159,8 +158,6 @@
 202.81.229.70:443 gjny.uno
 202.81.229.71:443 gjny.uno
 202.81.230.7:443 *.onsnow.info onsnow.info
-202.81.230.18:443 hk.nf.fnyun.cyou
-202.81.230.24:443 hk11.netv2.work
 202.81.230.35:443 imgtu.free520.net imgtu2.free520.net
 202.81.230.40:443 www.jukergame.net
 202.81.230.45:443 hk10.netv2.work
@@ -169,16 +166,15 @@
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.74:443 xxly6.minirouter.top
 202.81.230.78:443 xxly6.minirouter.top
-202.81.230.81:443 acgcyw.com www.acgcyw.com
 202.81.230.98:443 xxly5.minirouter.top
 202.81.230.109:443 xxly4.minirouter.top
 202.81.230.110:443 ibushierbaiwu.xyz
 202.81.230.112:443 20.hktv.live
-202.81.230.115:443 acgcyw.com www.acgcyw.com
 202.81.230.117:443 eyesprite.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.122:443 hk.tianji.me
 202.81.230.123:443 chaos.nuist.cf
+202.81.230.133:443 wk.hoox.top
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
 202.81.230.163:443 easydog.xyz
@@ -205,10 +201,9 @@
 202.81.230.224:443 ofly.bar
 202.81.230.244:443 waverider.pro
 202.81.230.249:443 hki.catm.cc
-202.81.230.253:443 acgcyw.com www.acgcyw.com
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.34:443 gitea.inuyasha.love
+202.81.231.34:443 blog.inuyasha.love
 202.81.231.35:443 july.deanand.com
 202.81.231.47:443 e6.yuer.cool
 202.81.231.50:443 md5.fuckgov.net
@@ -219,11 +214,13 @@
 202.81.231.80:443 20.hktv.live
 202.81.231.87:443 hk.tianji.me
 202.81.231.88:443 *.rmzbw.com rmzbw.com
+202.81.231.91:443 hk1091.worldbook.online
 202.81.231.94:443 dd.mpojie.xyz
 202.81.231.105:443 hkal.catm.cc
 202.81.231.106:443 waverider.top
 202.81.231.138:443 *.shallserve.cc shallserve.cc
 202.81.231.150:443 *.www.cloudflare.com www.cloudflare.com
+202.81.231.156:443 hk1156.worldbook.online
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 panel.glduo.xyz
 202.81.231.177:443 bbs.library.ac.cn
@@ -232,6 +229,7 @@
 202.81.231.204:443 *.catpromax.com catpromax.com
 202.81.231.207:443 ak.juyoua.cn
 202.81.231.210:443 waverider.top
+202.81.231.215:443 koios.nuist.cf
 202.81.231.224:443 waverider.one
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.231.234:443 hk.tianji.me
@@ -265,15 +263,22 @@
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
 202.81.235.70:443 *.coz.moe
+202.81.235.75:443 ourea.nuist.cf
 202.81.235.96:443 rss.ikenway.net
+202.81.235.119:443 hk5119.worldbook.online
 202.81.235.137:443 hyoukyou.moe
+202.81.235.175:443 *.smartparking.app smartparking.app
+202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
+202.81.237.14:443 *.smartparking.app smartparking.app
+202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.16:443 ofly.bar
 202.81.237.21:443 www.kkiikk02.top
 202.81.237.23:443 zone-c-cn2-hk-e.aliddnsdog.dev
 202.81.237.38:443 ak.juyoua.cn
+202.81.237.70:443 pontus.nuist.cf
 202.81.237.74:443 *.55225522.xyz 55225522.xyz
 202.81.237.79:443 cdn.jachun.com
 202.81.237.101:443 www.kkiikk02.top
@@ -284,16 +289,20 @@
 202.81.237.121:443 *.shallserve.cc shallserve.cc
 202.81.237.128:443 *.shallserve.cc shallserve.cc
 202.81.237.130:443 *.shallserve.cc shallserve.cc
+202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.susen.me susen.me
 202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.191:443 ak.juyoua.cn
+202.81.237.194:443 scholar.ustc.cf
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ak.juyoua.cn
 202.81.237.225:443 hk.tianji.me
+202.81.237.238:443 hk1.feuler.tk
+202.81.238.8:443 *.hk.com
+202.81.238.18:443 *.hk.com
 202.81.242.15:443 ssmgr.xl78693.com
-202.81.242.59:443 www.ken0375.xyz
-202.81.242.71:443 sv1yhktra1.155cc.xyz
 202.81.242.109:443 *.littleturk.com littleturk.com
+202.81.242.121:443 hk.chenhao.net
 202.81.242.242:443 drive.netsoft.me
 202.81.242.250:443 www.igarment.net
 202.81.242.251:443 www.igarment.net
@@ -327,7 +336,6 @@
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
-202.81.252.176:443 *.netfront.net
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
