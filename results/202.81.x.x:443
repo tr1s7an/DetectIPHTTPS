@@ -8,7 +8,6 @@
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 acerds.australce.com www.acerds.australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au autodiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
-202.81.4.117:443 remote.oneresidential.com.au www.remote.oneresidential.com.au
 202.81.4.122:443 *.coorow.wa.gov.au coorow.wa.gov.au
 202.81.4.167:443 rdgw.ardearesources.com.au www.rdgw.ardearesources.com.au
 202.81.4.174:443 *.dumbleyung.wa.gov.au dumbleyung.wa.gov.au
@@ -16,12 +15,11 @@
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.6.29:443 *.smileteam.com.au smileteam.com.au
-202.81.6.32:443 remote.pbllaw.com
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.74:443 riteq.wslc.com.au www.riteq.wslc.com.au mobile.wslc.com.au ess.wslc.com.au
 202.81.6.102:443 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
 202.81.6.193:443 remote.scag.com.au
-202.81.6.196:443 vpn.trafflec.com.au fw.xlit.com.au nvr.xlit.com.au
+202.81.6.196:443 vpn.trafflec.com.au www.vpn.trafflec.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au ausdisability.com.au
 202.81.13.109:443 xn--p8jtctewau.com
@@ -31,7 +29,6 @@
 202.81.52.67:443 nms.mld.id
 202.81.52.108:443 crm.mld.id www.crm.mld.id
 202.81.52.109:443 vp1.mld.id
-202.81.63.80:443 winartid.com www.winartid.com
 202.81.63.234:443 member.imfiber.id
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
 202.81.96.58:443 blog.security.sea.com
@@ -112,6 +109,7 @@
 202.81.119.19:443 version.common.ff.garena.com
 202.81.119.20:443 version.common.ff.garena.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
+202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
@@ -203,9 +201,11 @@
 202.81.230.249:443 hki.catm.cc
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.34:443 blog.inuyasha.love
+202.81.231.34:443 www.youmu.love youmu.love
 202.81.231.35:443 july.deanand.com
-202.81.231.47:443 e6.yuer.cool
+202.81.231.45:443 wk.hoox.top
+202.81.231.46:443 wk.hoox.top
+202.81.231.48:443 wk.hoox.top
 202.81.231.50:443 md5.fuckgov.net
 202.81.231.66:443 svbm.server.kookxiang.network
 202.81.231.67:443 cdn.jachun.com
@@ -301,13 +301,12 @@
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
 202.81.242.15:443 ssmgr.xl78693.com
-202.81.242.109:443 *.littleturk.com littleturk.com
+202.81.242.50:443 socket.defidaodapp.com
+202.81.242.59:443 www.ken0375.xyz
 202.81.242.121:443 hk.chenhao.net
 202.81.242.242:443 drive.netsoft.me
-202.81.242.250:443 www.igarment.net
 202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
-202.81.244.244:443 *.frenzymind.com frenzymind.com
 202.81.244.245:443 *.frenzymind.com frenzymind.com
 202.81.245.99:443 meeting.securli.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
@@ -316,7 +315,6 @@
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esrichina.hk www.lms.esrichina.hk
 202.81.250.40:443 ows.esrichina.hk www.ows.esrichina.hk
-202.81.250.48:443 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50:443 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51:443 eleave.esrichina.hk www.eleave.esrichina.hk
 202.81.250.52:443 240leave.esrichina.hk www.240leave.esrichina.hk
@@ -336,6 +334,7 @@
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
+202.81.252.176:443 *.netfront.net
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
