@@ -33,10 +33,6 @@
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
 202.81.96.58:443 blog.security.sea.com
 202.81.97.26:443 version.common.freefiremobile.com
-202.81.99.6:443 sg.network.freefiremobile.com www.sg.network.freefiremobile.com
-202.81.99.12:443 sg.event.freefiremobile.com www.sg.event.freefiremobile.com
-202.81.99.56:443 pk.event.freefiremobile.com www.pk.event.freefiremobile.com
-202.81.99.66:443 pk.network.freefiremobile.com www.pk.network.freefiremobile.com
 202.81.99.84:443 bd.network.freefiremobile.com
 202.81.99.158:443 bd.event.freefiremobile.com
 202.81.99.159:443 bd.event.freefiremobile.com
@@ -143,7 +139,6 @@
 202.81.229.6:443 *.shallserve.cc shallserve.cc
 202.81.229.9:443 zs.coolmi.tk
 202.81.229.12:443 *.pinge.me pinge.me
-202.81.229.34:443 lhs683.com www.lhs683.com
 202.81.229.54:443 zgcc.site
 202.81.229.57:443 zgcc.site
 202.81.229.59:443 zgcc.site
@@ -154,7 +149,7 @@
 202.81.229.71:443 gjny.uno
 202.81.230.7:443 *.onsnow.info onsnow.info
 202.81.230.24:443 hk11.netv2.work
-202.81.230.35:443 imgtu.free520.net imgtu2.free520.net
+202.81.230.35:443 gofile.free520.net
 202.81.230.40:443 www.jukergame.net
 202.81.230.45:443 hk10.netv2.work
 202.81.230.55:443 daili.gofadacai.tk
@@ -171,7 +166,6 @@
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.122:443 hk.tianji.me
 202.81.230.123:443 chaos.nuist.cf
-202.81.230.133:443 wk.hoox.top
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
 202.81.230.163:443 easydog.xyz
@@ -188,7 +182,6 @@
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
 202.81.230.211:443 *.ropp.it ropp.it
-202.81.230.213:443 zone-c-cn2-hk-e.aliddnsdog.dev
 202.81.230.214:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.218:443 waverider.one
 202.81.230.220:443 ofly.bar
@@ -201,10 +194,7 @@
 202.81.231.5:443 *.netfront.net
 202.81.231.34:443 www.youmu.love youmu.love
 202.81.231.35:443 july.deanand.com
-202.81.231.45:443 wk.hoox.top
-202.81.231.46:443 wk.hoox.top
-202.81.231.48:443 wk.hoox.top
-202.81.231.50:443 md5.fuckgov.net
+202.81.231.50:443 cuobi.org
 202.81.231.66:443 svbm.server.kookxiang.network
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
@@ -234,6 +224,7 @@
 202.81.231.245:443 mensa.org.hk www.mensa.org.hk
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
 202.81.232.8:443 www.xinz.online
+202.81.232.9:443 *.azureedge.net *.media.microsoftstream.com *.origin.mediaservices.windows.net *.streaming.mediaservices.windows.net
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
@@ -274,7 +265,6 @@
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.16:443 ofly.bar
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 zone-c-cn2-hk-e.aliddnsdog.dev
 202.81.237.38:443 ak.juyoua.cn
 202.81.237.70:443 pontus.nuist.cf
 202.81.237.74:443 *.55225522.xyz 55225522.xyz
@@ -298,14 +288,16 @@
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
+202.81.242.15:443 ssmgr.xl78693.com
+202.81.242.29:443 blog.estnoc.com
+202.81.242.32:443 xv1yhktra1.155cc.xyz
 202.81.242.50:443 socket.defidaodapp.com
 202.81.242.59:443 www.ken0375.xyz
-202.81.242.71:443 sv1yhktra1.155cc.xyz
 202.81.242.109:443 *.littleturk.com littleturk.com
 202.81.242.121:443 hk.chenhao.net
 202.81.242.122:443 *.huatuben.net huatuben.net
+202.81.242.125:443 nc.cloudorg.uk
 202.81.242.242:443 drive.netsoft.me
-202.81.242.250:443 www.igarment.net
 202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.245:443 *.frenzymind.com frenzymind.com
@@ -327,15 +319,15 @@
 202.81.252.17:443 *.netfront.net
 202.81.252.18:443 *.netfront.net
 202.81.252.23:443 *.netfront.net
-202.81.252.35:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
+202.81.252.35:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.36:443 *.netfront.net
 202.81.252.41:443 *.netfront.net
 202.81.252.46:443 *.netfront.net
 202.81.252.47:443 *.netfront.net
 202.81.252.48:443 procommons.hk procommons.org.hk www.procommons.hk www.procommons.org.hk
 202.81.252.51:443 *.netfront.net
-202.81.252.122:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
-202.81.252.175:443 broadband.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
+202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
+202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
