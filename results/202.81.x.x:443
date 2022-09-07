@@ -25,12 +25,11 @@
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au ausdisability.com.au
 202.81.49.5:443 mrtg.mld.id
-202.81.49.9:443 medialintas.com
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
-202.81.52.67:443 nms.mld.id
 202.81.52.69:443 vp2.jbone.my.id
 202.81.52.108:443 crm.mld.id www.crm.mld.id
 202.81.52.109:443 vp1.mld.id
+202.81.52.180:443 adminkms-kadin.sandbox-138957.com
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
 202.81.96.58:443 blog.security.sea.com
 202.81.97.26:443 version.common.freefiremobile.com
@@ -198,7 +197,8 @@
 202.81.231.5:443 *.netfront.net
 202.81.231.34:443 www.youmu.love youmu.love
 202.81.231.35:443 july.deanand.com
-202.81.231.50:443 cuobi.org
+202.81.231.47:443 e6.yuer.cool
+202.81.231.50:443 md5.fuckgov.net
 202.81.231.66:443 svbm.server.kookxiang.network
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
@@ -206,11 +206,13 @@
 202.81.231.80:443 20.hktv.live
 202.81.231.87:443 hk.tianji.me
 202.81.231.88:443 *.rmzbw.com rmzbw.com
+202.81.231.91:443 hk1091.worldbook.online
 202.81.231.94:443 dd.mpojie.xyz
 202.81.231.105:443 hkal.catm.cc
 202.81.231.106:443 waverider2.com
 202.81.231.138:443 *.shallserve.cc shallserve.cc
 202.81.231.150:443 *.www.cloudflare.com www.cloudflare.com
+202.81.231.156:443 hk1156.worldbook.online
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 panel.glduo.xyz
 202.81.231.177:443 bbs.library.ac.cn
@@ -219,6 +221,7 @@
 202.81.231.204:443 *.catpromax.com catpromax.com
 202.81.231.207:443 ak.juyoua.cn
 202.81.231.210:443 waverider3.com
+202.81.231.215:443 koios.nuist.cf
 202.81.231.224:443 waverider.one
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.231.234:443 hk.tianji.me
@@ -252,10 +255,13 @@
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
 202.81.235.70:443 *.coz.moe
+202.81.235.75:443 ourea.nuist.cf
 202.81.235.96:443 rss.ikenway.net
+202.81.235.119:443 hk5119.worldbook.online
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 *.smartparking.app smartparking.app
 202.81.235.192:443 *.smartparking.app smartparking.app
+202.81.235.199:443 hk003.minirouter.top
 202.81.235.203:443 hk2.regeneonline.com
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
@@ -264,6 +270,7 @@
 202.81.237.16:443 ofly.bar
 202.81.237.21:443 www.kkiikk02.top
 202.81.237.38:443 ak.juyoua.cn
+202.81.237.70:443 pontus.nuist.cf
 202.81.237.74:443 *.55225522.xyz 55225522.xyz
 202.81.237.79:443 cdn.jachun.com
 202.81.237.101:443 www.kkiikk02.top
@@ -274,18 +281,24 @@
 202.81.237.121:443 *.shallserve.cc shallserve.cc
 202.81.237.128:443 *.shallserve.cc shallserve.cc
 202.81.237.130:443 *.shallserve.cc shallserve.cc
+202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.24jun.com 24jun.com
 202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.191:443 ak.juyoua.cn
+202.81.237.194:443 scholar.ustc.cf
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ak.juyoua.cn
 202.81.237.225:443 hk.tianji.me
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
-202.81.242.121:443 hk.chenhao.net
+202.81.242.15:443 ssmgr.xl78693.com
+202.81.242.32:443 xv1yhktra1.155cc.xyz
+202.81.242.50:443 socket.defidaodapp.com
 202.81.242.125:443 nc.755657.xyz
+202.81.242.242:443 drive.netsoft.me
 202.81.242.250:443 www.igarment.net
+202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.245:443 *.frenzymind.com frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
