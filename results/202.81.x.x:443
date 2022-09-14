@@ -26,10 +26,10 @@
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au ausdisability.com.au
 202.81.49.5:443 mrtg.mld.id
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
+202.81.52.67:443 nms.mld.id
 202.81.52.69:443 vp2.jbone.my.id
 202.81.52.108:443 crm.mld.id www.crm.mld.id
 202.81.52.109:443 vp1.mld.id
-202.81.52.180:443 adminkms-kadin.sandbox-138957.com
 202.81.96.36:443 mattermost.security.garenanow.com www.mattermost.security.garenanow.com
 202.81.96.58:443 blog.security.sea.com
 202.81.97.26:443 version.common.freefiremobile.com
@@ -104,6 +104,7 @@
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
+202.81.155.12:443 202.81.155.12
 202.81.155.43:443 202.81.155.43
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
 202.81.208.155:443 kbapi.govault.net
@@ -150,14 +151,11 @@
 202.81.229.69:443 gjny.uno
 202.81.229.70:443 gjny.uno
 202.81.229.71:443 gjny.uno
-202.81.230.7:443 *.onsnow.info onsnow.info
 202.81.230.24:443 hk11.netv2.work
 202.81.230.35:443 gofile.free520.net
 202.81.230.40:443 www.jukergame.net
 202.81.230.45:443 hk10.netv2.work
 202.81.230.55:443 daili.gofadacai.tk
-202.81.230.60:443 ws.txdu.com
-202.81.230.65:443 *.onsnow.info onsnow.info
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.74:443 xxly6.minirouter.top
 202.81.230.78:443 xxly6.minirouter.top
@@ -180,8 +178,6 @@
 202.81.230.183:443 hk12.netv2.work
 202.81.230.184:443 aa.asgood.org
 202.81.230.185:443 hk14.netv2.work
-202.81.230.197:443 *.onsnow.info onsnow.info
-202.81.230.200:443 *.onsnow.info onsnow.info
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
 202.81.230.211:443 *.ropp.it ropp.it
@@ -271,7 +267,6 @@
 202.81.237.21:443 www.kkiikk02.top
 202.81.237.38:443 ak.juyoua.cn
 202.81.237.70:443 pontus.nuist.cf
-202.81.237.74:443 *.55225522.xyz 55225522.xyz
 202.81.237.79:443 cdn.jachun.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.115:443 *.shadowseen.com shadowseen.com
@@ -283,7 +278,6 @@
 202.81.237.130:443 *.shallserve.cc shallserve.cc
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.24jun.com 24jun.com
-202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.191:443 ak.juyoua.cn
 202.81.237.194:443 scholar.ustc.cf
 202.81.237.202:443 hkf.mobox.xyz
@@ -294,11 +288,11 @@
 202.81.238.18:443 *.hk.com
 202.81.242.15:443 ssmgr.xl78693.com
 202.81.242.32:443 xv1yhktra1.155cc.xyz
-202.81.242.50:443 socket.defidaodapp.com
+202.81.242.71:443 sv1yhktra1.155cc.xyz
+202.81.242.115:443 gozou.ga
+202.81.242.122:443 *.amymind.com amymind.com
 202.81.242.125:443 nc.755657.xyz
 202.81.242.242:443 drive.netsoft.me
-202.81.242.250:443 www.igarment.net
-202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.245:443 *.frenzymind.com frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
@@ -307,7 +301,6 @@
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esrichina.hk www.lms.esrichina.hk
 202.81.250.40:443 ows.esrichina.hk www.ows.esrichina.hk
-202.81.250.48:443 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50:443 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51:443 eleave.esrichina.hk www.eleave.esrichina.hk
 202.81.250.52:443 240leave.esrichina.hk www.240leave.esrichina.hk
