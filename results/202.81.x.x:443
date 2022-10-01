@@ -2,7 +2,6 @@
 202.81.4.26:443 knx.kasaccountants.com.au
 202.81.4.44:443 *.appointment.mobi appointment.mobi
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
-202.81.4.53:443 remote.mww.org.au www.remote.mww.org.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
 202.81.4.91:443 rdgw.mtmalcolm.com.au www.rdgw.mtmalcolm.com.au
 202.81.4.99:443 *.australce.com australce.com
@@ -25,7 +24,7 @@
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au ausdisability.com.au
 202.81.49.5:443 mrtg.mld.id
-202.81.52.26:443 autoconfig.telnetti.com autodiscover.telnetti.com
+202.81.49.9:443 medialintas.com
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
 202.81.52.67:443 nms.mld.id
 202.81.52.69:443 vp2.jbone.my.id
@@ -76,7 +75,6 @@
 202.81.115.101:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.185:443 *.sea.com
 202.81.116.98:443 eemont.com www.eemont.com
-202.81.116.101:443 jas.zarneaung.com
 202.81.116.122:443 confluence.garenanow.com
 202.81.116.141:443 confluence.garenanow.com
 202.81.116.146:443 confluence.garenanow.com
@@ -102,36 +100,38 @@
 202.81.119.18:443 version.common.ff.garena.com
 202.81.119.19:443 version.common.ff.garena.com
 202.81.119.20:443 version.common.ff.garena.com
+202.81.119.40:443 transferlogin.fe.garena.com
+202.81.119.78:443 transferlogin.fe.garena.com
+202.81.119.80:443 client.fe.garena.com
+202.81.119.81:443 client.fe.garena.com
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
-202.81.155.12:443 202.81.155.12
-202.81.155.43:443 202.81.155.43
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
-202.81.208.155:443 kbapi.govault.net
-202.81.208.156:443 passwordless.govault.net
 202.81.208.161:443 backup.central-data.net
+202.81.214.130:443 *.safewindowonline.com
 202.81.214.134:443 api.bankvaultonline.com api01.bankvaultonline.com
-202.81.214.141:443 *.bankvault.com bankvault.com
-202.81.214.143:443 *.bankvault.com bankvault.com
-202.81.214.148:443 *.gopc.net gopc.net
-202.81.214.149:443 *.bankvault.com bankvault.com
-202.81.214.160:443 *.bankvault.com bankvault.com
+202.81.214.141:443 *.bankvault.com
+202.81.214.143:443 *.bankvault.com
+202.81.214.148:443 *.gopc.net
+202.81.214.149:443 *.bankvault.com
+202.81.214.160:443 *.bankvault.com
 202.81.214.162:443 *.gopc.net gopc.net
-202.81.214.164:443 *.bankvault.com bankvault.com
-202.81.214.166:443 *.bankvault.com bankvault.com
+202.81.214.164:443 *.bankvault.com
+202.81.214.166:443 *.bankvault.com
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
-202.81.214.172:443 *.bankvault.com bankvault.com
-202.81.214.174:443 *.gopc.net gopc.net
-202.81.214.176:443 *.gopc.net gopc.net
+202.81.214.172:443 *.bankvault.com
+202.81.214.174:443 *.gopc.net
+202.81.214.176:443 *.gopc.net
 202.81.214.178:443 *.bankvault.com bankvault.com
 202.81.214.181:443 global01.bankvaultonline.com global01.govault.net
+202.81.214.182:443 *.safewindowonline.com
 202.81.214.183:443 blog.central-data.net disasterthinking.com.au ecmaust.com ecmaust.com.au ecmportservices.com graemespeak.com www.disasterthinking.com.au www.ecmaust.com www.ecmaust.com.au www.ecmportservices.com www.graemespeak.com
-202.81.214.184:443 *.gopc.net gopc.net
-202.81.214.185:443 *.gopc.net gopc.net
+202.81.214.184:443 *.gopc.net
+202.81.214.185:443 *.gopc.net
 202.81.214.186:443 passwordlessauthentication.com www.passwordlessauthentication.com
 202.81.214.188:443 *.bankvault.com bankvault.com
-202.81.214.190:443 *.bankvault.com bankvault.com
+202.81.214.190:443 *.bankvault.com
 202.81.217.2:443 cds-dr1.central-data.net
 202.81.217.3:443 cds-dr2.central-data.net
 202.81.217.10:443 gopc-dr1.gopc.net
@@ -145,6 +145,7 @@
 202.81.229.34:443 lhs683.com www.lhs683.com
 202.81.229.37:443 jkzg.pw
 202.81.229.54:443 zgcc.site
+202.81.229.55:443 aaa.iplcn2.com
 202.81.229.57:443 zgcc.site
 202.81.229.59:443 zgcc.site
 202.81.229.62:443 zgcc.site
@@ -153,10 +154,12 @@
 202.81.229.70:443 gjny.uno
 202.81.229.71:443 gjny.uno
 202.81.230.24:443 hk11.netv2.work
+202.81.230.25:443 bibiq.io www.bibiq.io
 202.81.230.35:443 gofile.free520.net
 202.81.230.40:443 www.jukergame.net
 202.81.230.45:443 hk10.netv2.work
 202.81.230.55:443 daili.gofadacai.tk
+202.81.230.60:443 tun.bar www.tun.bar
 202.81.230.61:443 xe166.com www.xe166.com
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.74:443 xxly6.minirouter.top
@@ -207,7 +210,7 @@
 202.81.231.105:443 hkal.catm.cc
 202.81.231.106:443 waverider2.com
 202.81.231.138:443 *.shallserve.cc shallserve.cc
-202.81.231.150:443 *.www.cloudflare.com www.cloudflare.com
+202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.231.156:443 hk1156.worldbook.online
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 panel.glduo.xyz
@@ -288,7 +291,11 @@
 202.81.238.18:443 *.hk.com
 202.81.242.50:443 socket.defidaodapp.com
 202.81.242.59:443 www.ken0375.xyz
+202.81.242.71:443 sv1yhktra1.155cc.xyz
+202.81.242.109:443 *.littleturk.com littleturk.com
+202.81.242.122:443 *.amymind.com amymind.com
 202.81.242.242:443 drive.netsoft.me
+202.81.242.250:443 www.igarment.net
 202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.245:443 *.frenzymind.com frenzymind.com
@@ -304,10 +311,6 @@
 202.81.250.52:443 240leave.esrichina.hk www.240leave.esrichina.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
-202.81.252.15:443 *.netfront.net
-202.81.252.16:443 *.netfront.net
-202.81.252.17:443 *.netfront.net
-202.81.252.18:443 *.netfront.net
 202.81.252.23:443 *.netfront.net
 202.81.252.35:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.36:443 *.netfront.net
