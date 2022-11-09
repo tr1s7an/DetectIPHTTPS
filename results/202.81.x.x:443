@@ -4,7 +4,6 @@
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.53:443 remote.mww.org.au www.remote.mww.org.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
-202.81.4.91:443 rdgw.mtmalcolm.com.au www.rdgw.mtmalcolm.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 acerds.australce.com www.acerds.australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au autodiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
@@ -23,7 +22,7 @@
 202.81.6.193:443 remote.scag.com.au
 202.81.6.196:443 vpn.trafflec.com.au www.vpn.trafflec.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
-202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au ausdisability.com.au
+202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.49.5:443 mrtg.mld.id
 202.81.49.9:443 medialintas.com
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
@@ -82,12 +81,12 @@
 202.81.114.6:443 ccu.gre.garenanow.com
 202.81.115.71:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.72:443 *.test.sota.insea.io test.sota.insea.io
-202.81.115.90:443 *.keystats.garenanow.com
-202.81.115.91:443 *.keystats.garenanow.com
+202.81.115.90:443 *.keystats.seagroup.com
+202.81.115.91:443 *.keystats.seagroup.com
 202.81.115.95:443 *.sota.insea.io sota.insea.io
 202.81.115.100:443 *.sota.insea.io sota.insea.io
 202.81.115.101:443 *.test.sota.insea.io test.sota.insea.io
-202.81.115.102:443 *.keystats.garenanow.com
+202.81.115.102:443 *.keystats.seagroup.com
 202.81.115.185:443 *.sea.com
 202.81.116.122:443 confluence.garenanow.com
 202.81.116.141:443 confluence.garenanow.com
@@ -117,10 +116,9 @@
 202.81.119.80:443 client.fe.garena.com
 202.81.119.81:443 client.fe.garena.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
+202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
-202.81.155.12:443 202.81.155.12
-202.81.155.43:443 202.81.155.43
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
 202.81.208.161:443 backup.central-data.net
 202.81.214.130:443 *.safewindowonline.com
@@ -159,17 +157,23 @@
 202.81.229.34:443 lhs683.com www.lhs683.com
 202.81.229.37:443 jkzg.pw
 202.81.229.51:443 jh.njlaikun.com
+202.81.229.55:443 *.iplcn2.com iplcn2.com
 202.81.229.79:443 *.shadowseen.com shadowseen.com
 202.81.229.80:443 frontcn2.iplcat.com
 202.81.229.81:443 hjj.ganjuzx.cn
 202.81.229.82:443 giahk.trfoodnice.com
 202.81.229.83:443 start-10.iplcat.com
 202.81.229.91:443 sc.coolmi.ml
+202.81.229.92:443 tyjt.mom
+202.81.229.93:443 tyjt.mom
+202.81.229.94:443 tyjt.mom
+202.81.229.95:443 tyjt.mom
 202.81.230.18:443 easydog.xyz
 202.81.230.24:443 hk11.netv2.work
 202.81.230.26:443 chenghaha.com
 202.81.230.35:443 register.switch520.cam
 202.81.230.40:443 www.jukergame.net
+202.81.230.45:443 hk10.netv2.work
 202.81.230.53:443 net.mireya.eu.org
 202.81.230.61:443 xe166.com www.xe166.com
 202.81.230.72:443 v.weixiaoran.top
@@ -179,6 +183,7 @@
 202.81.230.98:443 xxly5.minirouter.top
 202.81.230.109:443 xxly4.minirouter.top
 202.81.230.110:443 ibushierbaiwu.xyz
+202.81.230.112:443 20.hktv.live
 202.81.230.117:443 eyesprite.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.122:443 hk.tianji.me
@@ -195,7 +200,7 @@
 202.81.230.179:443 file.gzcd.pw
 202.81.230.183:443 hk12.netv2.work
 202.81.230.184:443 aa.asgood.org
-202.81.230.197:443 hk-allin.jofoo.top
+202.81.230.185:443 hk14.netv2.work
 202.81.230.198:443 v.susen.me
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
@@ -205,7 +210,6 @@
 202.81.230.222:443 waverider5.com
 202.81.230.223:443 ofly.bar
 202.81.230.224:443 ofly.bar
-202.81.230.243:443 hknet.ultronstar.com
 202.81.230.244:443 waverider5.com
 202.81.230.249:443 hki.catm.cc
 202.81.231.2:443 *.netfront.net
@@ -216,6 +220,7 @@
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.71:443 www.mpojie.net
+202.81.231.80:443 20.hktv.live
 202.81.231.87:443 hk.tianji.me
 202.81.231.91:443 hk1091.worldbook.online
 202.81.231.94:443 dd.mpojie.xyz
@@ -243,9 +248,8 @@
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 q9tech.netfront.net
-202.81.232.28:443 asmrn.com *.asmrn.com
-202.81.232.44:443 hknet.ultronstar.com
 202.81.232.55:443 net.osssb.xyz
+202.81.232.64:443 www.giao.live
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
@@ -261,7 +265,7 @@
 202.81.235.12:443 waverider4.com
 202.81.235.14:443 *.ibugone.com *.s.ibugone.com *.taokystrong.com *.ustc.ibugone.com ibugone.com taokystrong.com
 202.81.235.26:443 hk004.minirouter.top
-202.81.235.30:443 www.tiankong99.com
+202.81.235.30:443 sky.skydy.vip
 202.81.235.47:443 334420.org www.334420.org
 202.81.235.52:443 334420.org www.334420.org
 202.81.235.55:443 *.ikelly.me ikelly.me
@@ -306,8 +310,12 @@
 202.81.237.222:443 ak.juyoua.cn
 202.81.237.225:443 hk.tianji.me
 202.81.237.238:443 hk1.feuler.tk
-202.81.242.50:443 www.defidaodapp.com
-202.81.242.122:443 *.amymind.com amymind.com
+202.81.238.8:443 *.hk.com
+202.81.238.18:443 *.hk.com
+202.81.242.59:443 www.ken0375.xyz
+202.81.242.242:443 drive.netsoft.me
+202.81.242.250:443 www.igarment.net
+202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 *.frenzymind.com frenzymind.com
 202.81.244.245:443 *.frenzymind.com frenzymind.com
@@ -316,7 +324,6 @@
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esrichina.hk www.lms.esrichina.hk
-202.81.250.48:443 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50:443 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51:443 eleave.esrichina.hk www.eleave.esrichina.hk
 202.81.250.52:443 240leave.esrichina.hk www.240leave.esrichina.hk
