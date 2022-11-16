@@ -17,9 +17,8 @@
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.6.29:443 *.smileteam.com.au smileteam.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
-202.81.6.74:443 riteq.wslc.com.au www.riteq.wslc.com.au mobile.wslc.com.au ess.wslc.com.au
+202.81.6.74:443 riteq.wslc.com.au ess.wslc.com.au mobile.wslc.com.au www.ess.wslc.com.au www.mobile.wslc.com.au www.riteq.wslc.com.au
 202.81.6.102:443 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
-202.81.6.193:443 remote.scag.com.au
 202.81.6.196:443 vpn.trafflec.com.au www.vpn.trafflec.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
@@ -88,9 +87,9 @@
 202.81.115.101:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.102:443 *.keystats.seagroup.com
 202.81.115.185:443 *.sea.com
-202.81.116.122:443 confluence.garenanow.com
-202.81.116.141:443 confluence.garenanow.com
-202.81.116.146:443 confluence.garenanow.com
+202.81.116.122:443 cdndetection.sea.com
+202.81.116.141:443 cdndetection.sea.com
+202.81.116.146:443 cdndetection.sea.com
 202.81.119.1:443 version.common.freefiremobile.com
 202.81.119.2:443 version.common.freefiremobile.com
 202.81.119.3:443 version.common.freefiremobile.com
@@ -116,7 +115,6 @@
 202.81.119.80:443 client.fe.garena.com
 202.81.119.81:443 client.fe.garena.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
-202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
@@ -160,21 +158,25 @@
 202.81.229.55:443 *.iplcn2.com iplcn2.com
 202.81.229.79:443 *.shadowseen.com shadowseen.com
 202.81.229.80:443 frontcn2.iplcat.com
-202.81.229.81:443 hjj.ganjuzx.cn
-202.81.229.82:443 giahk.trfoodnice.com
 202.81.229.83:443 start-10.iplcat.com
 202.81.229.91:443 sc.coolmi.ml
 202.81.229.92:443 tyjt.mom
 202.81.229.93:443 tyjt.mom
 202.81.229.94:443 tyjt.mom
 202.81.229.95:443 tyjt.mom
+202.81.230.11:443 giahk.trfoodnice.com
 202.81.230.18:443 easydog.xyz
 202.81.230.24:443 hk11.netv2.work
-202.81.230.26:443 chenghaha.com
-202.81.230.35:443 register.switch520.cam
+202.81.230.26:443 chenghaha.uk
+202.81.230.27:443 683.lhs683.top
+202.81.230.28:443 solutions.trudanode.com
 202.81.230.40:443 www.jukergame.net
 202.81.230.45:443 hk10.netv2.work
+202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.53:443 net.mireya.eu.org
+202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.59:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.61:443 xe166.com www.xe166.com
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.73:443 suphk.mastergogo.com
@@ -190,6 +192,7 @@
 202.81.230.123:443 chaos.nuist.cf
 202.81.230.125:443 nf.mingxiangzhe.com
 202.81.230.127:443 www.ziyuankong.com ziyuankong.com
+202.81.230.131:443 vip2-hk1.55225522.xyz
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
 202.81.230.163:443 lanpo.xyz
@@ -201,7 +204,7 @@
 202.81.230.183:443 hk12.netv2.work
 202.81.230.184:443 aa.asgood.org
 202.81.230.185:443 hk14.netv2.work
-202.81.230.198:443 v.susen.me
+202.81.230.198:443 www.susen.me susen.me
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
 202.81.230.211:443 *.ropp.it ropp.it
@@ -238,25 +241,30 @@
 202.81.231.207:443 ak.juyoua.cn
 202.81.231.210:443 waverider3.com
 202.81.231.215:443 koios.nuist.cf
-202.81.231.216:443 vip2-hk1.55225522.xyz
+202.81.231.216:443 vip2-hk2.55225522.xyz
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.231.234:443 hk.tianji.me
 202.81.231.245:443 mensa.org.hk www.mensa.org.hk
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
-202.81.232.9:443 8555xz3.cc www.8555xz3.cc
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 q9tech.netfront.net
+202.81.232.44:443 hknet.ultronstar.com
 202.81.232.55:443 net.osssb.xyz
 202.81.232.64:443 www.giao.live
+202.81.232.70:443 *.cachemoment.com
+202.81.232.72:443 www.autrelamour.vip autrelamour.vip
+202.81.232.81:443 hk.gitwulitou.top
+202.81.232.82:443 hk.909969.xyz
+202.81.232.84:443 nethk.lixunfan.top
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
 202.81.234.4:443 cpanel.netfront.net
 202.81.234.5:443 cpanel.netfront.net
 202.81.234.6:443 cpanel.iplcn2.com
-202.81.234.7:443 *.xe166.com xe166.com
+202.81.234.7:443 cpanel.netfront.net
 202.81.234.8:443 cpanel.netfront.net
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
 202.81.234.10:443 cpanel.netfront.net
@@ -290,7 +298,6 @@
 202.81.237.21:443 www.kkiikk02.top
 202.81.237.38:443 ak.juyoua.cn
 202.81.237.70:443 pontus.nuist.cf
-202.81.237.74:443 *.mrzcz.com mrzcz.com
 202.81.237.79:443 cdn.jachun.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.115:443 *.shadowseen.com shadowseen.com
@@ -302,8 +309,7 @@
 202.81.237.130:443 *.shallserve.cc shallserve.cc
 202.81.237.135:443 hk6.netflix6.com
 202.81.237.137:443 hk7137.worldbook.online
-202.81.237.140:443 www.xinz.online
-202.81.237.160:443 *.mrzcz.com mrzcz.com
+202.81.237.140:443 www.susenu.org
 202.81.237.191:443 ak.juyoua.cn
 202.81.237.194:443 scholar.ustc.cf
 202.81.237.202:443 hkf.mobox.xyz
@@ -312,7 +318,8 @@
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
-202.81.242.59:443 www.ken0375.xyz
+202.81.242.50:443 www.defidaodapp.com
+202.81.242.122:443 *.amymind.com amymind.com
 202.81.242.242:443 drive.netsoft.me
 202.81.242.250:443 www.igarment.net
 202.81.242.251:443 www.igarment.net
@@ -324,9 +331,9 @@
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esrichina.hk www.lms.esrichina.hk
+202.81.250.48:443 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50:443 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51:443 eleave.esrichina.hk www.eleave.esrichina.hk
-202.81.250.52:443 240leave.esrichina.hk www.240leave.esrichina.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
 202.81.252.15:443 *.netfront.net
