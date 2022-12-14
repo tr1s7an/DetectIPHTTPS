@@ -32,18 +32,18 @@
 202.81.96.36:443 mattermost.security.garenanow.com
 202.81.96.58:443 blog.security.sea.com
 202.81.97.26:443 version.common.freefiremobile.com
-202.81.106.227:443 client.common.freefiremobile.com
-202.81.106.228:443 client.common.freefiremobile.com
-202.81.106.230:443 client.common.freefiremobile.com
-202.81.106.231:443 client.common.freefiremobile.com
-202.81.106.232:443 client.common.freefiremobile.com
-202.81.106.233:443 client.common.freefiremobile.com
-202.81.106.234:443 client.common.freefiremobile.com
-202.81.106.236:443 client.common.freefiremobile.com
-202.81.106.237:443 client.common.freefiremobile.com
-202.81.106.238:443 client.common.freefiremobile.com
-202.81.106.239:443 client.common.freefiremobile.com
-202.81.106.242:443 client.common.freefiremobile.com
+202.81.106.227:443 clientbp.common.ggbluefox.com
+202.81.106.228:443 clientbp.common.ggbluefox.com
+202.81.106.230:443 clientbp.common.ggbluefox.com
+202.81.106.231:443 clientbp.common.ggbluefox.com
+202.81.106.232:443 clientbp.common.ggbluefox.com
+202.81.106.233:443 clientbp.common.ggbluefox.com
+202.81.106.234:443 clientbp.common.ggbluefox.com
+202.81.106.236:443 clientbp.common.ggbluefox.com
+202.81.106.237:443 clientbp.common.ggbluefox.com
+202.81.106.238:443 clientbp.common.ggbluefox.com
+202.81.106.239:443 clientbp.common.ggbluefox.com
+202.81.106.242:443 clientbp.common.ggbluefox.com
 202.81.108.9:443 login.common.freefiremobile.com
 202.81.108.10:443 login.common.freefiremobile.com
 202.81.108.11:443 login.common.freefiremobile.com
@@ -93,6 +93,7 @@
 202.81.113.140:443 ss-receiver.data.garenanow.com
 202.81.113.143:443 api.data.garenanow.com
 202.81.114.6:443 ccu.gre.garenanow.com
+202.81.115.18:443 rancher.infra.sea.com
 202.81.115.71:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.72:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.90:443 *.keystats.seagroup.com
@@ -105,6 +106,7 @@
 202.81.116.122:443 cdndetection.sea.com
 202.81.116.141:443 cdndetection.sea.com
 202.81.116.146:443 cdndetection.sea.com
+202.81.118.6:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
 202.81.118.7:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
 202.81.118.8:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
 202.81.118.9:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
@@ -132,14 +134,14 @@
 202.81.119.78:443 transferlogin.fe.garena.com
 202.81.119.80:443 client.fe.garena.com
 202.81.119.81:443 client.fe.garena.com
-202.81.123.7:443 client.common.freefiremobile.com
-202.81.123.8:443 client.common.freefiremobile.com
-202.81.123.11:443 client.common.freefiremobile.com
-202.81.123.14:443 client.common.freefiremobile.com
-202.81.123.16:443 client.common.freefiremobile.com
-202.81.123.17:443 client.common.freefiremobile.com
-202.81.123.20:443 client.common.freefiremobile.com
-202.81.123.21:443 client.common.freefiremobile.com
+202.81.123.7:443 clientbp.common.ggbluefox.com
+202.81.123.8:443 clientbp.common.ggbluefox.com
+202.81.123.11:443 clientbp.common.ggbluefox.com
+202.81.123.14:443 clientbp.common.ggbluefox.com
+202.81.123.16:443 clientbp.common.ggbluefox.com
+202.81.123.17:443 clientbp.common.ggbluefox.com
+202.81.123.20:443 clientbp.common.ggbluefox.com
+202.81.123.21:443 clientbp.common.ggbluefox.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
@@ -175,11 +177,7 @@
 202.81.229.6:443 *.shallserve.cc shallserve.cc
 202.81.229.9:443 zs.coolmi.tk
 202.81.229.12:443 *.pinge.me pinge.me
-202.81.229.25:443 jkzg.pw
-202.81.229.26:443 jkzg.pw
-202.81.229.27:443 jkzg.pw
 202.81.229.34:443 lhs683.com www.lhs683.com
-202.81.229.37:443 jkzg.pw
 202.81.229.51:443 jh.njlaikun.com
 202.81.229.54:443 cvhk2.roundhead.xyz
 202.81.229.55:443 *.iplcn2.com iplcn2.com
@@ -187,30 +185,29 @@
 202.81.229.59:443 cmhk.one
 202.81.229.62:443 cmhk.one
 202.81.229.63:443 cmhk.one
-202.81.229.79:443 *.shadowseen.com shadowseen.com
-202.81.229.80:443 nosework.fastiqiyi.xyz
 202.81.229.81:443 xs.ganjuzx.cn
+202.81.229.90:443 *.shadowseen.com shadowseen.com
 202.81.229.92:443 tyjt.mom
 202.81.229.93:443 tyjt.mom
 202.81.229.94:443 tyjt.mom
 202.81.229.95:443 tyjt.mom
-202.81.229.109:443 down.769900.xyz
-202.81.229.110:443 down.769900.xyz
-202.81.229.111:443 down.769900.xyz
-202.81.229.112:443 down.769900.xyz
+202.81.229.109:443 api.wwbbwwbb.com
+202.81.229.110:443 api.wwbbwwbb.com
+202.81.229.111:443 api.wwbbwwbb.com
+202.81.229.112:443 api.wwbbwwbb.com
 202.81.230.9:443 ftyc.ftct.ltd
 202.81.230.11:443 giahk.trfoodnice.com
 202.81.230.18:443 easydog.xyz
 202.81.230.24:443 hk11.netv2.work
-202.81.230.27:443 683.lhs683.top
 202.81.230.28:443 solutions.trudanode.com
 202.81.230.40:443 www.jukergame.net
+202.81.230.43:443 netfront.407qwer.tk
 202.81.230.45:443 hk10.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.59:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.61:443 xe166.com www.xe166.com
+202.81.230.61:443 zerothings.cn www.zerothings.cn
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.74:443 xxly6.minirouter.top
 202.81.230.78:443 xxly6.minirouter.top
@@ -223,7 +220,6 @@
 202.81.230.122:443 hk.tianji.me
 202.81.230.123:443 chaos.nuist.cf
 202.81.230.127:443 www.ziyuankong.com ziyuankong.com
-202.81.230.131:443 vip2-hk1.55225522.xyz
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
 202.81.230.163:443 lanpo.xyz
@@ -235,7 +231,8 @@
 202.81.230.183:443 hk12.netv2.work
 202.81.230.184:443 aa.asgood.org
 202.81.230.185:443 hk14.netv2.work
-202.81.230.198:443 www.susen.me susen.me
+202.81.230.189:443 netfront.imgsbox.com
+202.81.230.198:443 www.24jun.com
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
 202.81.230.211:443 *.ropp.it ropp.it
@@ -279,23 +276,22 @@
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
-202.81.232.21:443 img.2557u.com
-202.81.232.23:443 img.2557u.com
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 q9tech.netfront.net
 202.81.232.44:443 hknet.ultronstar.com
-202.81.232.53:443 img.2557u.com
 202.81.232.64:443 www.giao.live
+202.81.232.70:443 *.cachemoment.com
 202.81.232.81:443 hk.gitwulitou.top
 202.81.232.82:443 hk.909969.xyz
 202.81.232.84:443 nethk.lixunfan.top
 202.81.232.86:443 hk-proxy.fengyu.design
 202.81.232.99:443 outerim.xyz www.outerim.xyz
-202.81.232.101:443 img.2557u.com
 202.81.232.102:443 hkg01.dbq.galaxy.tyty.dev *.hkg01.dbq.galaxy.tyty.dev
 202.81.232.103:443 sky.jofoo.top
 202.81.232.107:443 *.774.gs 774.gs *.z-r.cc z-r.cc *.i4.fit i4.fit
 202.81.232.114:443 www.lnycmq.cf
+202.81.232.119:443 *.zby88zby.top zby88zby.top
+202.81.232.131:443 lth0819.lth0819.top
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
@@ -323,15 +319,15 @@
 202.81.235.96:443 rss.ikenway.net
 202.81.235.119:443 hk5119.worldbook.online
 202.81.235.137:443 hyoukyou.moe
-202.81.235.175:443 *.smartparking.app smartparking.app
-202.81.235.192:443 *.smartparking.app smartparking.app
+202.81.235.175:443 hk.smartparking.app
+202.81.235.192:443 hk.smartparking.app
 202.81.235.199:443 hk003.minirouter.top
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.209:443 hk2.netflix6.com
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
-202.81.237.14:443 *.smartparking.app smartparking.app
-202.81.237.15:443 *.smartparking.app smartparking.app
+202.81.237.14:443 hk.smartparking.app
+202.81.237.15:443 hk.smartparking.app
 202.81.237.16:443 ofly.bar
 202.81.237.21:443 www.kkiikk02.top
 202.81.237.38:443 ak.juyoua.cn
@@ -357,7 +353,11 @@
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
-202.81.242.29:443 blog.estnoc.com
+202.81.242.50:443 www.defidaodapp.com
+202.81.242.122:443 *.amymind.com amymind.com
+202.81.242.242:443 drive.netsoft.me
+202.81.242.250:443 www.igarment.net
+202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 *.frenzymind.com frenzymind.com
 202.81.244.245:443 *.frenzymind.com frenzymind.com
@@ -366,7 +366,6 @@
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esrichina.hk www.lms.esrichina.hk
-202.81.250.48:443 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50:443 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51:443 eleave.esrichina.hk www.eleave.esrichina.hk
 202.81.252.12:443 lento.3cx.hk
