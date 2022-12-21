@@ -24,7 +24,6 @@
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.49.5:443 mrtg.mld.id
 202.81.49.9:443 medialintas.com
-202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
 202.81.52.67:443 nms.mld.id
 202.81.52.69:443 vp2.jbone.my.id
 202.81.52.108:443 crm.mld.id
@@ -94,6 +93,8 @@
 202.81.113.143:443 api.data.garenanow.com
 202.81.114.6:443 ccu.gre.garenanow.com
 202.81.115.18:443 rancher.infra.sea.com
+202.81.115.19:443 rancher.infra.sea.com
+202.81.115.21:443 rancher.infra.sea.com
 202.81.115.71:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.72:443 *.test.sota.insea.io test.sota.insea.io
 202.81.115.90:443 *.keystats.seagroup.com
@@ -145,31 +146,31 @@
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
-202.81.208.151:443 central-data.net www.central-data.net
+202.81.208.151:443 central-data.net prod-www.central-data.net www.central-data.net
 202.81.208.155:443 kbapi.govault.net
 202.81.208.161:443 backup.central-data.net
 202.81.214.130:443 *.safewindowonline.com safewindowonline.com
 202.81.214.134:443 api.bankvaultonline.com api01.bankvaultonline.com
-202.81.214.141:443 *.bankvault.com
+202.81.214.141:443 *.bankvault.com bankvault.com
 202.81.214.143:443 *.bankvault.com bankvault.com
-202.81.214.148:443 *.gopc.net
+202.81.214.148:443 *.gopc.net gopc.net
 202.81.214.149:443 *.bankvault.com bankvault.com
-202.81.214.160:443 *.bankvault.com
-202.81.214.164:443 *.bankvault.com
-202.81.214.166:443 *.bankvault.com
+202.81.214.160:443 *.bankvault.com bankvault.com
+202.81.214.164:443 *.bankvault.com bankvault.com
+202.81.214.166:443 *.bankvault.com bankvault.com
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
-202.81.214.172:443 *.bankvault.com
-202.81.214.174:443 *.gopc.net
-202.81.214.176:443 *.gopc.net
-202.81.214.178:443 *.bankvault.com
+202.81.214.172:443 *.bankvault.com bankvault.com
+202.81.214.174:443 *.gopc.net gopc.net
+202.81.214.176:443 *.gopc.net gopc.net
+202.81.214.178:443 *.bankvault.com bankvault.com
 202.81.214.181:443 global01.bankvaultonline.com global01.govault.net
-202.81.214.182:443 *.safewindowonline.com
+202.81.214.182:443 *.safewindowonline.com safewindowonline.com
 202.81.214.183:443 blog.central-data.net disasterthinking.com.au ecmaust.com ecmaust.com.au ecmportservices.com graemespeak.com www.disasterthinking.com.au www.ecmaust.com www.ecmaust.com.au www.ecmportservices.com www.graemespeak.com
-202.81.214.184:443 *.gopc.net
-202.81.214.185:443 *.gopc.net
+202.81.214.184:443 *.gopc.net gopc.net
+202.81.214.185:443 *.gopc.net gopc.net
 202.81.214.186:443 passwordlessauthentication.com www.passwordlessauthentication.com
 202.81.214.188:443 *.bankvault.com
-202.81.214.190:443 *.bankvault.com
+202.81.214.190:443 *.bankvault.com bankvault.com
 202.81.217.2:443 cds-dr1.central-data.net
 202.81.217.3:443 cds-dr2.central-data.net
 202.81.217.10:443 gopc-dr1.gopc.net
@@ -177,6 +178,7 @@
 202.81.229.6:443 *.shallserve.cc shallserve.cc
 202.81.229.9:443 zs.coolmi.tk
 202.81.229.12:443 *.pinge.me pinge.me
+202.81.229.24:443 sc.coolmi.ml
 202.81.229.34:443 lhs683.com www.lhs683.com
 202.81.229.51:443 jh.njlaikun.com
 202.81.229.54:443 cvhk2.roundhead.xyz
@@ -185,7 +187,6 @@
 202.81.229.59:443 cmhk.one
 202.81.229.62:443 cmhk.one
 202.81.229.63:443 cmhk.one
-202.81.229.81:443 xs.ganjuzx.cn
 202.81.229.90:443 *.shadowseen.com shadowseen.com
 202.81.229.92:443 tyjt.mom
 202.81.229.93:443 tyjt.mom
@@ -198,7 +199,9 @@
 202.81.230.9:443 ftyc.ftct.ltd
 202.81.230.11:443 giahk.trfoodnice.com
 202.81.230.18:443 easydog.xyz
+202.81.230.23:443 xs.ganjuzx.cn
 202.81.230.24:443 hk11.netv2.work
+202.81.230.25:443 *.yuese168.com yuese168.com
 202.81.230.28:443 solutions.trudanode.com
 202.81.230.40:443 www.jukergame.net
 202.81.230.43:443 netfront.407qwer.tk
@@ -220,6 +223,10 @@
 202.81.230.122:443 hk.tianji.me
 202.81.230.123:443 chaos.nuist.cf
 202.81.230.127:443 www.ziyuankong.com ziyuankong.com
+202.81.230.131:443 vip2-hk1.55225522.xyz
+202.81.230.145:443 *.69av.live 69av.live
+202.81.230.146:443 da-hk.liqqq.store
+202.81.230.148:443 jump.duang1024.com www.duang1024.com
 202.81.230.156:443 cdn.jachun.com
 202.81.230.162:443 nft.lioncandy.top
 202.81.230.163:443 lanpo.xyz
@@ -235,7 +242,6 @@
 202.81.230.198:443 www.24jun.com
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
-202.81.230.211:443 *.ropp.it ropp.it
 202.81.230.214:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.220:443 ofly.bar
 202.81.230.222:443 waverider5.com
@@ -255,12 +261,13 @@
 202.81.231.80:443 20.hktv.live
 202.81.231.87:443 hk.tianji.me
 202.81.231.91:443 hk1091.worldbook.online
-202.81.231.94:443 dd.mpojie.xyz
+202.81.231.94:443 paya.mpojie.cc
 202.81.231.105:443 hkal.catm.cc
 202.81.231.106:443 waverider2.com
 202.81.231.138:443 *.shallserve.cc shallserve.cc
 202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.231.156:443 hk1156.worldbook.online
+202.81.231.157:443 so.cnsucai.com
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 panel.glduo.xyz
 202.81.231.177:443 bbs.library.ac.cn
@@ -280,18 +287,20 @@
 202.81.232.27:443 q9tech.netfront.net
 202.81.232.44:443 hknet.ultronstar.com
 202.81.232.64:443 www.giao.live
+202.81.232.69:443 *.774.gs 774.gs *.z-r.cc z-r.cc *.i4.fit i4.fit
 202.81.232.70:443 *.cachemoment.com
 202.81.232.81:443 hk.gitwulitou.top
 202.81.232.82:443 hk.909969.xyz
 202.81.232.84:443 nethk.lixunfan.top
-202.81.232.86:443 hk-proxy.fengyu.design
 202.81.232.99:443 outerim.xyz www.outerim.xyz
 202.81.232.102:443 hkg01.dbq.galaxy.tyty.dev *.hkg01.dbq.galaxy.tyty.dev
 202.81.232.103:443 sky.jofoo.top
-202.81.232.107:443 *.774.gs 774.gs *.z-r.cc z-r.cc *.i4.fit i4.fit
 202.81.232.114:443 www.lnycmq.cf
 202.81.232.119:443 *.zby88zby.top zby88zby.top
 202.81.232.131:443 lth0819.lth0819.top
+202.81.232.140:443 xgdz.cloud
+202.81.232.141:443 www.tedspeech.top
+202.81.232.143:443 hk-safe.safechatroom.cloud
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
@@ -304,6 +313,7 @@
 202.81.234.10:443 cpanel.netfront.net
 202.81.234.37:443 *.ccp-lies.com ccp-lies.com
 202.81.234.88:443 cpanel.netfront.net
+202.81.235.6:443 totwoo.org www.totwoo.org
 202.81.235.12:443 waverider4.com
 202.81.235.14:443 *.ibugone.com *.s.ibugone.com *.taokystrong.com *.ustc.ibugone.com ibugone.com taokystrong.com
 202.81.235.26:443 hk004.minirouter.top
@@ -316,7 +326,6 @@
 202.81.235.70:443 *.coz.moe
 202.81.235.73:443 www.alexguo.online
 202.81.235.75:443 ourea.nuist.cf
-202.81.235.96:443 rss.ikenway.net
 202.81.235.119:443 hk5119.worldbook.online
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 hk.smartparking.app
@@ -332,7 +341,9 @@
 202.81.237.21:443 www.kkiikk02.top
 202.81.237.38:443 ak.juyoua.cn
 202.81.237.70:443 pontus.nuist.cf
+202.81.237.74:443 *.55225522.xyz 55225522.xyz
 202.81.237.79:443 cdn.jachun.com
+202.81.237.100:443 so.cnsucai.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.112:443 data.chaostu.cc
 202.81.237.115:443 *.shadowseen.com shadowseen.com
@@ -345,6 +356,7 @@
 202.81.237.135:443 hk6.netflix6.com
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.susenu.org
+202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.191:443 ak.juyoua.cn
 202.81.237.194:443 scholar.ustc.cf
 202.81.237.202:443 hkf.mobox.xyz
@@ -353,7 +365,9 @@
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
+202.81.242.15:443 ssmgr.xl78693.com
 202.81.242.50:443 www.defidaodapp.com
+202.81.242.109:443 *.zuole.net zuole.net
 202.81.242.122:443 *.amymind.com amymind.com
 202.81.242.242:443 drive.netsoft.me
 202.81.242.250:443 www.igarment.net
@@ -366,6 +380,7 @@
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esrichina.hk www.lms.esrichina.hk
+202.81.250.48:443 tms.esrichina.hk www.tms.esrichina.hk
 202.81.250.50:443 eportal.esrichina.hk www.eportal.esrichina.hk
 202.81.250.51:443 eleave.esrichina.hk www.eleave.esrichina.hk
 202.81.252.12:443 lento.3cx.hk
