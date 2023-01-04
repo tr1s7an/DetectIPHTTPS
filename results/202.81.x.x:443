@@ -43,6 +43,7 @@
 202.81.106.238:443 clientbp.common.ggbluefox.com
 202.81.106.239:443 clientbp.common.ggbluefox.com
 202.81.106.242:443 clientbp.common.ggbluefox.com
+202.81.107.170:443 version.common.freefiremobile.com
 202.81.108.9:443 login.common.freefiremobile.com
 202.81.108.10:443 login.common.freefiremobile.com
 202.81.108.11:443 login.common.freefiremobile.com
@@ -106,7 +107,6 @@
 202.81.115.185:443 *.sea.com
 202.81.116.122:443 cdndetection.sea.com
 202.81.116.141:443 cdndetection.sea.com
-202.81.116.146:443 cdndetection.sea.com
 202.81.118.6:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
 202.81.118.7:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
 202.81.118.8:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
@@ -169,7 +169,7 @@
 202.81.214.184:443 *.gopc.net gopc.net
 202.81.214.185:443 *.gopc.net gopc.net
 202.81.214.186:443 passwordlessauthentication.com www.passwordlessauthentication.com
-202.81.214.188:443 *.bankvault.com
+202.81.214.188:443 *.bankvault.com bankvault.com
 202.81.214.190:443 *.bankvault.com bankvault.com
 202.81.217.2:443 cds-dr1.central-data.net
 202.81.217.3:443 cds-dr2.central-data.net
@@ -199,13 +199,13 @@
 202.81.230.9:443 ftyc.ftct.ltd
 202.81.230.11:443 giahk.trfoodnice.com
 202.81.230.18:443 easydog.xyz
+202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.23:443 xs.ganjuzx.cn
 202.81.230.24:443 hk11.netv2.work
 202.81.230.25:443 *.yuese168.com yuese168.com
 202.81.230.28:443 solutions.trudanode.com
-202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com
+202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.40:443 www.jukergame.net
-202.81.230.43:443 netfront.407qwer.tk
 202.81.230.45:443 hk10.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -222,8 +222,7 @@
 202.81.230.112:443 20.hktv.live
 202.81.230.117:443 eyesprite.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.122:443 hk.tianji.me
-202.81.230.127:443 www.ziyuankong.com ziyuankong.com
+202.81.230.123:443 chaos.nuist.cf
 202.81.230.145:443 *.69av.live 69av.live
 202.81.230.146:443 da-hk.liqqq.store
 202.81.230.148:443 jump.duang1024.com www.duang1024.com
@@ -239,8 +238,15 @@
 202.81.230.178:443 hkx.catm.cc
 202.81.230.179:443 file.gzcd.pw
 202.81.230.183:443 hk12.netv2.work
+202.81.230.184:443 hk2.vip-go.net
 202.81.230.185:443 hk14.netv2.work
 202.81.230.189:443 netfront.imgsbox.com
+202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.197:443 hk01.liqqq.store
 202.81.230.198:443 www.24jun.com
 202.81.230.201:443 zone-c-cn2-hk-c.aliddnsdog.dev
 202.81.230.202:443 waverider2.com
@@ -261,7 +267,6 @@
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.71:443 www.mpojie.net
 202.81.231.80:443 20.hktv.live
-202.81.231.87:443 hk.tianji.me
 202.81.231.91:443 hk1091.worldbook.online
 202.81.231.94:443 paya.mpojie.cc
 202.81.231.105:443 hkal.catm.cc
@@ -272,19 +277,21 @@
 202.81.231.157:443 so.cnsucai.com
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 panel.glduo.xyz
+202.81.231.177:443 bbs.library.ac.cn
+202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com catpromax.com
 202.81.231.207:443 ak.juyoua.cn
 202.81.231.210:443 waverider3.com
 202.81.231.215:443 koios.nuist.cf
 202.81.231.233:443 v2hkg.51ssr.club
-202.81.231.234:443 hk.tianji.me
 202.81.231.245:443 mensa.org.hk www.mensa.org.hk
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 q9tech.netfront.net
+202.81.232.37:443 hk.theshy.cf
 202.81.232.44:443 hknet.ultronstar.com
 202.81.232.64:443 www.giao.live
 202.81.232.69:443 *.774.gs 774.gs *.z-r.cc z-r.cc *.i4.fit i4.fit
@@ -363,17 +370,18 @@
 202.81.237.194:443 scholar.ustc.cf
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ak.juyoua.cn
-202.81.237.225:443 hk.tianji.me
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
 202.81.242.13:443 amazon-co-jp.info www.amazon-co-jp.info
+202.81.242.14:443 amazon-co-jp.biz amazon-co-jp.org www.amazon-co-jp.biz www.amazon-co-jp.org
 202.81.242.15:443 ssmgr.xl78693.com
-202.81.242.50:443 www.defidaodapp.com
+202.81.242.59:443 www.ken0375.xyz
 202.81.242.109:443 *.zuole.net zuole.net
 202.81.242.122:443 *.amymind.com amymind.com
 202.81.242.242:443 drive.netsoft.me
 202.81.242.250:443 www.igarment.net
+202.81.242.251:443 www.igarment.net
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 *.frenzymind.com frenzymind.com
 202.81.244.245:443 *.frenzymind.com frenzymind.com
