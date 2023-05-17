@@ -22,7 +22,6 @@
 202.81.6.193:443 remote.scag.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
-202.81.49.5:443 mrtg.mld.id
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
 202.81.52.67:443 mon.mld.id
 202.81.52.69:443 ns2.ranah.my.id
@@ -49,6 +48,16 @@
 202.81.106.239:443 clientbp.common.ggbluefox.com
 202.81.106.242:443 clientbp.common.ggbluefox.com
 202.81.107.170:443 bdversion.ggbluefox.com
+202.81.108.9:443 loginbp.common.ggbluefox.com
+202.81.108.10:443 loginbp.common.ggbluefox.com
+202.81.108.11:443 loginbp.common.ggbluefox.com
+202.81.108.12:443 loginbp.common.ggbluefox.com
+202.81.108.13:443 loginbp.common.ggbluefox.com
+202.81.108.31:443 loginbp.common.ggbluefox.com
+202.81.108.32:443 loginbp.common.ggbluefox.com
+202.81.108.33:443 loginbp.common.ggbluefox.com
+202.81.108.34:443 loginbp.common.ggbluefox.com
+202.81.108.35:443 loginbp.common.ggbluefox.com
 202.81.108.98:443 ind.network.freefiremobile.com
 202.81.109.2:443 client.ind.freefiremobile.com
 202.81.109.4:443 client.ind.freefiremobile.com
@@ -137,6 +146,7 @@
 202.81.123.118:443 client.advance.freefiremobile.com
 202.81.123.119:443 version.advance.freefiremobile.com
 202.81.123.129:443 test.castle.api.freefiremobile.com
+202.81.123.136:443 idadv.event.freefiremobile.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
@@ -216,7 +226,6 @@
 202.81.230.25:443 bubbles.team www.bubbles.team
 202.81.230.26:443 cloudfront.net *.cloudfront.net
 202.81.230.40:443 www.jukergame.net
-202.81.230.43:443 netfront11.910420.best
 202.81.230.45:443 hk10.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -240,6 +249,7 @@
 202.81.230.128:443 *.backmoestream.xyz backmoestream.xyz
 202.81.230.129:443 *.backmoestream.xyz backmoestream.xyz
 202.81.230.130:443 *.backmoestream.xyz backmoestream.xyz
+202.81.230.131:443 vip2-hk1.55225522.xyz
 202.81.230.132:443 *.backmoestream.xyz backmoestream.xyz
 202.81.230.134:443 *.backmoestream.xyz backmoestream.xyz
 202.81.230.135:443 *.backmoestream.xyz backmoestream.xyz
@@ -278,6 +288,7 @@
 202.81.231.39:443 bilibilihome.top
 202.81.231.47:443 e6.yuer.cool
 202.81.231.59:443 pan.maxheap.cn
+202.81.231.66:443 sc.coolmi.ml
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.71:443 www.mpojie.net
@@ -289,6 +300,7 @@
 202.81.231.129:443 v5.bbr3333.club
 202.81.231.131:443 v6.bbr3333.club
 202.81.231.132:443 v7.bbr3333.club
+202.81.231.133:443 study.zuobi.org
 202.81.231.137:443 v8.bbr3333.club
 202.81.231.138:443 *.shallserve.cc shallserve.cc
 202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
@@ -320,7 +332,7 @@
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.28:443 k2.yoyy777.xyz
-202.81.232.30:443 pamfx2023.xyz
+202.81.232.29:443 skysun888.ml
 202.81.232.32:443 k3.yoyy777.xyz
 202.81.232.35:443 k4.yoyy777.xyz
 202.81.232.38:443 k5.yoyy777.xyz
@@ -342,7 +354,6 @@
 202.81.232.78:443 hk2.mrrockist.top
 202.81.232.79:443 hk.lkx-nb.com
 202.81.232.81:443 *.backmoestream.xyz backmoestream.xyz
-202.81.232.82:443 hk.909969.xyz
 202.81.232.85:443 *.backmoestream.xyz backmoestream.xyz
 202.81.232.92:443 k13.yoyy777.xyz
 202.81.232.94:443 k14.yoyy777.xyz
@@ -360,6 +371,7 @@
 202.81.232.163:443 t.laijicn.click
 202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
+202.81.232.195:443 hk-netfront.vm.331331.xyz
 202.81.232.201:443 newhk.lixunfan.top
 202.81.232.204:443 *.backmoestream.xyz backmoestream.xyz
 202.81.232.207:443 *.backmoestream.xyz backmoestream.xyz
@@ -380,7 +392,6 @@
 202.81.235.12:443 waverider4.com
 202.81.235.14:443 *.ibugone.com *.s.ibugone.com *.taokystrong.com *.ustc.ibugone.com ibugone.com taokystrong.com
 202.81.235.26:443 hk004.minirouter.top
-202.81.235.55:443 *.ikelly.me ikelly.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -405,7 +416,6 @@
 202.81.235.199:443 hk003.minirouter.top
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.209:443 hk2.netflix6.com
-202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
 202.81.237.14:443 hk.smartparking.app
 202.81.237.15:443 hk.smartparking.app
@@ -421,9 +431,11 @@
 202.81.237.76:443 add.svipbitmex.top
 202.81.237.77:443 add.svipbitmex.top
 202.81.237.79:443 cdn.jachun.com
+202.81.237.96:443 blog.coolmi.tk
 202.81.237.98:443 maaaj.com www.maaaj.com
 202.81.237.100:443 bz.53326.com
 202.81.237.101:443 www.kkiikk02.top
+202.81.237.112:443 data.chaostu.cc
 202.81.237.115:443 *.shadowseen.com shadowseen.com
 202.81.237.118:443 *.shallserve.cc shallserve.cc
 202.81.237.119:443 *.shallserve.cc shallserve.cc
@@ -450,7 +462,7 @@
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.206:443 dt.qapvw.top
 202.81.237.207:443 hk3t.rwshfzxy.cn
-202.81.237.211:443 netfront.xray.shilli.site
+202.81.237.211:443 *.shilli.site *.xray.shilli.site shilli.site
 202.81.237.220:443 v14.bbr3333.club
 202.81.237.221:443 v15.bbr3333.club
 202.81.237.224:443 p.pwaea.top
@@ -459,6 +471,7 @@
 202.81.237.228:443 p.pwaea.top
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.backmoestream.xyz backmoestream.xyz
+202.81.237.251:443 aa8n.afhfanghongkjk0430sdhf08ad.pro
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
 202.81.243.69:443 www.ldcstudy.net
@@ -475,6 +488,7 @@
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esapps.hk www.lms.esapps.hk
+202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
 202.81.250.55:443 ows.esrichina.hk www.ows.esrichina.hk
 202.81.250.56:443 240leave.esrichina.hk www.240leave.esrichina.hk
