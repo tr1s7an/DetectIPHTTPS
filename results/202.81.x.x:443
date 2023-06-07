@@ -24,6 +24,7 @@
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.49.5:443 mrtg.mld.id
+202.81.49.9:443 medialintas.com
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
 202.81.52.67:443 mon.mld.id
 202.81.52.69:443 ns2.ranah.my.id
@@ -203,25 +204,21 @@
 202.81.229.97:443 xinxiwang.me
 202.81.229.105:443 hejunjituan.com
 202.81.229.117:443 cloudfront.net *.cloudfront.net
+202.81.229.118:443 cloudfront.net *.cloudfront.net
 202.81.229.119:443 xs2.ganjuzx.cn
 202.81.229.123:443 *.shadowseen.com shadowseen.com
 202.81.229.124:443 *.shadowseen.com shadowseen.com
+202.81.229.125:443 *.shallserve.cc shallserve.cc
 202.81.229.136:443 xwzj.mom
 202.81.229.142:443 xinxiwang.me
 202.81.229.143:443 xinxiwang.me
 202.81.229.169:443 *.backmoestream.xyz backmoestream.xyz
 202.81.229.175:443 *.backmoestream.xyz backmoestream.xyz
-202.81.229.188:443 gjmt.cc
-202.81.229.189:443 gjmt.cc
-202.81.229.190:443 gjmt.cc
+202.81.229.190:443 gjmt.pics
 202.81.229.191:443 gjmt.app
 202.81.229.192:443 gjmt.app
 202.81.229.193:443 gjmt.app
 202.81.229.194:443 gjmt.app
-202.81.229.219:443 yunhuizb.cc
-202.81.229.220:443 yunhuizb.cc
-202.81.229.221:443 yunhuizb.cc
-202.81.229.248:443 yunhuizb.cc
 202.81.230.9:443 teambonfire.org
 202.81.230.18:443 api.wwbbwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -349,6 +346,7 @@
 202.81.232.56:443 k8.yoyy777.xyz
 202.81.232.61:443 k9.yoyy777.xyz
 202.81.232.64:443 www.giao.live
+202.81.232.65:443 f23265.698745.xyz
 202.81.232.67:443 k10.yoyy777.xyz
 202.81.232.69:443 *.774.gs 774.gs *.z-r.cc z-r.cc zr.wiki *.zr.wiki
 202.81.232.71:443 k11.yoyy777.xyz
@@ -372,7 +370,7 @@
 202.81.232.131:443 lth0819.lth0819.top
 202.81.232.135:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.232.140:443 xgdz.cloud
-202.81.232.163:443 t.laijicn.click
+202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
 202.81.232.195:443 hk-netfront.vm.331331.xyz
 202.81.232.201:443 newhk.lixunfan.top
@@ -438,7 +436,6 @@
 202.81.237.77:443 add.bxfr5824bk.top
 202.81.237.79:443 cdn.jachun.com
 202.81.237.96:443 blog.coolmi.tk
-202.81.237.98:443 maaaj.com www.maaaj.com
 202.81.237.100:443 bz.53326.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.115:443 *.shadowseen.com shadowseen.com
@@ -469,12 +466,13 @@
 202.81.237.181:443 v12.bbr3333.club
 202.81.237.182:443 v13.bbr3333.club
 202.81.237.184:443 yac.crazylattice.fit
+202.81.237.189:443 hknf.s4muel.com
 202.81.237.195:443 xzdgrty3.sgqiuee.cn
 202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.206:443 dt.qapvw.top
 202.81.237.207:443 hk3t.rwshfzxy.cn
-202.81.237.211:443 gjmt.cc
+202.81.237.211:443 gjmt.pics
 202.81.237.220:443 v14.bbr3333.club
 202.81.237.221:443 v15.bbr3333.club
 202.81.237.224:443 p.pwaea.top
@@ -491,6 +489,7 @@
 202.81.244.245:443 *.frenzymind.com frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.15:443 demo3.hkgisportal.com www.demo3.hkgisportal.com
+202.81.250.21:443 iotdemo2.hkgisportal.com www.iotdemo2.hkgisportal.com
 202.81.250.27:443 pmp.esrichina.hk www.pmp.esrichina.hk
 202.81.250.28:443 lms.esrichina.hk www.lms.esrichina.hk
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
@@ -502,6 +501,7 @@
 202.81.250.47:443 eleave.esapps.hk www.eleave.esapps.hk
 202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
+202.81.250.53:443 iotdemo1.hkgisportal.com www.iotdemo1.hkgisportal.com
 202.81.250.55:443 ows.esrichina.hk www.ows.esrichina.hk
 202.81.250.56:443 240leave.esrichina.hk www.240leave.esrichina.hk
 202.81.250.57:443 eportal.esrichina.hk www.eportal.esrichina.hk
