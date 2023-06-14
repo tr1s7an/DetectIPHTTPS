@@ -19,12 +19,9 @@
 202.81.6.29:443 *.smileteam.com.au smileteam.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.74:443 riteq.wslc.com.au ess.wslc.com.au mobile.wslc.com.au www.ess.wslc.com.au www.mobile.wslc.com.au www.riteq.wslc.com.au
-202.81.6.102:443 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
 202.81.6.193:443 remote.scag.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
-202.81.49.5:443 mrtg.mld.id
-202.81.49.9:443 medialintas.com
 202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
 202.81.52.67:443 mon.mld.id
 202.81.52.69:443 ns2.ranah.my.id
@@ -32,6 +29,7 @@
 202.81.52.109:443 vp1.mld.id
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
 202.81.52.248:443 server.diangraha.com
+202.81.52.254:443 kemenperin.mirzuno.com
 202.81.106.58:443 sg.network.freefiremobile.com
 202.81.106.59:443 sg.event.freefiremobile.com
 202.81.106.199:443 bd.event.freefiremobile.com
@@ -122,11 +120,11 @@
 202.81.119.12:443 bdversion.ggbluefox.com
 202.81.119.13:443 bdversion.ggbluefox.com
 202.81.119.14:443 bdversion.ggbluefox.com
-202.81.119.16:443 version.common.ff.garena.com
-202.81.119.17:443 version.common.ff.garena.com
-202.81.119.18:443 version.common.ff.garena.com
-202.81.119.19:443 version.common.ff.garena.com
-202.81.119.20:443 version.common.ff.garena.com
+202.81.119.16:443 version.freefireind.in
+202.81.119.17:443 version.freefireind.in
+202.81.119.18:443 version.freefireind.in
+202.81.119.19:443 version.freefireind.in
+202.81.119.20:443 version.freefireind.in
 202.81.119.40:443 transferlogin.fe.garena.com
 202.81.119.78:443 transferlogin.fe.garena.com
 202.81.119.80:443 client.fe.garena.com
@@ -200,8 +198,7 @@
 202.81.229.93:443 zhongdingzb.com
 202.81.229.94:443 hejunjituan.com
 202.81.229.95:443 hejunjituan.com
-202.81.229.96:443 xinxiwang.me
-202.81.229.97:443 xinxiwang.me
+202.81.229.99:443 www.apaiy.com
 202.81.229.105:443 hejunjituan.com
 202.81.229.117:443 cloudfront.net *.cloudfront.net
 202.81.229.118:443 cloudfront.net *.cloudfront.net
@@ -209,11 +206,13 @@
 202.81.229.123:443 *.shadowseen.com shadowseen.com
 202.81.229.124:443 *.shadowseen.com shadowseen.com
 202.81.229.125:443 *.shallserve.cc shallserve.cc
+202.81.229.129:443 junlian.app
 202.81.229.136:443 xwzj.mom
-202.81.229.142:443 xinxiwang.me
-202.81.229.143:443 xinxiwang.me
-202.81.229.169:443 *.backmoestream.xyz backmoestream.xyz
-202.81.229.175:443 *.backmoestream.xyz backmoestream.xyz
+202.81.229.140:443 junlian.app
+202.81.229.147:443 junlian.app
+202.81.229.169:443 *.imgapp.top imgapp.top
+202.81.229.174:443 junlian.app
+202.81.229.175:443 *.imgapp.top imgapp.top
 202.81.229.190:443 gjmt.pics
 202.81.229.191:443 gjmt.app
 202.81.229.192:443 gjmt.app
@@ -234,29 +233,27 @@
 202.81.230.61:443 www.zerothings.cn zerothings.cn
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.81:443 nf.runofo.xyz
-202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.98:443 xxly5.minirouter.top
 202.81.230.109:443 xxly4.minirouter.top
-202.81.230.110:443 ibushierbaiwu.xyz
 202.81.230.112:443 20.hktv.live
-202.81.230.118:443 *.backmoestream.xyz backmoestream.xyz
+202.81.230.118:443 *.imgapp.top imgapp.top
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.120:443 *.backmoestream.xyz backmoestream.xyz
+202.81.230.120:443 *.imgapp.top imgapp.top
 202.81.230.123:443 chaos.nuist.cf
-202.81.230.125:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.126:443 *.backmoestream.xyz backmoestream.xyz
+202.81.230.125:443 *.imgapp.top imgapp.top
+202.81.230.126:443 *.imgapp.top imgapp.top
 202.81.230.127:443 wozx.io
-202.81.230.128:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.129:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.130:443 *.backmoestream.xyz backmoestream.xyz
+202.81.230.128:443 *.imgapp.top imgapp.top
+202.81.230.129:443 *.imgapp.top imgapp.top
+202.81.230.130:443 *.imgapp.top imgapp.top
 202.81.230.131:443 vip2-hk1.55225522.xyz
-202.81.230.132:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.134:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.135:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.136:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.137:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.139:443 *.backmoestream.xyz backmoestream.xyz
-202.81.230.140:443 *.backmoestream.xyz backmoestream.xyz
+202.81.230.132:443 *.imgapp.top imgapp.top
+202.81.230.134:443 *.imgapp.top imgapp.top
+202.81.230.135:443 *.imgapp.top imgapp.top
+202.81.230.136:443 *.imgapp.top imgapp.top
+202.81.230.137:443 *.imgapp.top imgapp.top
+202.81.230.139:443 *.imgapp.top imgapp.top
+202.81.230.140:443 *.imgapp.top imgapp.top
 202.81.230.148:443 jump.duang1024.com run.pigcha.com webapi.pigcha.com www.duang1024.com www.oniongeeker.com
 202.81.230.156:443 cdn.jachun.com
 202.81.230.167:443 o.biubiufly.cc
@@ -278,7 +275,6 @@
 202.81.230.222:443 waverider5.com
 202.81.230.223:443 ofly.bar
 202.81.230.224:443 ofly.bar
-202.81.230.234:443 eyesprite.com
 202.81.230.244:443 waverider5.com
 202.81.230.249:443 hki.catm.cc
 202.81.231.2:443 *.netfront.net
@@ -286,7 +282,6 @@
 202.81.231.33:443 m.16tuku.com
 202.81.231.34:443 www.youmu.love youmu.love
 202.81.231.39:443 bilibilihome.top
-202.81.231.47:443 e6.yuer.cool
 202.81.231.59:443 pan.maxheap.cn
 202.81.231.66:443 sc.coolmi.ml
 202.81.231.67:443 cdn.jachun.com
@@ -316,6 +311,7 @@
 202.81.231.176:443 v4.bbr3333.club
 202.81.231.177:443 bbs.library.ac.cn
 202.81.231.183:443 download.duangspeed.com webdownload.duangspeed.com
+202.81.231.186:443 *.affxiangri01kui.app affxiangri01kui.app
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com catpromax.com
@@ -326,7 +322,7 @@
 202.81.231.245:443 mensa.org.hk www.mensa.org.hk
 202.81.231.246:443 mensa.org.hk www.mensa.org.hk
 202.81.232.12:443 *.ohohman.net ohohman.net
-202.81.232.13:443 *.backmoestream.xyz backmoestream.xyz
+202.81.232.13:443 *.imgapp.top imgapp.top
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.21:443 k1.yoyy777.xyz
 202.81.232.23:443 tls.im
@@ -334,7 +330,6 @@
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.28:443 k2.yoyy777.xyz
 202.81.232.30:443 hejunjituan.com
-202.81.232.32:443 k3.yoyy777.xyz
 202.81.232.35:443 k4.yoyy777.xyz
 202.81.232.38:443 k5.yoyy777.xyz
 202.81.232.41:443 run.co2fun.com www.co2fun.com
@@ -354,9 +349,9 @@
 202.81.232.77:443 nosb31.hoshinosena.com
 202.81.232.78:443 hk2.mrrockist.top
 202.81.232.79:443 hk.lkx-nb.com
-202.81.232.81:443 *.backmoestream.xyz backmoestream.xyz
+202.81.232.81:443 *.imgapp.top imgapp.top
 202.81.232.82:443 hk.909969.xyz
-202.81.232.85:443 *.backmoestream.xyz backmoestream.xyz
+202.81.232.85:443 *.imgapp.top imgapp.top
 202.81.232.92:443 k13.yoyy777.xyz
 202.81.232.94:443 k14.yoyy777.xyz
 202.81.232.103:443 chunhuact.cc
@@ -364,20 +359,18 @@
 202.81.232.107:443 chunhuact.com
 202.81.232.108:443 chunhuact.com
 202.81.232.110:443 chunhuact.com
-202.81.232.111:443 *.backmoestream.xyz backmoestream.xyz
+202.81.232.111:443 *.imgapp.top imgapp.top
 202.81.232.112:443 chunhuact.com
 202.81.232.129:443 hk.asir.org.cn
 202.81.232.131:443 lth0819.lth0819.top
-202.81.232.135:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.232.140:443 xgdz.cloud
-202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
 202.81.232.195:443 hk-netfront.vm.331331.xyz
 202.81.232.201:443 newhk.lixunfan.top
-202.81.232.204:443 *.backmoestream.xyz backmoestream.xyz
-202.81.232.207:443 *.backmoestream.xyz backmoestream.xyz
+202.81.232.204:443 *.imgapp.top imgapp.top
+202.81.232.207:443 *.imgapp.top imgapp.top
 202.81.232.221:443 cdn.layuicdn.one
-202.81.232.229:443 *.backmoestream.xyz backmoestream.xyz
+202.81.232.229:443 *.imgapp.top imgapp.top
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.3:443 cpanel.netfront.net
@@ -398,22 +391,22 @@
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
 202.81.235.70:443 *.coz.moe
-202.81.235.71:443 *.backmoestream.xyz backmoestream.xyz
+202.81.235.71:443 *.imgapp.top imgapp.top
 202.81.235.73:443 www.alexguo.online
-202.81.235.74:443 *.backmoestream.xyz backmoestream.xyz
+202.81.235.74:443 *.imgapp.top imgapp.top
 202.81.235.75:443 ourea.nuist.cf
-202.81.235.83:443 *.backmoestream.xyz backmoestream.xyz
-202.81.235.88:443 *.backmoestream.xyz backmoestream.xyz
-202.81.235.95:443 *.backmoestream.xyz backmoestream.xyz
-202.81.235.116:443 *.backmoestream.xyz backmoestream.xyz
+202.81.235.83:443 *.imgapp.top imgapp.top
+202.81.235.88:443 *.imgapp.top imgapp.top
+202.81.235.95:443 *.imgapp.top imgapp.top
+202.81.235.116:443 *.imgapp.top imgapp.top
 202.81.235.119:443 hk5119.worldbook.online
-202.81.235.127:443 *.backmoestream.xyz backmoestream.xyz
+202.81.235.127:443 *.imgapp.top imgapp.top
 202.81.235.137:443 hyoukyou.moe
 202.81.235.160:443 jeelinux.com www.jeelinux.com
 202.81.235.175:443 hk.smartparking.app
-202.81.235.182:443 *.backmoestream.xyz backmoestream.xyz
-202.81.235.189:443 *.backmoestream.xyz backmoestream.xyz
-202.81.235.191:443 *.backmoestream.xyz backmoestream.xyz
+202.81.235.182:443 *.imgapp.top imgapp.top
+202.81.235.189:443 *.imgapp.top imgapp.top
+202.81.235.191:443 *.imgapp.top imgapp.top
 202.81.235.192:443 hk.smartparking.app
 202.81.235.199:443 hk003.minirouter.top
 202.81.235.203:443 hk2.regeneonline.com
@@ -436,6 +429,7 @@
 202.81.237.77:443 add.bxfr5824bk.top
 202.81.237.79:443 cdn.jachun.com
 202.81.237.96:443 blog.coolmi.tk
+202.81.237.98:443 maaaj.com www.maaaj.com
 202.81.237.100:443 bz.53326.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.115:443 *.shadowseen.com shadowseen.com
@@ -464,12 +458,12 @@
 202.81.237.175:443 v10.bbr3333.club
 202.81.237.180:443 v11.bbr3333.club
 202.81.237.181:443 v12.bbr3333.club
-202.81.237.182:443 v13.bbr3333.club
 202.81.237.184:443 yac.crazylattice.fit
 202.81.237.189:443 hknf.s4muel.com
 202.81.237.195:443 xzdgrty3.sgqiuee.cn
 202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
+202.81.237.204:443 hhhsss.com www.hhhsss.com
 202.81.237.206:443 dt.qapvw.top
 202.81.237.207:443 hk3t.rwshfzxy.cn
 202.81.237.211:443 gjmt.pics
@@ -481,15 +475,12 @@
 202.81.237.228:443 p.pwaea.top
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.242:443 xwzj.mom
-202.81.237.246:443 *.backmoestream.xyz backmoestream.xyz
-202.81.238.8:443 *.hk.com
-202.81.238.18:443 *.hk.com
+202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 *.frenzymind.com frenzymind.com
 202.81.244.245:443 *.frenzymind.com frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.15:443 demo3.hkgisportal.com www.demo3.hkgisportal.com
-202.81.250.21:443 iotdemo2.hkgisportal.com www.iotdemo2.hkgisportal.com
 202.81.250.27:443 pmp.esrichina.hk www.pmp.esrichina.hk
 202.81.250.28:443 lms.esrichina.hk www.lms.esrichina.hk
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
@@ -499,9 +490,7 @@
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esapps.hk www.lms.esapps.hk
 202.81.250.47:443 eleave.esapps.hk www.eleave.esapps.hk
-202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
-202.81.250.53:443 iotdemo1.hkgisportal.com www.iotdemo1.hkgisportal.com
 202.81.250.55:443 ows.esrichina.hk www.ows.esrichina.hk
 202.81.250.56:443 240leave.esrichina.hk www.240leave.esrichina.hk
 202.81.250.57:443 eportal.esrichina.hk www.eportal.esrichina.hk
@@ -518,13 +507,11 @@
 202.81.252.46:443 *.netfront.net
 202.81.252.47:443 *.netfront.net
 202.81.252.48:443 procommons.hk procommons.org.hk www.procommons.hk www.procommons.org.hk
-202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
-202.81.252.244:443 *.netfront.net
 202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
 202.81.252.246:443 cpanel.netfront.net
