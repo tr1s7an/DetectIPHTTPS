@@ -19,16 +19,18 @@
 202.81.6.29:443 *.smileteam.com.au smileteam.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.74:443 riteq.wslc.com.au ess.wslc.com.au mobile.wslc.com.au www.ess.wslc.com.au www.mobile.wslc.com.au www.riteq.wslc.com.au
+202.81.6.102:443 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
 202.81.6.193:443 remote.scag.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
-202.81.52.35:443 mail.medialintas.com www.mail.medialintas.com
+202.81.52.52:443 mbx.mld.id
 202.81.52.67:443 mon.mld.id
 202.81.52.69:443 ns2.ranah.my.id
 202.81.52.108:443 crm.mld.id
 202.81.52.109:443 vp1.mld.id
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
 202.81.52.248:443 server.diangraha.com
+202.81.52.254:443 kemenperin.mirzuno.com
 202.81.106.58:443 sg.network.freefiremobile.com
 202.81.106.59:443 sg.event.freefiremobile.com
 202.81.106.199:443 bd.event.freefiremobile.com
@@ -194,7 +196,6 @@
 202.81.229.93:443 zhongdingzb.com
 202.81.229.96:443 xinxiwang.me
 202.81.229.97:443 xinxiwang.me
-202.81.229.99:443 www.apaiy.com
 202.81.229.117:443 cloudfront.net *.cloudfront.net
 202.81.229.118:443 cloudfront.net *.cloudfront.net
 202.81.229.119:443 xs2.ganjuzx.cn
@@ -254,6 +255,7 @@
 202.81.230.128:443 *.imgapp.top imgapp.top
 202.81.230.129:443 *.imgapp.top imgapp.top
 202.81.230.130:443 *.imgapp.top imgapp.top
+202.81.230.131:443 vip2-hk1.55225522.xyz
 202.81.230.132:443 *.imgapp.top imgapp.top
 202.81.230.134:443 *.imgapp.top imgapp.top
 202.81.230.135:443 *.imgapp.top imgapp.top
@@ -276,9 +278,9 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn25.com
+202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn25com.pw
 202.81.230.202:443 waverider2.com
-202.81.230.214:443 zone-c-cn2-hk-c.alicloud-ddns-hn25.com
+202.81.230.214:443 zone-c-cn2-hk-c.alicloud-ddns-hn25com.pw
 202.81.230.220:443 ofly.bar
 202.81.230.222:443 waverider5.com
 202.81.230.223:443 ofly.bar
@@ -356,30 +358,32 @@
 202.81.232.65:443 f23265.698745.xyz
 202.81.232.67:443 k10.yoyy777.xyz
 202.81.232.69:443 *.774.gs 774.gs *.z-r.cc z-r.cc zr.wiki *.zr.wiki
-202.81.232.71:443 k11.yoyy777.xyz
-202.81.232.74:443 k12.yoyy777.xyz
 202.81.232.77:443 nosb31.hoshinosena.com
 202.81.232.78:443 hk2.mrrockist.top
 202.81.232.79:443 hk.lkx-nb.com
 202.81.232.81:443 *.imgapp.top imgapp.top
 202.81.232.82:443 hk.909969.xyz
 202.81.232.85:443 *.imgapp.top imgapp.top
-202.81.232.92:443 k13.yoyy777.xyz
-202.81.232.94:443 k14.yoyy777.xyz
 202.81.232.103:443 chunhuact.cc
+202.81.232.105:443 zggx.app
 202.81.232.106:443 chunhuact.cc
 202.81.232.107:443 chunhuact.com
 202.81.232.108:443 chunhuact.com
 202.81.232.110:443 chunhuact.com
 202.81.232.111:443 *.imgapp.top imgapp.top
 202.81.232.112:443 chunhuact.com
+202.81.232.113:443 zggx.app
+202.81.232.118:443 zggx.app
+202.81.232.119:443 zggx.app
+202.81.232.121:443 guoxin.pics
+202.81.232.123:443 guoxin.pics
+202.81.232.124:443 guoxin.pics
+202.81.232.125:443 guoxin.pics
 202.81.232.129:443 hk.asir.org.cn
 202.81.232.131:443 lth0819.lth0819.top
 202.81.232.140:443 xgdz.cloud
 202.81.232.144:443 cd.mybocchi.com
 202.81.232.162:443 *.nyaapasu.net
-202.81.232.163:443 t.laijicn.click
-202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
 202.81.232.195:443 hk-netfront.vm.331331.xyz
 202.81.232.201:443 newhk.lixunfan.top
@@ -441,7 +445,6 @@
 202.81.237.77:443 add.bxfr5824bk.top
 202.81.237.79:443 cdn.jachun.com
 202.81.237.96:443 blog.coolmi.tk
-202.81.237.98:443 maaaj.com www.maaaj.com
 202.81.237.100:443 bz.53326.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.112:443 data.chaostu.cc
@@ -473,7 +476,6 @@
 202.81.237.195:443 xzdgrty3.sgqiuee.cn
 202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
-202.81.237.204:443 hhhsss.com www.hhhsss.com
 202.81.237.206:443 dt.qapvw.top
 202.81.237.207:443 hk3t.rwshfzxy.cn
 202.81.237.211:443 gjmt.pics
