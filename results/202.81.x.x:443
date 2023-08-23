@@ -6,6 +6,7 @@
 202.81.4.47:443 server.fulhamgp.com.au www.server.fulhamgp.com.au
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
+202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
@@ -180,9 +181,7 @@
 202.81.123.118:443 client.advance.freefiremobile.com
 202.81.123.119:443 version.advance.freefiremobile.com
 202.81.123.129:443 test.castle.api.freefiremobile.com
-202.81.123.136:443 idadv.event.freefiremobile.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
-202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.208.151:443 central-data.net www.central-data.net
 202.81.208.161:443 backup.central-data.net
@@ -218,7 +217,6 @@
 202.81.229.35:443 www.lhs683.one
 202.81.229.53:443 tingshugege.top
 202.81.229.55:443 translate.iplcn2.com
-202.81.229.74:443 hk2.4thunter.xyz
 202.81.229.86:443 *.bitserve.online bitserve.online
 202.81.229.87:443 *.bitserve.online bitserve.online
 202.81.229.89:443 *.bitserve.online bitserve.online
@@ -239,12 +237,10 @@
 202.81.229.192:443 gjmt.app
 202.81.229.193:443 gjmt.app
 202.81.229.194:443 gjmt.app
-202.81.229.201:443 junlianim.app
 202.81.230.6:443 *.btnull.in btnull.in
 202.81.230.9:443 teambonfire.org
 202.81.230.18:443 api.shwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.24:443 hk11.netv2.work
 202.81.230.26:443 s1.hk.nf.255222.xyz
 202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.40:443 www.mpojie.net www.jukergame.net www.mpojie.com
@@ -280,31 +276,32 @@
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn25.com
 202.81.230.202:443 waverider2.com
+202.81.230.207:443 net.118022.xyz
 202.81.230.208:443 ofly.bar www.ofly.bar
 202.81.230.214:443 zone-c-cn2-hk-c.alicloud-ddns-hn25.com
 202.81.230.249:443 hki.catm.cc
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.27:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.231.31:443 jmjyim.app
 202.81.231.33:443 m.16tuku.com
-202.81.231.35:443 gptwecan.com
+202.81.231.35:443 666pay.gptwecan.com
 202.81.231.36:443 jmjyim.app
+202.81.231.41:443 www.2047.work
 202.81.231.47:443 hk202.goip.de
-202.81.231.59:443 hkg.host.zhanghq.net
+202.81.231.59:443 hk.host.zhanghq.net
 202.81.231.66:443 sc.coolmi.tk
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
+202.81.231.70:443 netfront.shjf.xyz
 202.81.231.71:443 www.mpojie.net www.jukergame.net www.mpojie.com
 202.81.231.80:443 20.hktv.live
 202.81.231.81:443 tingshugege.life
 202.81.231.86:443 hk.shopee01.cyou
 202.81.231.91:443 hk1091.worldbook.online
-202.81.231.94:443 cc.gclilun.com
-202.81.231.96:443 junlianim.app
+202.81.231.94:443 cc.qitao.xyz
 202.81.231.105:443 hkal.catm.cc
 202.81.231.106:443 waverider2.com
-202.81.231.125:443 junlianim.app
+202.81.231.127:443 netfront-hk.zhanglei.me
 202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.231.156:443 hk1156.worldbook.online
 202.81.231.157:443 bz.53326.com
@@ -344,6 +341,7 @@
 202.81.232.144:443 cd.mybocchi.com
 202.81.232.162:443 *.nyaapasu.net
 202.81.232.163:443 t.laijicn.click
+202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
 202.81.232.201:443 newhk.lixunfan.top
 202.81.232.205:443 zggx2.app
@@ -418,11 +416,9 @@
 202.81.237.135:443 nf666.xyz
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.susenu.org
-202.81.237.155:443 junlianim.app
 202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
 202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.184:443 yac.crazylattice.fit
-202.81.237.195:443 xzdgrty3.sgqiuee.cn
 202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.206:443 dt.qapvw.top
@@ -465,3 +461,4 @@
 202.81.252.244:443 *.netfront.net
 202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
 202.81.252.246:443 cpanel.netfront.net
+202.81.254.123:443 smsa2p.asiaroutes.com smsbilling.asiaroutes.com smswitch.asiaroutes.com
