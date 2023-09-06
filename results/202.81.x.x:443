@@ -22,7 +22,6 @@
 202.81.6.193:443 remote.scag.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.238:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
-202.81.49.9:443 medialintas.com
 202.81.52.52:443 mbx.mld.id
 202.81.52.67:443 mon.mld.id
 202.81.52.69:443 ns2.ranah.my.id
@@ -30,7 +29,6 @@
 202.81.52.109:443 vp1.mld.id
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
 202.81.52.248:443 server.diangraha.com
-202.81.52.254:443 kemenperin.mirzuno.com
 202.81.97.157:443 loginbp.common.ggbluefox.com
 202.81.97.158:443 loginbp.common.ggbluefox.com
 202.81.97.159:443 loginbp.common.ggbluefox.com
@@ -81,7 +79,6 @@
 202.81.106.238:443 clientbp.common.ggbluefox.com
 202.81.106.239:443 clientbp.common.ggbluefox.com
 202.81.106.242:443 clientbp.common.ggbluefox.com
-202.81.107.170:443 bdversion.ggbluefox.com
 202.81.108.9:443 loginbp.common.ggbluefox.com
 202.81.108.10:443 loginbp.common.ggbluefox.com
 202.81.108.11:443 loginbp.common.ggbluefox.com
@@ -223,18 +220,25 @@
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.90:443 *.bitserve.online bitserve.online
 202.81.229.99:443 zggxim.app
+202.81.229.100:443 *.ziyuankong.cc ziyuankong.cc
 202.81.229.108:443 zggxim.app
 202.81.229.110:443 zggxim.app
 202.81.229.117:443 cloudfront.net *.cloudfront.net
-202.81.229.118:443 cloudfront.net *.cloudfront.net
 202.81.229.119:443 xs2.ganjuzx.cn
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
+202.81.229.129:443 *.mangkhut.com mangkhut.com
+202.81.229.151:443 *.quilithe.net quilithe.net
+202.81.229.170:443 *.quilithe.net quilithe.net
+202.81.229.178:443 *.ccg.cx
+202.81.229.203:443 nethk.idog.site
 202.81.230.6:443 *.btnull.in btnull.in
 202.81.230.9:443 teambonfire.org
 202.81.230.18:443 api.shwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.24:443 hk11.netv2.work
+202.81.230.29:443 hk006.minirouter.top
 202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.37:443 tingshu.llkaka.com
 202.81.230.40:443 www.mpojie.net www.jukergame.net www.mpojie.com
@@ -246,7 +250,6 @@
 202.81.230.61:443 pay.v2ray.la
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.81:443 nf.runofo.xyz
-202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.98:443 xxly5.minirouter.top
 202.81.230.109:443 xxly4.minirouter.top
 202.81.230.112:443 20.hktv.live
@@ -262,6 +265,7 @@
 202.81.230.179:443 blog.gzcd.org
 202.81.230.183:443 hk12.netv2.work
 202.81.230.184:443 hk2.vip-go.net
+202.81.230.185:443 hk14.netv2.work
 202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -277,7 +281,7 @@
 202.81.231.5:443 *.netfront.net
 202.81.231.31:443 jmjyim.app
 202.81.231.33:443 m.16tuku.com
-202.81.231.35:443 666pay.gptwecan.com
+202.81.231.35:443 1api.gptwecan.com
 202.81.231.36:443 jmjyim.app
 202.81.231.41:443 www.2047.work
 202.81.231.47:443 hk202.goip.de
@@ -328,6 +332,7 @@
 202.81.232.118:443 zgguoxin.app
 202.81.232.119:443 zgguoxin.app
 202.81.232.121:443 guoxin.pics
+202.81.232.122:443 *.hostdevices.com hostdevices.com
 202.81.232.123:443 guoxin.pics
 202.81.232.124:443 guoxin.pics
 202.81.232.125:443 guoxin.pics
@@ -335,6 +340,7 @@
 202.81.232.144:443 cd.mybocchi.com
 202.81.232.162:443 *.nyaapasu.net
 202.81.232.163:443 t.laijicn.click
+202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
 202.81.232.201:443 newhk.lixunfan.top
 202.81.232.205:443 zggx2.app
@@ -368,6 +374,7 @@
 202.81.234.37:443 *.ccp-lies.org ccp-lies.org
 202.81.234.88:443 cpanel.netfront.net
 202.81.235.26:443 hk004.minirouter.top
+202.81.235.34:443 tesla.thron.com tesla-view.thron.com tesla-view.thron.cn tesla-track.thron.com tesla-share.thron.com tesla-share.thron.cn tesla-report.thron.com tesla-product.thron.com tesla-pcr.thron.com tesla-i.thron.com tesla-device.thron.com tesla-dev.thron.com tesla-contact.thron.com tesla-cdn.thron.com tesla-cdn.thron.cn tesla-billing.thron.com tesla-assets.thron.com
 202.81.235.55:443 *.ikelly.me ikelly.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
@@ -394,7 +401,6 @@
 202.81.237.68:443 cesfa.egytup8.top
 202.81.237.69:443 cesfa.egytup8.top
 202.81.237.70:443 pontus.nuist.cf
-202.81.237.74:443 *.55225522.xyz 55225522.xyz
 202.81.237.76:443 cesfa.egytup8.top
 202.81.237.77:443 cesfa.egytup8.top
 202.81.237.78:443 netfronthk.freemyip.com
@@ -413,8 +419,8 @@
 202.81.237.135:443 nf666.xyz
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.susenu.org
+202.81.237.155:443 lysh.re *.lysh.re
 202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
-202.81.237.160:443 *.55225522.xyz 55225522.xyz
 202.81.237.184:443 yac.crazylattice.fit
 202.81.237.199:443 xt.om
 202.81.237.200:443 dt.qapvw.top
@@ -425,8 +431,8 @@
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
 202.81.243.69:443 www.ldcstudy.net
-202.81.244.244:443 *.frenzymind.com frenzymind.com
-202.81.244.245:443 *.frenzymind.com frenzymind.com
+202.81.244.244:443 mail.frenzymind.com autodiscover.frenzymind.com mx.frenzymind.com
+202.81.244.245:443 mail.frenzymind.com awmdm.frenzymind.com awproxy.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.15:443 demo3.hkgisportal.com www.demo3.hkgisportal.com
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
@@ -449,6 +455,7 @@
 202.81.252.46:443 *.netfront.net
 202.81.252.47:443 *.netfront.net
 202.81.252.48:443 procommons.hk procommons.org.hk www.procommons.hk www.procommons.org.hk
+202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
