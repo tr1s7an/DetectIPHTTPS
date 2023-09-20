@@ -25,6 +25,7 @@
 202.81.52.69:443 ns2.ranah.my.id
 202.81.52.108:443 crm.mld.id
 202.81.52.109:443 vp1.mld.id
+202.81.52.226:443 *.mirzuno.com mirzuno.com
 202.81.52.231:443 server.diangraha.com
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
 202.81.97.157:443 loginbp.common.ggbluefox.com
@@ -203,6 +204,7 @@
 202.81.214.185:443 *.gopc.net gopc.net
 202.81.214.186:443 passwordlessauthentication.com www.passwordlessauthentication.com
 202.81.214.190:443 *.bankvault.com bankvault.com
+202.81.215.66:443 remote.oneresidential.com.au www.remote.oneresidential.com.au
 202.81.217.2:443 cds-dr1.central-data.net
 202.81.217.3:443 cds-dr2.central-data.net
 202.81.217.10:443 gopc-dr1.gopc.net
@@ -213,6 +215,7 @@
 202.81.229.35:443 www.lhs683.one
 202.81.229.53:443 tingshugege.top
 202.81.229.55:443 translate.iplcn2.com
+202.81.229.83:443 tingshugege.xyz
 202.81.229.86:443 *.bitserve.online bitserve.online
 202.81.229.87:443 *.bitserve.online bitserve.online
 202.81.229.89:443 *.bitserve.online bitserve.online
@@ -226,10 +229,12 @@
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
-202.81.229.129:443 *.mangkhut.com mangkhut.com
 202.81.229.151:443 *.quilithe.net quilithe.net
+202.81.229.157:443 vip.guoxin98.com
+202.81.229.162:443 vip.guoxin98.com
+202.81.229.163:443 vip.guoxin98.com
+202.81.229.166:443 vip.guoxin98.com
 202.81.229.170:443 *.quilithe.net quilithe.net
-202.81.229.178:443 *.ccg.cx
 202.81.229.203:443 nethk.idog.site
 202.81.230.6:443 *.btnull.in btnull.in
 202.81.230.9:443 teambonfire.org
@@ -248,6 +253,7 @@
 202.81.230.61:443 pay.v2ray.la
 202.81.230.65:443 netfront.pipiya.us
 202.81.230.72:443 v.weixiaoran.top
+202.81.230.79:443 aapi.vdfg23asd21vf.com
 202.81.230.81:443 nf.runofo.xyz
 202.81.230.98:443 xxly5.minirouter.top
 202.81.230.109:443 xxly4.minirouter.top
@@ -255,6 +261,7 @@
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 chaos.nuist.cf
 202.81.230.127:443 wozx.io
+202.81.230.147:443 aapi.vdfg23asd21vf.com
 202.81.230.148:443 jump.duang1024.com run.pigcha.com.hk webapi.pigcha.com.hk www.duang1024.com www.oniongeeker.com www.pigcha.com.hk
 202.81.230.156:443 cdn.jachun.com
 202.81.230.167:443 o.biubiufly.cc
@@ -277,13 +284,10 @@
 202.81.230.249:443 hki.catm.cc
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.31:443 jmjyim.app
 202.81.231.33:443 m.16tuku.com
 202.81.231.35:443 1api.gptwecan.com
-202.81.231.36:443 jmjyim.app
 202.81.231.41:443 www.2047.work
-202.81.231.47:443 hk202.goip.de
-202.81.231.59:443 hk.host.zhanghq.net
+202.81.231.51:443 aapi.vdfg23asd21vf.com
 202.81.231.66:443 sc.coolmi.tk
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
@@ -296,7 +300,6 @@
 202.81.231.94:443 cc.qitao.xyz
 202.81.231.105:443 hkal.catm.cc
 202.81.231.106:443 waverider2.com
-202.81.231.127:443 netfront-hk.zhanglei.me
 202.81.231.150:443 www.cloudflare.com
 202.81.231.152:443 tingshu.llkaka.com
 202.81.231.156:443 hk1156.worldbook.online
@@ -305,7 +308,6 @@
 202.81.231.172:443 cj.646414.xyz
 202.81.231.177:443 bbs.library.ac.cn
 202.81.231.183:443 download.duangspeed.com webdownload.duangspeed.com
-202.81.231.193:443 test.eeep.pw
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.197:443 net.caodeyi.gq
 202.81.231.199:443 *.tongyifan.me tongyifan.me
@@ -345,16 +347,6 @@
 202.81.232.206:443 zggx2.app
 202.81.232.208:443 zggx2.app
 202.81.232.209:443 zggx2.app
-202.81.232.212:443 jmjyim.app
-202.81.232.213:443 jmjyim.app
-202.81.232.215:443 jmgc.app
-202.81.232.216:443 jmgc.app
-202.81.232.217:443 jmgc.app
-202.81.232.218:443 jmgc.app
-202.81.232.219:443 jmgc.pics
-202.81.232.220:443 jmgc.pics
-202.81.232.223:443 jmgc.pics
-202.81.232.224:443 jmgc.pics
 202.81.232.232:443 lxzb.app
 202.81.232.233:443 lxzb.app
 202.81.232.234:443 lxzb.app
@@ -372,7 +364,6 @@
 202.81.234.37:443 *.ccp-lies.org ccp-lies.org
 202.81.234.88:443 cpanel.netfront.net
 202.81.235.26:443 hk004.minirouter.top
-202.81.235.34:443 tesla.thron.com tesla-view.thron.com tesla-view.thron.cn tesla-track.thron.com tesla-share.thron.com tesla-share.thron.cn tesla-report.thron.com tesla-product.thron.com tesla-pcr.thron.com tesla-i.thron.com tesla-device.thron.com tesla-dev.thron.com tesla-contact.thron.com tesla-cdn.thron.com tesla-cdn.thron.cn tesla-billing.thron.com tesla-assets.thron.com
 202.81.235.36:443 ns6.cdnyunjs.com
 202.81.235.55:443 *.ikelly.me ikelly.me
 202.81.235.67:443 *.coz.moe
@@ -381,6 +372,7 @@
 202.81.235.70:443 *.coz.moe
 202.81.235.73:443 www.alexguo.online
 202.81.235.75:443 ourea.nuist.cf
+202.81.235.98:443 aapi.vdfg23asd21vf.com
 202.81.235.119:443 hk5119.worldbook.online
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 hk.smartparking.app
@@ -418,9 +410,9 @@
 202.81.237.135:443 nf666.xyz
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.susenu.org
-202.81.237.155:443 lysh.re *.lysh.re
 202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
 202.81.237.163:443 huige233.com www.huige233.com
+202.81.237.179:443 2012.mireya.eu.org
 202.81.237.184:443 yac.crazylattice.fit
 202.81.237.199:443 xt.om
 202.81.237.200:443 dt.qapvw.top
