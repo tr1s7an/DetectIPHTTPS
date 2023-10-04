@@ -229,23 +229,21 @@
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
 202.81.229.129:443 *.mangkhut.com mangkhut.com
-202.81.229.151:443 *.quilithe.net quilithe.net
 202.81.229.157:443 vip.guoxin98.com
 202.81.229.162:443 vip.guoxin98.com
 202.81.229.163:443 vip.guoxin98.com
 202.81.229.166:443 vip.guoxin98.com
 202.81.229.170:443 *.quilithe.net quilithe.net
-202.81.229.203:443 nethk.idog.site
 202.81.230.6:443 *.btnull.in btnull.in
 202.81.230.9:443 teambonfire.org
 202.81.230.18:443 api.shwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.24:443 hk11.netv2.work
-202.81.230.29:443 hk006.minirouter.top
+202.81.230.29:443 hk006.nyusoft.net
 202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
+202.81.230.36:443 89y.xyz
 202.81.230.37:443 tingshu.llkaka.com
 202.81.230.40:443 www.mpojie.net www.jukergame.net www.mpojie.com
-202.81.230.45:443 hk10.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.59:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -254,7 +252,8 @@
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.79:443 aapi.vdfg23asd21vf.com
 202.81.230.81:443 nf.runofo.xyz
-202.81.230.98:443 xxly5.minirouter.top
+202.81.230.95:443 bb.ganjuzx.cn
+202.81.230.98:443 xxly5.nyusoft.net
 202.81.230.108:443 one.gobit.top
 202.81.230.110:443 one.gobit.top
 202.81.230.112:443 20.hktv.live
@@ -285,6 +284,8 @@
 202.81.230.207:443 net.118022.xyz
 202.81.230.208:443 ofly.bar www.ofly.bar
 202.81.230.214:443 zone-c-cn2-hk-c.alicloud-ddns-hn25.com
+202.81.230.222:443 waverider5.com
+202.81.230.244:443 waverider5.com
 202.81.230.249:443 hki.catm.cc
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
@@ -318,6 +319,7 @@
 202.81.231.197:443 net.caodeyi.gq
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com catpromax.com
+202.81.231.207:443 ss.bp222.cn
 202.81.231.210:443 waverider3.com
 202.81.231.215:443 koios.nuist.cf
 202.81.231.233:443 v2hkg.51ssr.club
@@ -330,7 +332,6 @@
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.liurio.top nh6.liurio.top
 202.81.232.64:443 www.giao.live
-202.81.232.69:443 al.zycen.top
 202.81.232.77:443 nosb31.hoshinosena.com
 202.81.232.78:443 hk2.mrrockist.top
 202.81.232.79:443 hk.lkx-nb.com
@@ -368,7 +369,8 @@
 202.81.234.10:443 cpanel.netfront.net
 202.81.234.37:443 *.ccp-lies.org ccp-lies.org
 202.81.234.88:443 cpanel.netfront.net
-202.81.235.26:443 hk004.minirouter.top
+202.81.235.12:443 waverider4.com
+202.81.235.26:443 hk004.nyusoft.net
 202.81.235.55:443 *.ikelly.me ikelly.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
@@ -381,9 +383,12 @@
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 hk.smartparking.app
 202.81.235.192:443 hk.smartparking.app
-202.81.235.199:443 hk003.minirouter.top
+202.81.235.199:443 hk003.nyusoft.net
 202.81.235.203:443 hk2.regeneonline.com
+202.81.235.204:443 icloud.com auth.apple.com icloud.cdn-apple.com www.icloud.com.cn www.icloud.com
 202.81.235.209:443 hk2.594888.xyz
+202.81.235.228:443 www.ted-education.online
+202.81.235.230:443 *.wkfco.com wkfco.com
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
 202.81.237.14:443 hk.smartparking.app
@@ -391,6 +396,7 @@
 202.81.237.17:443 *.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
+202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.67:443 azhk01.nwncd.com
 202.81.237.68:443 cesfa.egytup8.top
@@ -418,11 +424,15 @@
 202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
 202.81.237.163:443 huige233.com www.huige233.com
 202.81.237.179:443 2012.mireya.eu.org
+202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.184:443 yac.crazylattice.fit
+202.81.237.191:443 ss.bp222.cn
+202.81.237.195:443 xzdgrty3.sgqiuee.cn
 202.81.237.199:443 xt.om
 202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.206:443 dt.qapvw.top
+202.81.237.222:443 ss.bp222.cn
 202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.238.8:443 *.hk.com
@@ -462,4 +472,3 @@
 202.81.252.244:443 *.netfront.net
 202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
 202.81.252.246:443 cpanel.netfront.net
-202.81.254.123:443 smsa2p.asiaroutes.com smsbilling.asiaroutes.com smswitch.asiaroutes.com
