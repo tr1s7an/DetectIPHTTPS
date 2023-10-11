@@ -38,7 +38,8 @@
 202.81.97.164:443 loginbp.common.ggbluefox.com
 202.81.97.165:443 loginbp.common.ggbluefox.com
 202.81.97.166:443 loginbp.common.ggbluefox.com
-202.81.98.21:443 version.advance.freefiremobile.com
+202.81.98.21:443 *.advance.freefiremobile.com
+202.81.98.22:443 *.advance.freefiremobile.com
 202.81.99.1:443 clientbp.common.ggbluefox.com
 202.81.99.2:443 clientbp.common.ggbluefox.com
 202.81.99.3:443 clientbp.common.ggbluefox.com
@@ -155,6 +156,7 @@
 202.81.119.18:443 version.freefireind.in
 202.81.119.19:443 version.freefireind.in
 202.81.119.20:443 version.freefireind.in
+202.81.119.40:443 *.fe.garena.com
 202.81.119.78:443 *.fe.garena.com
 202.81.119.80:443 *.fe.garena.com
 202.81.119.81:443 *.fe.garena.com
@@ -172,8 +174,8 @@
 202.81.123.90:443 login.advance.freefiremobile.com
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
-202.81.123.114:443 client.advance.freefiremobile.com
-202.81.123.118:443 client.advance.freefiremobile.com
+202.81.123.114:443 *.advance.freefiremobile.com
+202.81.123.118:443 *.advance.freefiremobile.com
 202.81.123.119:443 version.advance.freefiremobile.com
 202.81.123.129:443 test.castle.api.freefiremobile.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
@@ -212,13 +214,18 @@
 202.81.229.12:443 *.pinge.me pinge.me
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.35:443 www.lhs683.one
+202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.53:443 tingshugege.top
 202.81.229.55:443 translate.iplcn2.com
+202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.83:443 tingshugege.xyz
 202.81.229.86:443 *.bitserve.online bitserve.online
 202.81.229.87:443 *.bitserve.online bitserve.online
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.90:443 *.bitserve.online bitserve.online
+202.81.229.92:443 *.nyaapasu.net
 202.81.229.99:443 zggxim.app
 202.81.229.100:443 *.ziyuankong.cc ziyuankong.cc
 202.81.229.108:443 zggxim.app
@@ -233,13 +240,16 @@
 202.81.229.162:443 vip.guoxin98.com
 202.81.229.163:443 vip.guoxin98.com
 202.81.229.166:443 vip.guoxin98.com
+202.81.229.169:443 *.imgapp.top imgapp.top
 202.81.229.170:443 *.quilithe.net quilithe.net
+202.81.229.175:443 *.imgapp.top imgapp.top
+202.81.229.178:443 *.ccg.cx
 202.81.230.6:443 *.btnull.in btnull.in
-202.81.230.9:443 teambonfire.org
 202.81.230.18:443 api.shwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.24:443 hk11.netv2.work
-202.81.230.29:443 hk006.nyusoft.net
+202.81.230.29:443 hk006.xnet888.top
+202.81.230.32:443 *.xserver.jp xserver.jp
 202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.36:443 89y.xyz
 202.81.230.37:443 tingshu.llkaka.com
@@ -253,19 +263,32 @@
 202.81.230.79:443 aapi.vdfg23asd21vf.com
 202.81.230.81:443 nf.runofo.xyz
 202.81.230.95:443 bb.ganjuzx.cn
-202.81.230.98:443 xxly5.nyusoft.net
+202.81.230.98:443 xxly5.xnet888.top
 202.81.230.108:443 one.gobit.top
 202.81.230.110:443 one.gobit.top
-202.81.230.112:443 20.hktv.live
 202.81.230.114:443 one.gobit.top
 202.81.230.115:443 one.gobit.top
 202.81.230.117:443 one.gobit.top
+202.81.230.118:443 *.imgapp.top imgapp.top
 202.81.230.119:443 *.4uo.cn 4uo.cn
+202.81.230.120:443 *.imgapp.top imgapp.top
 202.81.230.123:443 chaos.nuist.cf
-202.81.230.127:443 wozx.io
+202.81.230.125:443 *.imgapp.top imgapp.top
+202.81.230.126:443 *.imgapp.top imgapp.top
+202.81.230.127:443 chatgpt2077.top
+202.81.230.128:443 *.imgapp.top imgapp.top
+202.81.230.129:443 *.imgapp.top imgapp.top
+202.81.230.130:443 *.imgapp.top imgapp.top
+202.81.230.132:443 *.imgapp.top imgapp.top
+202.81.230.134:443 *.imgapp.top imgapp.top
+202.81.230.135:443 *.imgapp.top imgapp.top
+202.81.230.136:443 *.imgapp.top imgapp.top
+202.81.230.137:443 *.imgapp.top imgapp.top
+202.81.230.139:443 *.imgapp.top imgapp.top
+202.81.230.140:443 *.imgapp.top imgapp.top
+202.81.230.143:443 *.imgapp.top imgapp.top
 202.81.230.145:443 one.gobit.top
 202.81.230.147:443 aapi.vdfg23asd21vf.com
-202.81.230.148:443 jump.duang1024.com run.pigcha.com.hk webapi.pigcha.com.hk www.duang1024.com www.oniongeeker.com www.pigcha.com.hk
 202.81.230.156:443 cdn.jachun.com
 202.81.230.167:443 o.biubiufly.cc
 202.81.230.168:443 clash-gaming.com clash-windows.com m.clash-gaming.com www.clash-gaming.com www.clash-windows.com
@@ -299,7 +322,6 @@
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.70:443 netfront.shjf.xyz
 202.81.231.71:443 www.mpojie.net www.jukergame.net www.mpojie.com
-202.81.231.80:443 20.hktv.live
 202.81.231.81:443 tingshugege.life
 202.81.231.86:443 hk.shopee01.cyou
 202.81.231.91:443 hk1091.worldbook.online
@@ -314,7 +336,6 @@
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 cj.646414.xyz
 202.81.231.177:443 bbs.library.ac.cn
-202.81.231.183:443 download.duangspeed.com webdownload.duangspeed.com
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.197:443 net.caodeyi.gq
 202.81.231.199:443 *.tongyifan.me tongyifan.me
@@ -324,18 +345,21 @@
 202.81.231.215:443 koios.nuist.cf
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.12:443 *.ohohman.net ohohman.net
+202.81.232.13:443 *.imgapp.top imgapp.top
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.23:443 tls.im
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
-202.81.232.41:443 run.co2fun.com www.co2fun.com www.footballco2fun.com
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.liurio.top nh6.liurio.top
 202.81.232.64:443 www.giao.live
 202.81.232.77:443 nosb31.hoshinosena.com
 202.81.232.78:443 hk2.mrrockist.top
 202.81.232.79:443 hk.lkx-nb.com
+202.81.232.81:443 *.imgapp.top imgapp.top
+202.81.232.85:443 *.imgapp.top imgapp.top
 202.81.232.105:443 zgguoxin.app
+202.81.232.111:443 *.imgapp.top imgapp.top
 202.81.232.113:443 zgguoxin.app
 202.81.232.118:443 zgguoxin.app
 202.81.232.119:443 zgguoxin.app
@@ -349,10 +373,13 @@
 202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
 202.81.232.201:443 newhk.lixunfan.top
+202.81.232.204:443 *.imgapp.top imgapp.top
 202.81.232.205:443 zggx2.app
 202.81.232.206:443 zggx2.app
+202.81.232.207:443 *.imgapp.top imgapp.top
 202.81.232.208:443 zggx2.app
 202.81.232.209:443 zggx2.app
+202.81.232.229:443 *.imgapp.top imgapp.top
 202.81.232.232:443 lxzb.app
 202.81.232.233:443 lxzb.app
 202.81.232.234:443 lxzb.app
@@ -370,23 +397,35 @@
 202.81.234.37:443 *.ccp-lies.org ccp-lies.org
 202.81.234.88:443 cpanel.netfront.net
 202.81.235.12:443 waverider4.com
-202.81.235.26:443 hk004.nyusoft.net
+202.81.235.26:443 hk004.xnet888.top
+202.81.235.32:443 yyds.chatmagic.top
 202.81.235.55:443 *.ikelly.me ikelly.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
 202.81.235.70:443 *.coz.moe
+202.81.235.71:443 *.imgapp.top imgapp.top
 202.81.235.73:443 www.alexguo.online
+202.81.235.74:443 *.imgapp.top imgapp.top
 202.81.235.75:443 ourea.nuist.cf
+202.81.235.83:443 *.imgapp.top imgapp.top
+202.81.235.88:443 *.imgapp.top imgapp.top
+202.81.235.95:443 *.imgapp.top imgapp.top
 202.81.235.98:443 aapi.vdfg23asd21vf.com
+202.81.235.116:443 *.imgapp.top imgapp.top
 202.81.235.119:443 hk5119.worldbook.online
+202.81.235.127:443 *.imgapp.top imgapp.top
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 hk.smartparking.app
+202.81.235.182:443 *.imgapp.top imgapp.top
+202.81.235.189:443 *.imgapp.top imgapp.top
+202.81.235.191:443 *.imgapp.top imgapp.top
 202.81.235.192:443 hk.smartparking.app
-202.81.235.199:443 hk003.nyusoft.net
+202.81.235.199:443 hk003.xnet888.top
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.204:443 icloud.com auth.apple.com icloud.cdn-apple.com www.icloud.com.cn www.icloud.com
 202.81.235.209:443 hk2.594888.xyz
+202.81.235.217:443 nf.jgdtd.com
 202.81.235.228:443 www.ted-education.online
 202.81.235.230:443 *.wkfco.com wkfco.com
 202.81.237.7:443 *.ikelly.me ikelly.me
@@ -417,7 +456,6 @@
 202.81.237.121:443 *.bitserve.cloud bitserve.cloud
 202.81.237.128:443 *.bitserve.cloud bitserve.cloud
 202.81.237.130:443 *.bitserve.cloud bitserve.cloud
-202.81.237.135:443 nf666.xyz
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.susenu.org
 202.81.237.155:443 hk5.0o0.im
@@ -427,14 +465,14 @@
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.184:443 yac.crazylattice.fit
 202.81.237.191:443 ss.bp222.cn
-202.81.237.195:443 xzdgrty3.sgqiuee.cn
 202.81.237.199:443 xt.om
 202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.206:443 dt.qapvw.top
 202.81.237.222:443 ss.bp222.cn
-202.81.237.230:443 xt.om
+202.81.237.230:443 ecc.dearhouse.eu.org
 202.81.237.238:443 hk1.feuler.tk
+202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
 202.81.243.69:443 www.ldcstudy.net
@@ -447,7 +485,6 @@
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esapps.hk www.lms.esapps.hk
 202.81.250.47:443 eleave.esapps.hk www.eleave.esapps.hk
-202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
