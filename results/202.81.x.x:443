@@ -79,16 +79,6 @@
 202.81.106.238:443 clientbp.common.ggbluefox.com
 202.81.106.239:443 clientbp.common.ggbluefox.com
 202.81.106.242:443 clientbp.common.ggbluefox.com
-202.81.108.9:443 loginbp.common.ggbluefox.com
-202.81.108.10:443 loginbp.common.ggbluefox.com
-202.81.108.11:443 loginbp.common.ggbluefox.com
-202.81.108.12:443 loginbp.common.ggbluefox.com
-202.81.108.13:443 loginbp.common.ggbluefox.com
-202.81.108.31:443 loginbp.common.ggbluefox.com
-202.81.108.32:443 loginbp.common.ggbluefox.com
-202.81.108.33:443 loginbp.common.ggbluefox.com
-202.81.108.34:443 loginbp.common.ggbluefox.com
-202.81.108.35:443 loginbp.common.ggbluefox.com
 202.81.108.98:443 *.network.freefiremobile.com
 202.81.109.2:443 client.ind.freefiremobile.com
 202.81.109.4:443 client.ind.freefiremobile.com
@@ -128,7 +118,6 @@
 202.81.113.140:443 ss-receiver.data.garenanow.com
 202.81.113.143:443 shushu.data.jingle.cn
 202.81.114.6:443 ccu.gre.garenanow.com
-202.81.115.33:443 mattermost.security.garenanow.com
 202.81.115.90:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.91:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.102:443 *.keystats.seagroup.com keystats.seagroup.com
@@ -245,11 +234,14 @@
 202.81.229.175:443 *.imgapp.top imgapp.top
 202.81.229.178:443 *.ccg.cx
 202.81.230.6:443 *.btnull.in btnull.in
+202.81.230.9:443 teambonfire.org
 202.81.230.18:443 api.shwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.24:443 hk11.netv2.work
 202.81.230.29:443 hk006.xnet888.top
+202.81.230.31:443 maker.maker-ai.net
 202.81.230.32:443 *.xserver.jp xserver.jp
+202.81.230.34:443 *.xserver.jp xserver.jp
 202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.36:443 89y.xyz
 202.81.230.37:443 tingshu.llkaka.com
@@ -260,7 +252,6 @@
 202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.61:443 pay.v2ray.la
 202.81.230.72:443 v.weixiaoran.top
-202.81.230.79:443 aapi.vdfg23asd21vf.com
 202.81.230.81:443 nf.runofo.xyz
 202.81.230.95:443 bb.ganjuzx.cn
 202.81.230.98:443 xxly5.xnet888.top
@@ -288,7 +279,6 @@
 202.81.230.140:443 *.imgapp.top imgapp.top
 202.81.230.143:443 *.imgapp.top imgapp.top
 202.81.230.145:443 one.gobit.top
-202.81.230.147:443 aapi.vdfg23asd21vf.com
 202.81.230.156:443 cdn.jachun.com
 202.81.230.167:443 o.biubiufly.cc
 202.81.230.168:443 clash-gaming.com clash-windows.com m.clash-gaming.com www.clash-gaming.com www.clash-windows.com
@@ -315,9 +305,6 @@
 202.81.231.33:443 m.16tuku.com
 202.81.231.35:443 1api.gptwecan.com
 202.81.231.41:443 www.2047.work
-202.81.231.51:443 aapi.vdfg23asd21vf.com
-202.81.231.60:443 chat.gptwecan.com
-202.81.231.66:443 sc.coolmi.tk
 202.81.231.67:443 cdn.jachun.com
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.70:443 netfront.shjf.xyz
@@ -370,9 +357,13 @@
 202.81.232.125:443 guoxin.pics
 202.81.232.140:443 xgdz.cloud
 202.81.232.163:443 t.laijicn.click
+202.81.232.190:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.193:443 www.cgbjck.xyz
 202.81.232.194:443 netf.ultronstar.com
+202.81.232.197:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
+202.81.232.200:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.201:443 newhk.lixunfan.top
+202.81.232.202:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.204:443 *.imgapp.top imgapp.top
 202.81.232.205:443 zggx2.app
 202.81.232.206:443 zggx2.app
@@ -380,10 +371,6 @@
 202.81.232.208:443 zggx2.app
 202.81.232.209:443 zggx2.app
 202.81.232.229:443 *.imgapp.top imgapp.top
-202.81.232.232:443 lxzb.app
-202.81.232.233:443 lxzb.app
-202.81.232.234:443 lxzb.app
-202.81.232.235:443 lxzb.app
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.3:443 cpanel.netfront.net
@@ -396,10 +383,12 @@
 202.81.234.10:443 cpanel.netfront.net
 202.81.234.37:443 *.ccp-lies.org ccp-lies.org
 202.81.234.88:443 cpanel.netfront.net
+202.81.235.7:443 maker.maker-ai.net
 202.81.235.12:443 waverider4.com
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.32:443 yyds.chatmagic.top
 202.81.235.55:443 *.ikelly.me ikelly.me
+202.81.235.61:443 maker.maker-ai.net
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -411,7 +400,6 @@
 202.81.235.83:443 *.imgapp.top imgapp.top
 202.81.235.88:443 *.imgapp.top imgapp.top
 202.81.235.95:443 *.imgapp.top imgapp.top
-202.81.235.98:443 aapi.vdfg23asd21vf.com
 202.81.235.116:443 *.imgapp.top imgapp.top
 202.81.235.119:443 hk5119.worldbook.online
 202.81.235.127:443 *.imgapp.top imgapp.top
@@ -425,11 +413,18 @@
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.204:443 icloud.com auth.apple.com icloud.cdn-apple.com www.icloud.com.cn www.icloud.com
 202.81.235.209:443 hk2.594888.xyz
+202.81.235.210:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.235.212:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.235.217:443 nf.jgdtd.com
 202.81.235.228:443 www.ted-education.online
 202.81.235.230:443 *.wkfco.com wkfco.com
+202.81.235.241:443 maker.maker-ai.net
+202.81.235.244:443 o.ocfsbg.cn x.ocfsbg.cn
+202.81.235.245:443 o.ocfsbg.cn x.ocfsbg.cn
+202.81.235.246:443 o.ocfsbg.cn x.ocfsbg.cn
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
+202.81.237.12:443 o.ocfsbg.cn x.ocfsbg.cn
 202.81.237.14:443 hk.smartparking.app
 202.81.237.15:443 hk.smartparking.app
 202.81.237.17:443 *.mmd.ink mmd.ink
@@ -445,7 +440,6 @@
 202.81.237.77:443 cesfa.egytup8.top
 202.81.237.78:443 netfronthk.freemyip.com
 202.81.237.79:443 cdn.jachun.com
-202.81.237.96:443 blog.coolmi.tk
 202.81.237.98:443 zggxim.app
 202.81.237.100:443 bz.53326.com
 202.81.237.101:443 www.kkiikk02.top
@@ -460,6 +454,7 @@
 202.81.237.140:443 www.susenu.org
 202.81.237.155:443 hk5.0o0.im
 202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
+202.81.237.158:443 im.okim.org
 202.81.237.163:443 huige233.com www.huige233.com
 202.81.237.179:443 2012.mireya.eu.org
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
@@ -470,21 +465,21 @@
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.206:443 dt.qapvw.top
 202.81.237.222:443 ss.bp222.cn
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.238.8:443 *.hk.com
 202.81.238.18:443 *.hk.com
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 mail.frenzymind.com autodiscover.frenzymind.com mx.frenzymind.com
-202.81.244.245:443 mail.frenzymind.com awmdm.frenzymind.com awproxy.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
+202.81.244.245:443 sentry.frenzymind.com awmdm.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com vsp.frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.15:443 demo3.hkgisportal.com www.demo3.hkgisportal.com
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esapps.hk www.lms.esapps.hk
-202.81.250.47:443 eleave.esapps.hk www.eleave.esapps.hk
+202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
