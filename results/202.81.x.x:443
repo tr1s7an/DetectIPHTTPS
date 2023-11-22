@@ -21,10 +21,11 @@
 202.81.7.238:443 ausdisability.com.au remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.52.52:443 mbx.mld.id
 202.81.52.67:443 mon.mld.id
-202.81.52.69:443 ns2.ranah.my.id
+202.81.52.69:443 my.syachrul.my.id
 202.81.52.108:443 crm.mld.id
 202.81.52.109:443 vp1.mld.id
 202.81.52.110:443 pdns.mld.id
+202.81.52.115:443 cp.mld.id
 202.81.52.226:443 finance.mirzuno.com
 202.81.52.231:443 server.diangraha.com
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
@@ -150,7 +151,6 @@
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
-202.81.208.142:443 james-dev.gopc.net
 202.81.208.144:443 backup.central-data.com.au
 202.81.208.151:443 central-data.net www.central-data.net
 202.81.208.155:443 kbapi.govault.net
@@ -160,11 +160,10 @@
 202.81.214.143:443 *.bankvault.com bankvault.com
 202.81.214.148:443 *.gopc.net gopc.net
 202.81.214.149:443 *.bankvault.com bankvault.com
-202.81.214.160:443 *.bankvault.com bankvault.com
 202.81.214.164:443 *.bankvault.com bankvault.com
-202.81.214.166:443 *.bankvault.com bankvault.com
+202.81.214.166:443 testing.gopc.net
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
-202.81.214.172:443 *.bankvault.com bankvault.com
+202.81.214.170:443 jenkins01.bankvaultonline.com jenkins01.govault.net
 202.81.214.174:443 *.gopc.net gopc.net
 202.81.214.176:443 *.gopc.net gopc.net
 202.81.214.178:443 *.bankvault.com bankvault.com
@@ -178,14 +177,12 @@
 202.81.215.66:443 remote.oneresidential.com.au www.remote.oneresidential.com.au
 202.81.217.10:443 gopc-dr1.gopc.net
 202.81.217.11:443 gopc-dr2.gopc.net
-202.81.229.9:443 zs.coolmi.tk
 202.81.229.12:443 *.pinge.me pinge.me
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.33:443 90.ly0909.top
 202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.53:443 tingshugege.top
-202.81.229.55:443 translate.iplcn2.com
 202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.83:443 tingshugege.xyz
@@ -206,7 +203,7 @@
 202.81.229.169:443 *.imgapp.top imgapp.top
 202.81.229.170:443 *.quilithe.net quilithe.net
 202.81.229.175:443 *.imgapp.top imgapp.top
-202.81.229.178:443 ccg.cx
+202.81.229.178:443 ccg.cx *.ccg.cx
 202.81.229.195:443 zgzqapp.com
 202.81.229.196:443 zgzqapp.com
 202.81.229.197:443 zgzqapp.com
@@ -274,10 +271,10 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.202:443 waverider2.com
-202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
-202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.213:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.230.249:443 hki.catm.cc
@@ -349,7 +346,7 @@
 202.81.232.140:443 xgdz.cloud
 202.81.232.163:443 t.laijicn.click
 202.81.232.190:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
-202.81.232.193:443 www.cgbjck.xyz
+202.81.232.193:443 www.cgbjeck1.xyz
 202.81.232.197:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.200:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.201:443 newhk.lixunfan.top
@@ -426,11 +423,11 @@
 202.81.236.97:443 myapi.emiliac.top
 202.81.236.98:443 *.hm07.lol *.hm08.lol *.hm09.lol *.hm10.lol hm07.lol hm08.lol hm09.lol hm10.lol
 202.81.236.102:443 openssr.com www.openssr.com
-202.81.236.122:443 www.cloudflare.com
 202.81.236.123:443 shanyu.dh14.cn
 202.81.236.124:443 shanyu.dh14.cn
 202.81.236.125:443 shanyu.dh14.cn
 202.81.236.126:443 shanyu.dh14.cn
+202.81.236.130:443 321kan.com m.321kan.com www.321kan.com
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
 202.81.237.14:443 *.smartparking.app smartparking.app
@@ -438,7 +435,7 @@
 202.81.237.17:443 *.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 cloudfront.net *.cloudfront.net
+202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.67:443 azhk01.nwncd.com
@@ -461,15 +458,14 @@
 202.81.237.140:443 www.cntoworld.online
 202.81.237.155:443 hk5.0o0.im
 202.81.237.156:443 api0970.xn--iiq50yuvc2r9f.com baidu-dev.xn--fiqr9egvchy8d.com sogouapp.xn--1kv466cy5q.com
-202.81.237.158:443 a.imsky.top
+202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
 202.81.237.163:443 huige233.com www.huige233.com
+202.81.237.179:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.184:443 yac.crazylattice.fit
 202.81.237.191:443 ss.bp222.cn
 202.81.237.199:443 xt.om
-202.81.237.200:443 dt.qapvw.top
 202.81.237.202:443 hkf.mobox.xyz
-202.81.237.206:443 dt.qapvw.top
 202.81.237.222:443 ss.bp222.cn
 202.81.237.226:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.230:443 ecc.dearhouse.eu.org
@@ -487,6 +483,7 @@
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esapps.hk www.lms.esapps.hk
 202.81.250.47:443 eleave.esapps.hk www.eleave.esapps.hk
+202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
