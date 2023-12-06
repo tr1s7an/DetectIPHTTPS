@@ -21,11 +21,10 @@
 202.81.7.238:443 ausdisability.com.au remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.52.52:443 mbx.mld.id
 202.81.52.67:443 mon.mld.id
-202.81.52.69:443 my.syachrul.my.id
 202.81.52.109:443 vp1.mld.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
-202.81.52.115:443 cp.wifi.web.id
+202.81.52.115:443 cp.wifi.web.id www.cp.wifi.web.id
 202.81.52.226:443 finance.mirzuno.com
 202.81.52.231:443 server.diangraha.com
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
@@ -167,7 +166,6 @@
 202.81.214.170:443 jenkins01.bankvaultonline.com jenkins01.govault.net
 202.81.214.174:443 *.gopc.net gopc.net
 202.81.214.176:443 *.gopc.net gopc.net
-202.81.214.178:443 *.bankvault.com bankvault.com
 202.81.214.181:443 global01.bankvaultonline.com global01.govault.net
 202.81.214.182:443 *.safewindowonline.com safewindowonline.com
 202.81.214.183:443 blog.central-data.net disasterthinking.com.au graemespeak.com www.disasterthinking.com.au www.graemespeak.com
@@ -178,6 +176,13 @@
 202.81.215.66:443 remote.oneresidential.com.au www.remote.oneresidential.com.au
 202.81.217.10:443 gopc-dr1.gopc.net
 202.81.217.11:443 gopc-dr2.gopc.net
+202.81.228.23:443 kkk.nintendo.bond
+202.81.228.28:443 gszxwsxx.com www.gszxwsxx.com
+202.81.228.31:443 gnim.eynmcua.cn
+202.81.228.32:443 gnim.eynmcua.cn
+202.81.228.33:443 gnim.eynmcua.cn
+202.81.228.34:443 gnim.eynmcua.cn
+202.81.228.42:443 *.nwncd.com nwncd.com
 202.81.229.12:443 *.pinge.me pinge.me
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.33:443 90.ly0909.top
@@ -219,11 +224,12 @@
 202.81.230.29:443 hk006.xnet888.top
 202.81.230.31:443 maker.maker-ai.net
 202.81.230.32:443 *.mmm.red mmm.red
-202.81.230.34:443 *.xserver.jp xserver.jp
+202.81.230.34:443 *.i-system.com.hk *.i-system.hk *.xn--blqt99bv5qu7f.xn--j6w193g i-system.com.hk i-system.hk xn--blqt99bv5qu7f.xn--j6w193g
 202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.36:443 wijs.cc
 202.81.230.37:443 tingshu.llkaka.com
 202.81.230.40:443 www.mpojie.net www.jukergame.net www.mpojie.com
+202.81.230.45:443 hk10.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.59:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -259,6 +265,7 @@
 202.81.230.167:443 699uaah9.xyz
 202.81.230.174:443 sga.catm.cc
 202.81.230.179:443 blog.gzcd.org
+202.81.230.183:443 hk12.netv2.workhk12.netv2.work
 202.81.230.184:443 hk2.vip-go.net
 202.81.230.185:443 hk14.netv2.work
 202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -266,10 +273,10 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.202:443 waverider2.com
 202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
-202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.230.249:443 hki.catm.cc
@@ -335,11 +342,11 @@
 202.81.232.130:443 zhongguogx.app
 202.81.232.132:443 zhongguogx.app
 202.81.232.134:443 zhongguogx.app
-202.81.232.136:443 aa.tongxinfeicui.cn
 202.81.232.140:443 xgdz.cloud
 202.81.232.163:443 t.laijicn.click
 202.81.232.190:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.193:443 www.cgbjeck1.xyz
+202.81.232.194:443 netf.ultronstar.com
 202.81.232.197:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.200:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.201:443 newhk.lixunfan.top
@@ -350,7 +357,7 @@
 202.81.232.216:443 o.yfboiko.com ok.yfboiko.com zz.yfboiko.com
 202.81.232.217:443 o.yfboiko.com ok.yfboiko.com zz.yfboiko.com
 202.81.232.218:443 o.yfboiko.com ok.yfboiko.com zz.yfboiko.com
-202.81.232.223:443 *.xserver.jp xserver.jp
+202.81.232.223:443 hkampress.org www.hkampress.org
 202.81.232.229:443 *.imgapp.top imgapp.top
 202.81.234.1:443 cpanel.netfront.net
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
@@ -386,6 +393,8 @@
 202.81.235.127:443 *.imgapp.top imgapp.top
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 *.smartparking.app smartparking.app
+202.81.235.177:443 x.iplcn2.com
+202.81.235.179:443 nn.cwzd.net
 202.81.235.182:443 *.imgapp.top imgapp.top
 202.81.235.189:443 *.imgapp.top imgapp.top
 202.81.235.191:443 *.imgapp.top imgapp.top
@@ -410,13 +419,16 @@
 202.81.236.72:443 secure.homehosts.net
 202.81.236.76:443 clash-gaming.com clash-windows.com m.clash-gaming.com www.clash-gaming.com www.clash-windows.com
 202.81.236.98:443 *.hm07.lol *.hm08.lol *.hm09.lol *.hm10.lol hm07.lol hm08.lol hm09.lol hm10.lol
-202.81.236.99:443 www.cloudflare.com
 202.81.236.102:443 openssr.com www.openssr.com
-202.81.236.123:443 shanyu.dh14.cn
-202.81.236.124:443 shanyu.dh14.cn
-202.81.236.125:443 shanyu.dh14.cn
-202.81.236.126:443 shanyu.dh14.cn
+202.81.236.123:443 shanyu.app
+202.81.236.124:443 shanyu.app
+202.81.236.125:443 shanyu.app
+202.81.236.126:443 shanyu.app
 202.81.236.130:443 321kan.com m.321kan.com www.321kan.com
+202.81.236.134:443 cpppf.net www.cpppf.net
+202.81.236.135:443 cpppf.net www.cpppf.net
+202.81.236.136:443 cpppf.net www.cpppf.net
+202.81.236.137:443 cpppf.net www.cpppf.net
 202.81.236.152:443 mybjwl.com www.mybjwl.com
 202.81.237.7:443 *.ikelly.me ikelly.me
 202.81.237.8:443 hyoukyou.moe
@@ -432,7 +444,6 @@
 202.81.237.70:443 pontus.nuist.cf
 202.81.237.78:443 netfronthk.freemyip.com
 202.81.237.79:443 cdn.jachun.com
-202.81.237.98:443 gxlb.app
 202.81.237.100:443 bz.53326.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.112:443 data.chaostu.cc
@@ -459,7 +470,7 @@
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ss.bp222.cn
 202.81.237.226:443 www.learn.microsoft.com learn.microsoft.com
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.238.8:443 *.hk.com
@@ -473,7 +484,6 @@
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 lms.esapps.hk www.lms.esapps.hk
-202.81.250.47:443 eleave.esapps.hk www.eleave.esapps.hk
 202.81.250.48:443 tms.esapps.hk www.tms.esapps.hk
 202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
 202.81.252.12:443 lento.3cx.hk
