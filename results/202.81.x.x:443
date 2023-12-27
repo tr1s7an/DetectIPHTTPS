@@ -114,8 +114,8 @@
 202.81.115.129:443 *.sota.insea.io sota.insea.io
 202.81.115.185:443 *.sea.com sea.com
 202.81.118.6:443 *.tf-center.dhgamesdownload.com
-202.81.118.7:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
-202.81.118.8:443 *.tf-center.dhgamesdownload.com tf-center.dhgamesdownload.com
+202.81.118.7:443 *.tf-center.dhgamesdownload.com
+202.81.118.8:443 *.tf-center.dhgamesdownload.com
 202.81.118.9:443 *.tf-center.dhgamesdownload.com
 202.81.119.1:443 bdversion.ggbluefox.com
 202.81.119.2:443 bdversion.ggbluefox.com
@@ -162,7 +162,6 @@
 202.81.214.148:443 *.gopc.net gopc.net
 202.81.214.149:443 *.bankvault.com bankvault.com
 202.81.214.164:443 *.bankvault.com bankvault.com
-202.81.214.166:443 testing.gopc.net
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
 202.81.214.170:443 jenkins01.bankvaultonline.com jenkins01.govault.net
 202.81.214.174:443 *.gopc.net gopc.net
@@ -203,10 +202,10 @@
 202.81.228.96:443 scroad.pics
 202.81.228.97:443 scroad.pics
 202.81.228.98:443 scroad.pics
-202.81.228.101:443 scroad.net www.scroad.net
-202.81.228.102:443 scroad.net www.scroad.net
-202.81.228.103:443 scroad.net www.scroad.net
-202.81.228.104:443 scroad.net www.scroad.net
+202.81.228.101:443 scroad.net
+202.81.228.102:443 scroad.net
+202.81.228.103:443 scroad.net
+202.81.228.104:443 scroad.net
 202.81.228.118:443 changchengopc.cn www.changchengopc.cn
 202.81.228.119:443 changchengopc.cn www.changchengopc.cn
 202.81.228.120:443 changchengopc.cn www.changchengopc.cn
@@ -223,7 +222,6 @@
 202.81.229.87:443 *.bitserve.online bitserve.online
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.90:443 *.bitserve.online bitserve.online
-202.81.229.92:443 *.nyaapasu.net
 202.81.229.100:443 *.dmcent.top dmcent.top
 202.81.229.117:443 cloudfront.net *.cloudfront.net
 202.81.229.119:443 bz.ganjuzx.cn
@@ -235,14 +233,13 @@
 202.81.229.170:443 *.quilithe.net quilithe.net
 202.81.229.175:443 *.imgapp.top imgapp.top
 202.81.229.178:443 ccg.cx *.ccg.cx
-202.81.229.198:443 hk.keeyeah.com
+202.81.229.198:443 *.cqc.shilli.site *.play.shilli.site *.shilli.site *.vps.shilli.site *.xjj.shilli.site shilli.site
 202.81.229.203:443 zhcs.app
 202.81.229.205:443 zhcs.app
 202.81.229.208:443 zhcs.app
 202.81.229.209:443 zhcs.app
 202.81.230.6:443 *.btnull.in btnull.in
 202.81.230.9:443 teambonfire.org
-202.81.230.18:443 api.shwwbb.com
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.24:443 hk11.netv2.work
 202.81.230.29:443 hk006.xnet888.top
@@ -293,7 +290,7 @@
 202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.202:443 waverider2.com
 202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
-202.81.230.214:443 cloudfront.net *.cloudfront.net
+202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.230.249:443 hki.catm.cc
@@ -316,14 +313,12 @@
 202.81.231.167:443 blog.kirikirin.com
 202.81.231.172:443 cj.646414.xyz
 202.81.231.195:443 hk1195.worldbook.online
-202.81.231.197:443 www.tvb.com
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com catpromax.com
 202.81.231.207:443 ss.bp222.cn
 202.81.231.210:443 waverider3.com
 202.81.231.215:443 koios.nuist.cf
 202.81.231.233:443 v2hkg.51ssr.club
-202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.13:443 *.imgapp.top imgapp.top
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.23:443 tls.im
@@ -331,11 +326,11 @@
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.liurio.top nh6.liurio.top
-202.81.232.63:443 zqzg.app
+202.81.232.63:443 zhengqi.app
 202.81.232.64:443 www.1902.store
-202.81.232.65:443 zqzg.app
-202.81.232.67:443 zqzg.app
-202.81.232.68:443 zqzg.app
+202.81.232.65:443 zhengqi.app
+202.81.232.67:443 zhengqi.app
+202.81.232.68:443 zhengqi.app
 202.81.232.72:443 sankaurora.net *.sankaurora.net
 202.81.232.77:443 nosb31.hoshinosena.com
 202.81.232.78:443 hk2.mrrockist.top
@@ -387,7 +382,12 @@
 202.81.234.88:443 cpanel.netfront.net
 202.81.235.7:443 maker.maker-ai.net
 202.81.235.12:443 waverider4.com
+202.81.235.22:443 sczlim.app
+202.81.235.24:443 sczlim.app
 202.81.235.26:443 hk004.xnet888.top
+202.81.235.28:443 sczlim.app
+202.81.235.29:443 sczlim.app
+202.81.235.54:443 *.acuren.top acuren.top
 202.81.235.55:443 *.ikelly.me ikelly.me
 202.81.235.61:443 maker.maker-ai.net
 202.81.235.67:443 *.coz.moe
@@ -430,7 +430,7 @@
 202.81.236.57:443 guoneng.pics
 202.81.236.58:443 guoneng.pics
 202.81.236.72:443 secure.homehosts.net
-202.81.236.76:443 clash-gaming.com clash-net.com clash-windows.com m.clash-gaming.com www.clash-gaming.com www.clash-net.com www.clash-windows.com
+202.81.236.76:443 clash-gaming.com clash-windows.com m.clash-gaming.com www.clash-gaming.com www.clash-windows.com
 202.81.236.98:443 *.hm07.lol *.hm08.lol *.hm09.lol *.hm10.lol hm07.lol hm08.lol hm09.lol hm10.lol
 202.81.236.102:443 openssr.com www.openssr.com
 202.81.236.123:443 shanyu.app
@@ -450,7 +450,7 @@
 202.81.237.17:443 *.hk.mmd.ink *.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 cloudfront.net *.cloudfront.net
+202.81.237.23:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.67:443 azhk01.nwncd.com
@@ -468,17 +468,17 @@
 202.81.237.135:443 hk3.594888.xyz
 202.81.237.137:443 hk7137.worldbook.online
 202.81.237.140:443 www.cntoworld.online
-202.81.237.155:443 hk5.0o0.im
 202.81.237.156:443 api0970.xn--iiq50yuvc2r9f.com baidu-dev.xn--fiqr9egvchy8d.com sogouapp.xn--1kv466cy5q.com
 202.81.237.157:443 *.pengxiaoqi.top pengxiaoqi.top
 202.81.237.163:443 huige233.com www.huige233.com
+202.81.237.176:443 *.xyx.moe
 202.81.237.179:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.191:443 ss.bp222.cn
 202.81.237.199:443 xt.om
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ss.bp222.cn
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.238.8:443 *.hk.com
