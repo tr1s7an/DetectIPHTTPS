@@ -15,6 +15,7 @@
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
+202.81.6.74:443 riteq.wslc.com.au ess.wslc.com.au mobile.wslc.com.au www.ess.wslc.com.au www.mobile.wslc.com.au www.riteq.wslc.com.au
 202.81.6.102:443 rds.clintonmedicalcentre.com.au www.rds.clintonmedicalcentre.com.au
 202.81.6.193:443 remote.scag.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
@@ -161,9 +162,9 @@
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
+202.81.155.11:443 202.81.155.11
 202.81.208.142:443 james-dev.gopc.net
 202.81.208.144:443 backup.central-data.com.au
-202.81.208.151:443 central-data.net www.central-data.net
 202.81.208.155:443 *.bankvault.com bankvault.com
 202.81.208.156:443 *.bankvault.com bankvault.com
 202.81.214.130:443 *.safewindowonline.com safewindowonline.com
@@ -197,11 +198,7 @@
 202.81.228.28:443 gszxwsxx.com www.gszxwsxx.com
 202.81.228.42:443 *.nwncd.com nwncd.com
 202.81.228.63:443 hk6.ywsj.store
-202.81.228.64:443 ykzb.app
 202.81.228.65:443 *.srv.ak1ra.xyz srv.ak1ra.xyz
-202.81.228.69:443 ykzb.app
-202.81.228.70:443 ykzb.app
-202.81.228.71:443 ykzb.app
 202.81.228.91:443 sichouroad.app
 202.81.228.92:443 sichouroad.app
 202.81.228.93:443 sichouroad.app
@@ -218,7 +215,6 @@
 202.81.228.119:443 changchengopc.cn www.changchengopc.cn
 202.81.228.120:443 changchengopc.cn www.changchengopc.cn
 202.81.228.121:443 changchengopc.cn www.changchengopc.cn
-202.81.228.155:443 hks001.ssm6.com
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.33:443 90.ly0909.top
 202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
@@ -232,10 +228,10 @@
 202.81.229.100:443 *.sucaiwan.top sucaiwan.top
 202.81.229.104:443 lovecakezhang.uk
 202.81.229.117:443 cloudfront.net *.cloudfront.net
+202.81.229.119:443 www.apple.com.cn images.apple.com www.apple.com
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
-202.81.229.150:443 *.ercy.wiki ercy.wiki
 202.81.229.169:443 *.imgapp.top imgapp.top
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
 202.81.229.175:443 *.imgapp.top imgapp.top
@@ -276,7 +272,7 @@
 202.81.230.137:443 *.imgapp.top imgapp.top
 202.81.230.139:443 *.imgapp.top imgapp.top
 202.81.230.140:443 *.imgapp.top imgapp.top
-202.81.230.167:443 699uaah9.xyz
+202.81.230.167:443 yx.biubiufly.monster
 202.81.230.179:443 blog.gzcd.org
 202.81.230.183:443 hk12.netv2.work
 202.81.230.184:443 hk2.vip-go.net
@@ -288,7 +284,7 @@
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.202:443 waverider2.com
-202.81.230.213:443 cloudfront.net *.cloudfront.net
+202.81.230.213:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
@@ -366,7 +362,6 @@
 202.81.235.50:443 guoxinzg.app
 202.81.235.51:443 guoxinzg.app
 202.81.235.54:443 *.acuren.top acuren.top
-202.81.235.63:443 api.dvpn.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -386,7 +381,6 @@
 202.81.235.127:443 *.imgapp.top imgapp.top
 202.81.235.137:443 hyoukyou.moe
 202.81.235.160:443 kkm.ink
-202.81.235.174:443 www.yirentu.com yirentu.com
 202.81.235.175:443 *.smartparking.app smartparking.app
 202.81.235.179:443 nn.cwzd.net
 202.81.235.182:443 *.imgapp.top imgapp.top
@@ -403,9 +397,7 @@
 202.81.236.56:443 guoneng.pics
 202.81.236.57:443 guoneng.pics
 202.81.236.58:443 guoneng.pics
-202.81.236.72:443 secure.homehosts.net
 202.81.236.76:443 clash-gaming.com clash-windows.com m.clash-gaming.com www.clash-gaming.com www.clash-windows.com
-202.81.236.98:443 *.hm07.lol *.hm08.lol *.hm09.lol *.hm10.lol hm07.lol hm08.lol hm09.lol hm10.lol
 202.81.236.123:443 shanyu.app
 202.81.236.124:443 shanyu.app
 202.81.236.125:443 shanyu.app
@@ -449,7 +441,7 @@
 202.81.237.199:443 xt.om
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ss.bp222.cn
-202.81.237.230:443 xt.om
+202.81.237.230:443 ecc.dearhouse.eu.org
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.238.8:443 *.hk.com
