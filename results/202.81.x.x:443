@@ -69,6 +69,7 @@
 202.81.99.20:443 clientbp.common.ggbluefox.com
 202.81.99.116:443 *.event.freefiremobile.com
 202.81.99.205:443 *.network.freefiremobile.com
+202.81.99.206:443 *.event.freefiremobile.com
 202.81.106.58:443 *.network.freefiremobile.com
 202.81.106.59:443 *.event.freefiremobile.com
 202.81.106.199:443 *.event.freefiremobile.com
@@ -118,9 +119,7 @@
 202.81.113.143:443 shushu.data.jingle.cn
 202.81.114.6:443 ccu.gre.garenanow.com
 202.81.115.90:443 *.keystats.seagroup.com keystats.seagroup.com
-202.81.115.91:443 airpay.keystats.seagroup.com
 202.81.115.102:443 *.keystats.seagroup.com keystats.seagroup.com
-202.81.115.129:443 *.sota.insea.io sota.insea.io
 202.81.115.185:443 *.sea.com sea.com
 202.81.115.215:443 deb.repo.garenanow.com image.repo.garenanow.com rpm.repo.garenanow.com
 202.81.118.6:443 *.tf-center.dhgamesdownload.com
@@ -163,8 +162,11 @@
 202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.11:443 202.81.155.11
+202.81.155.12:443 202.81.155.12
+202.81.155.76:443 202.81.155.76
 202.81.208.142:443 james-dev.gopc.net
 202.81.208.144:443 backup.central-data.com.au
+202.81.208.151:443 central-data.net www.central-data.net
 202.81.208.155:443 *.bankvault.com bankvault.com
 202.81.208.156:443 *.bankvault.com bankvault.com
 202.81.214.130:443 *.safewindowonline.com safewindowonline.com
@@ -176,7 +178,6 @@
 202.81.214.160:443 *.bankvault.com bankvault.com
 202.81.214.164:443 *.bankvault.com bankvault.com
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
-202.81.214.170:443 jenkins01.bankvaultonline.com jenkins01.govault.net
 202.81.214.174:443 *.gopc.net gopc.net
 202.81.214.176:443 *.gopc.net gopc.net
 202.81.214.178:443 *.bankvault.com bankvault.com
@@ -211,35 +212,29 @@
 202.81.228.102:443 sicroad.com www.sicroad.com
 202.81.228.103:443 sicroad.com www.sicroad.com
 202.81.228.104:443 sicroad.com www.sicroad.com
-202.81.228.118:443 changchengopc.cn www.changchengopc.cn
-202.81.228.119:443 changchengopc.cn www.changchengopc.cn
-202.81.228.120:443 changchengopc.cn www.changchengopc.cn
-202.81.228.121:443 changchengopc.cn www.changchengopc.cn
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.33:443 90.ly0909.top
 202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
-202.81.229.86:443 *.bitserve.online bitserve.online
-202.81.229.87:443 *.bitserve.online bitserve.online
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.90:443 *.bitserve.online bitserve.online
 202.81.229.100:443 *.sucaiwan.top sucaiwan.top
 202.81.229.104:443 lovecakezhang.uk
 202.81.229.117:443 cloudfront.net *.cloudfront.net
-202.81.229.119:443 www.apple.com.cn images.apple.com www.apple.com
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
+202.81.229.147:443 *.unitedservice.com.hk unitedservice.com.hk
 202.81.229.169:443 *.imgapp.top imgapp.top
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
 202.81.229.175:443 *.imgapp.top imgapp.top
-202.81.229.203:443 zhcishan.app
-202.81.229.205:443 zhcishan.app
+202.81.229.203:443 apk.zhcsapp.cc
+202.81.229.205:443 apk.zhcsapp.cc
 202.81.229.206:443 fk.biubiufly.cc
-202.81.229.208:443 zhcishan.app
-202.81.229.209:443 zhcishan.app
+202.81.229.208:443 apk.zhcsapp.cc
+202.81.229.209:443 apk.zhcsapp.cc
 202.81.230.5:443 kk.52khd.cn
 202.81.230.9:443 teambonfire.org
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -291,10 +286,10 @@
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.33:443 m.16tuku.com
-202.81.231.35:443 a.sweet7.love
+202.81.231.35:443 1node.gptwecan.com
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.86:443 hk.shopee01.cyou
-202.81.231.91:443 hk1091.worldbook.online
+202.81.231.91:443 chronus.sres.uk
 202.81.231.106:443 waverider2.com
 202.81.231.152:443 pan.llkaka.com
 202.81.231.172:443 cj.646414.xyz
@@ -362,6 +357,7 @@
 202.81.235.50:443 guoxinzg.app
 202.81.235.51:443 guoxinzg.app
 202.81.235.54:443 *.acuren.top acuren.top
+202.81.235.63:443 api.dvpn.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -369,10 +365,6 @@
 202.81.235.71:443 *.imgapp.top imgapp.top
 202.81.235.74:443 *.imgapp.top imgapp.top
 202.81.235.75:443 ourea.nuist.cf
-202.81.235.76:443 dfgxcv.gotneg.com
-202.81.235.78:443 dfgxcv.gotneg.com
-202.81.235.79:443 dfgxcv.gotneg.com
-202.81.235.80:443 dfgxcv.gotneg.com
 202.81.235.83:443 *.imgapp.top imgapp.top
 202.81.235.88:443 *.imgapp.top imgapp.top
 202.81.235.95:443 *.imgapp.top imgapp.top
@@ -402,7 +394,7 @@
 202.81.236.124:443 shanyu.app
 202.81.236.125:443 shanyu.app
 202.81.236.126:443 shanyu.app
-202.81.236.130:443 321kan.com m.321kan.com www.321kan.com
+202.81.236.130:443 321kan.com www.321kan.com
 202.81.236.134:443 cpppf.net www.cpppf.net
 202.81.236.135:443 cpppf.net www.cpppf.net
 202.81.236.136:443 cpppf.net www.cpppf.net
@@ -414,18 +406,13 @@
 202.81.237.17:443 *.hk.mmd.ink *.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 cloudfront.net *.cloudfront.net
+202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
+202.81.237.67:443 *.nwncd.com nwncd.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.112:443 data.chaostu.cc
-202.81.237.115:443 *.bitserve.cloud bitserve.cloud
-202.81.237.117:443 *.bitserve.cloud bitserve.cloud
-202.81.237.118:443 *.bitserve.online bitserve.online
-202.81.237.120:443 *.bitserve.cloud bitserve.cloud
-202.81.237.121:443 *.bitserve.cloud bitserve.cloud
 202.81.237.124:443 biruwo.com www.biruwo.com
-202.81.237.128:443 *.bitserve.cloud bitserve.cloud
 202.81.237.135:443 hk3.594888.xyz
 202.81.237.140:443 www.cntoworld.online
 202.81.237.155:443 www.learn.microsoft.com learn.microsoft.com
