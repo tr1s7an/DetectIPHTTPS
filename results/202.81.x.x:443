@@ -33,7 +33,6 @@
 202.81.52.231:443 server.diangraha.com
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
 202.81.52.254:443 *.mirzuno.com mirzuno.com
-202.81.95.47:443 iot-1-102.chukai-sightseeing.com
 202.81.97.157:443 loginbp.common.ggbluefox.com
 202.81.97.158:443 loginbp.common.ggbluefox.com
 202.81.97.159:443 loginbp.common.ggbluefox.com
@@ -162,6 +161,8 @@
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.32:443 202.81.155.32
+202.81.155.33:443 202.81.155.33
 202.81.155.76:443 202.81.155.76
 202.81.208.142:443 james-dev.gopc.net
 202.81.208.144:443 backup.central-data.com.au
@@ -194,8 +195,7 @@
 202.81.228.19:443 gxchim.app
 202.81.228.20:443 gxchim.app
 202.81.228.23:443 kkk.nintendo.bond
-202.81.228.65:443 *.srv.ak1ra.xyz srv.ak1ra.xyz
-202.81.228.86:443 17dzpk.com www.17dzpk.com
+202.81.228.28:443 gszxwsxx.com www.gszxwsxx.com
 202.81.228.91:443 sichouroad.app
 202.81.228.92:443 sichouroad.app
 202.81.228.93:443 sichouroad.app
@@ -230,7 +230,7 @@
 202.81.229.175:443 *.1226a.xyz 1226a.xyz
 202.81.229.203:443 apk.zhcsapp.cc
 202.81.229.205:443 apk.zhcsapp.cc
-202.81.229.206:443 fk.biubiufly.cc
+202.81.229.206:443 code.biubiufly.cc
 202.81.229.208:443 apk.zhcsapp.cc
 202.81.229.209:443 apk.zhcsapp.cc
 202.81.230.5:443 kk.52khd.cn
@@ -275,21 +275,19 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.202:443 waverider2.com
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.33:443 m.16tuku.com
 202.81.231.35:443 1node.gptwecan.com
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.86:443 hk.shopee01.cyou
 202.81.231.91:443 chronus.sres.uk
 202.81.231.106:443 waverider2.com
-202.81.231.150:443 www.cloudflare.com
 202.81.231.152:443 pan.llkaka.com
 202.81.231.172:443 cj.646414.xyz
 202.81.231.195:443 hk1195.worldbook.online
@@ -326,16 +324,16 @@
 202.81.232.163:443 t.laijicn.click
 202.81.232.190:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.193:443 www.cgbjeck1.xyz
+202.81.232.194:443 *.ultronstar.com ultronstar.com
 202.81.232.197:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.200:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.202:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
 202.81.232.204:443 *.1226a.xyz 1226a.xyz
 202.81.232.207:443 *.1226a.xyz 1226a.xyz
-202.81.232.214:443 admin.ok888.vip
-202.81.232.216:443 admin.ok888.vip
+202.81.232.214:443 url.okda.vip
+202.81.232.216:443 url.okda.vip
 202.81.232.217:443 a.okda.vip
 202.81.232.218:443 a.okda.vip
-202.81.232.223:443 www.cloudflare.com
 202.81.232.229:443 *.1226a.xyz 1226a.xyz
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.3:443 cpanel.netfront.net
@@ -407,7 +405,6 @@
 202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.101:443 www.kkiikk02.top
-202.81.237.112:443 data.chaostu.cc
 202.81.237.124:443 biruwo.com www.biruwo.com
 202.81.237.140:443 www.cntoworld.online
 202.81.237.156:443 api0970.xn--iiq50yuvc2r9f.com baidu-dev.xn--fiqr9egvchy8d.com sogouapp.xn--1kv466cy5q.com
@@ -422,15 +419,16 @@
 202.81.237.199:443 xt.om
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ss.bp222.cn
-202.81.237.230:443 xt.om
+202.81.237.230:443 ecc.dearhouse.eu.org
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.1226a.xyz 1226a.xyz
 202.81.238.8:443 *.hk.com
 202.81.238.10:443 whois.hk.com www.whois.hk.com
 202.81.238.18:443 *.hk.com
+202.81.238.22:443 www.domains.hk.com www.hk.com www.hk.org www.inc.hk www.infrarisq.com www.ltd.hk www.mailme.hk.com www.networkdoctors.hk.com www.ospeleko.com www.udr.hk.com
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 mail.frenzymind.com autodiscover.frenzymind.com mx.frenzymind.com
-202.81.244.245:443 vsp.frenzymind.com awmdm.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
+202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.15:443 demo3.hkgisportal.com www.demo3.hkgisportal.com
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
@@ -448,10 +446,8 @@
 202.81.252.23:443 *.netfront.net
 202.81.252.35:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.36:443 *.netfront.net
-202.81.252.41:443 *.netfront.net
 202.81.252.46:443 *.netfront.net
 202.81.252.47:443 *.netfront.net
-202.81.252.48:443 procommons.hk procommons.org.hk www.procommons.hk www.procommons.org.hk
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
