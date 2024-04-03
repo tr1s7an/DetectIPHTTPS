@@ -3,10 +3,12 @@
 202.81.4.44:443 *.appointment.mobi appointment.mobi
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
+202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.230:443 www.mywdms.com mywdms.com
 202.81.4.247:443 ipmetadata.backup.fus.craftypenguins.net
 202.81.5.54:443 mail.neocorp.com.au
@@ -163,18 +165,11 @@
 202.81.155.76:443 202.81.155.76
 202.81.155.83:443 202.81.155.83
 202.81.155.140:443 202.81.155.140
-202.81.208.142:443 james-dev.gopc.net
-202.81.208.144:443 backup.central-data.com.au
-202.81.208.151:443 central-data.net www.central-data.net
-202.81.208.155:443 *.bankvault.com bankvault.com
-202.81.208.156:443 *.bankvault.com bankvault.com
 202.81.214.130:443 *.safewindowonline.com safewindowonline.com
 202.81.214.134:443 api.bankvaultonline.com api01.bankvaultonline.com
 202.81.214.141:443 *.bankvault.com bankvault.com
-202.81.214.143:443 *.bankvault.com bankvault.com
 202.81.214.148:443 *.gopc.net gopc.net
 202.81.214.149:443 *.bankvault.com bankvault.com
-202.81.214.160:443 *.bankvault.com bankvault.com
 202.81.214.164:443 *.bankvault.com bankvault.com
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
 202.81.214.170:443 jenkins01.bankvaultonline.com jenkins01.govault.net
@@ -186,7 +181,6 @@
 202.81.214.184:443 *.gopc.net gopc.net
 202.81.214.185:443 *.gopc.net gopc.net
 202.81.214.186:443 passwordlessauthentication.com www.passwordlessauthentication.com
-202.81.214.190:443 *.bankvault.com bankvault.com
 202.81.217.10:443 gopc-dr1.gopc.net
 202.81.217.11:443 gopc-dr2.gopc.net
 202.81.228.17:443 gxchim.app
@@ -206,10 +200,15 @@
 202.81.228.98:443 scroad.pics
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.33:443 90.ly0909.top
+202.81.229.40:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.41:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.46:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.47:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.61:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.90:443 *.bitserve.online bitserve.online
 202.81.229.104:443 lovecakezhang.uk
@@ -268,10 +267,10 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 cloudfront.net *.cloudfront.net
+202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.202:443 waverider2.com
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 cloudfront.net *.cloudfront.net
+202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.231.2:443 *.netfront.net
@@ -291,7 +290,6 @@
 202.81.231.206:443 kkm.ink
 202.81.231.207:443 ss.bp222.cn
 202.81.231.210:443 waverider3.com
-202.81.231.215:443 koios.nuist.cf
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.13:443 *.1226a.xyz 1226a.xyz
@@ -322,8 +320,8 @@
 202.81.232.207:443 *.1226a.xyz 1226a.xyz
 202.81.232.214:443 url.okda.vip
 202.81.232.216:443 url.okda.vip
-202.81.232.217:443 v.ouss.top
-202.81.232.218:443 v.ouss.top
+202.81.232.217:443 v.gd98.top
+202.81.232.218:443 v.gd98.top
 202.81.232.229:443 *.1226a.xyz 1226a.xyz
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.3:443 cpanel.netfront.net
@@ -342,8 +340,8 @@
 202.81.235.50:443 guoxinzg.app
 202.81.235.51:443 guoxinzg.app
 202.81.235.54:443 *.acuren.top acuren.top
-202.81.235.56:443 grpc.dvpn.me
-202.81.235.63:443 api.dvpn.me
+202.81.235.56:443 api.dvpn.me grpc.dvpn.me rpc.dvpn.me
+202.81.235.63:443 api.dvpn.me grpc.dvpn.me rpc.dvpn.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -359,14 +357,12 @@
 202.81.235.137:443 hyoukyou.moe
 202.81.235.160:443 kkm.ink
 202.81.235.175:443 *.smartparking.app smartparking.app
-202.81.235.179:443 nn.cwzd.net
 202.81.235.182:443 *.1226a.xyz 1226a.xyz
 202.81.235.191:443 *.1226a.xyz 1226a.xyz
 202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.206:443 lazyzone.jestdoitnow.com lazyzone.seeyo.top
 202.81.235.210:443 azure.microsoft.com dialtone.azure.microsoft.com
-202.81.235.217:443 nf.jgdtd.com
 202.81.236.48:443 *.catvm.pw catvm.pw
 202.81.236.55:443 guoneng.pics
 202.81.236.56:443 guoneng.pics
