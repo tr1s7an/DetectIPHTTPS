@@ -33,6 +33,7 @@
 202.81.52.231:443 server.diangraha.com
 202.81.52.247:443 autodiscover.diangraha.com excdge.diangraha.com outlook.diangraha.com
 202.81.52.254:443 *.mirzuno.com mirzuno.com
+202.81.95.47:443 *.doliot.net doliot.net
 202.81.97.157:443 loginbp.common.ggbluefox.com
 202.81.97.158:443 loginbp.common.ggbluefox.com
 202.81.97.159:443 loginbp.common.ggbluefox.com
@@ -170,7 +171,6 @@
 202.81.214.141:443 *.bankvault.com bankvault.com
 202.81.214.148:443 *.gopc.net gopc.net
 202.81.214.149:443 *.bankvault.com bankvault.com
-202.81.214.164:443 *.bankvault.com bankvault.com
 202.81.214.167:443 monitor.central-data.net monitor.gopc.net
 202.81.214.170:443 jenkins01.bankvaultonline.com jenkins01.govault.net
 202.81.214.174:443 *.gopc.net gopc.net
@@ -180,9 +180,6 @@
 202.81.214.183:443 blog.central-data.net disasterthinking.com.au graemespeak.com www.disasterthinking.com.au www.graemespeak.com
 202.81.214.184:443 *.gopc.net gopc.net
 202.81.214.185:443 *.gopc.net gopc.net
-202.81.214.186:443 passwordlessauthentication.com www.passwordlessauthentication.com
-202.81.217.10:443 gopc-dr1.gopc.net
-202.81.217.11:443 gopc-dr2.gopc.net
 202.81.228.17:443 gxchim.app
 202.81.228.18:443 gxchim.app
 202.81.228.19:443 gxchim.app
@@ -231,7 +228,6 @@
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.24:443 hk11.netv2.work
 202.81.230.29:443 hk006.xnet888.top
-202.81.230.35:443 api.footballco2fun.com run.footballco2fun.com webapi.footballco2fun.com
 202.81.230.37:443 pan.llkaka.com
 202.81.230.45:443 hk10.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -269,8 +265,8 @@
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.202:443 waverider2.com
-202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.231.2:443 *.netfront.net
@@ -297,6 +293,7 @@
 202.81.232.23:443 tls.im
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
+202.81.232.47:443 www.cloudflare.com
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.liurio.top nh6.liurio.top
 202.81.232.64:443 www.1902.store
@@ -310,12 +307,12 @@
 202.81.232.125:443 guoxin.pics
 202.81.232.140:443 gdxgdz.shop
 202.81.232.163:443 t.laijicn.click
-202.81.232.190:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
+202.81.232.190:443 www.crhcs.cc
 202.81.232.193:443 www.cgbjeck1.xyz
 202.81.232.194:443 *.ultronstar.com ultronstar.com
-202.81.232.197:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
-202.81.232.200:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
-202.81.232.202:443 crhhc.com crhhc.net www.crhhc.com www.crhhc.net
+202.81.232.197:443 www.crhcs.cc
+202.81.232.200:443 www.crhcs.cc
+202.81.232.202:443 www.crhcs.cc
 202.81.232.204:443 *.1226a.xyz 1226a.xyz
 202.81.232.207:443 *.1226a.xyz 1226a.xyz
 202.81.232.214:443 url.okda.vip
@@ -361,7 +358,6 @@
 202.81.235.191:443 *.1226a.xyz 1226a.xyz
 202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
-202.81.235.206:443 lazyzone.jestdoitnow.com lazyzone.seeyo.top
 202.81.235.210:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.236.48:443 *.catvm.pw catvm.pw
 202.81.236.55:443 guoneng.pics
@@ -385,7 +381,7 @@
 202.81.237.17:443 *.hk.mmd.ink *.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.101:443 www.kkiikk02.top
