@@ -159,16 +159,11 @@
 202.81.123.118:443 *.advance.freefiremobile.com
 202.81.123.119:443 version.advance.freefiremobile.com
 202.81.133.5:443 202.81.133.5 202.81.133.6 202.81.133.7
-202.81.133.6:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.7:443 202.81.133.5 202.81.133.6 202.81.133.7
 202.81.133.20:443 202.81.133.20
 202.81.155.11:443 202.81.155.11
-202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.47:443 202.81.155.47
-202.81.155.76:443 202.81.155.76
 202.81.155.83:443 202.81.155.83
 202.81.155.140:443 202.81.155.140
 202.81.228.17:443 gxchim.app
@@ -190,6 +185,7 @@
 202.81.229.46:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.47:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
+202.81.229.55:443 cdn-hk.iplcn2.com
 202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.61:443 azure.microsoft.com dialtone.azure.microsoft.com
@@ -197,6 +193,7 @@
 202.81.229.90:443 *.bitserve.online bitserve.online
 202.81.229.104:443 lovecakezhang.uk
 202.81.229.117:443 cloudfront.net *.cloudfront.net
+202.81.229.119:443 netfront.txxx.eu.org
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
@@ -249,21 +246,22 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 cloudfront.net *.cloudfront.net
+202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.202:443 waverider2.com
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 cloudfront.net *.cloudfront.net
+202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.222:443 waverider5.com
 202.81.230.244:443 waverider5.com
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.35:443 1node.gptwecan.com
+202.81.231.33:443 m.16tuku.com
+202.81.231.35:443 a.sweet7.love
 202.81.231.69:443 hk.zhzhwcn.com
 202.81.231.86:443 hk.shopee01.cyou
 202.81.231.91:443 chronus.sres.uk
 202.81.231.106:443 waverider2.com
 202.81.231.142:443 netdisk.ridique.xyz
-202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
+202.81.231.150:443 ips.www.cloudflare.com www.cloudflare.com
 202.81.231.152:443 pan.llkaka.com
 202.81.231.192:443 ins.runofo.xyz
 202.81.231.195:443 hk1195.worldbook.online
@@ -282,6 +280,7 @@
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.liurio.top nh6.liurio.top
 202.81.232.64:443 www.1902.store
+202.81.232.72:443 shrine.txxx.eu.org
 202.81.232.77:443 nosb31.hoshinosena.com
 202.81.232.79:443 hk.lkx-nb.com
 202.81.232.81:443 *.1226a.xyz 1226a.xyz
@@ -311,6 +310,7 @@
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
 202.81.234.5:443 cpanel.netfront.net
 202.81.234.6:443 cpanel.netfront.net
+202.81.234.7:443 cpanel.netfront.net
 202.81.234.8:443 cpanel.netfront.net
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
 202.81.234.10:443 cpanel.netfront.net
@@ -382,7 +382,7 @@
 202.81.237.199:443 xt.om
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.222:443 ss.bp222.cn
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.1226a.xyz 1226a.xyz
 202.81.238.8:443 *.hk.com
