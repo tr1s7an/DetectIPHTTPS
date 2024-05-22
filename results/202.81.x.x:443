@@ -3,7 +3,6 @@
 202.81.4.44:443 *.appointment.mobi appointment.mobi
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
-202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
@@ -23,6 +22,7 @@
 202.81.52.69:443 buyunk.web.id
 202.81.52.109:443 vp1.mld.id
 202.81.52.110:443 pdns.mld.id
+202.81.52.114:443 ldn.mld.id
 202.81.52.115:443 cp.wifi.web.id
 202.81.52.117:443 lab.mld.id
 202.81.52.118:443 dcm.mld.id
@@ -171,7 +171,6 @@
 202.81.228.19:443 gxchim.app
 202.81.228.20:443 gxchim.app
 202.81.228.23:443 kkk.nintendo.bond
-202.81.228.28:443 gszxwsxx.com www.gszxwsxx.com
 202.81.228.95:443 scroad.pics
 202.81.228.96:443 scroad.pics
 202.81.228.97:443 scroad.pics
@@ -209,7 +208,7 @@
 202.81.230.24:443 hk11.netv2.work
 202.81.230.29:443 hk006.xnet888.top
 202.81.230.37:443 pan.llkaka.com
-202.81.230.45:443 hk10.netv2.work
+202.81.230.45:443 *.netv2.work
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.59:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -230,22 +229,22 @@
 202.81.230.136:443 *.1226a.xyz 1226a.xyz
 202.81.230.137:443 *.1226a.xyz 1226a.xyz
 202.81.230.139:443 *.1226a.xyz 1226a.xyz
+202.81.230.140:443 *.1226a.xyz 1226a.xyz
 202.81.230.167:443 yx.biubiufly.monster
 202.81.230.179:443 blog.gzcd.org
-202.81.230.183:443 hk12.netv2.work
+202.81.230.183:443 *.netv2.work
 202.81.230.184:443 hk2.vip-go.net
-202.81.230.185:443 hk14.netv2.work
+202.81.230.185:443 *.netv2.work
 202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 cloudfront.net *.cloudfront.net
+202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.202:443 waverider2.com
-202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 cloudfront.net *.cloudfront.net
+202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.222:443 waverider5.com
-202.81.230.242:443 netfront.txxx.eu.org
 202.81.230.244:443 waverider5.com
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
@@ -275,7 +274,11 @@
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.liurio.top nh6.liurio.top
+202.81.232.63:443 pppjjdowxzstgh.pppjjapkxds.cc
 202.81.232.64:443 www.1902.store
+202.81.232.65:443 pppjjdowxzstgh.pppjjapkxds.cc
+202.81.232.67:443 pppjjdowxzstgh.pppjjapkxds.cc
+202.81.232.68:443 pppjjdowxzstgh.pppjjapkxds.cc
 202.81.232.72:443 *.michaelzhang.top
 202.81.232.77:443 game.ciallosin.com
 202.81.232.79:443 hk.lkx-nb.com
@@ -316,6 +319,7 @@
 202.81.234.37:443 cpanel.netfront.net
 202.81.234.88:443 cpanel.netfront.net
 202.81.235.12:443 waverider4.com
+202.81.235.17:443 atl.mirrors.knownhost.com repo.almalinux.org
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.54:443 *.acuren.top acuren.top
 202.81.235.56:443 api.dvpn.me grpc.dvpn.me rpc.dvpn.me
@@ -351,12 +355,10 @@
 202.81.236.124:443 appdownls.syapks.cc
 202.81.236.125:443 appdownls.syapks.cc
 202.81.236.126:443 appdownls.syapks.cc
-202.81.236.130:443 321kan.com www.321kan.com
 202.81.236.134:443 cpppf.net www.cpppf.net
 202.81.236.135:443 cpppf.net www.cpppf.net
 202.81.236.136:443 cpppf.net www.cpppf.net
 202.81.236.137:443 cpppf.net www.cpppf.net
-202.81.236.152:443 8000488.com www.8000488.com
 202.81.237.8:443 hyoukyou.moe
 202.81.237.14:443 *.smartparking.app smartparking.app
 202.81.237.15:443 *.smartparking.app smartparking.app
@@ -367,7 +369,6 @@
 202.81.237.38:443 ss.bp222.cn
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.101:443 www.kkiikk02.top
-202.81.237.112:443 data.chaostu.cc
 202.81.237.124:443 biruwo.com www.biruwo.com
 202.81.237.140:443 www.cntoworld.online
 202.81.237.156:443 api0970.xn--iiq50yuvc2r9f.com baidu-dev.xn--fiqr9egvchy8d.com sogouapp.xn--1kv466cy5q.com
