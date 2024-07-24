@@ -19,6 +19,7 @@
 202.81.6.193:443 remote.scag.com.au
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.9:443 medialintas.com
 202.81.49.42:443 cloud.mld.id
 202.81.52.52:443 mbx.mld.id
@@ -159,16 +160,11 @@
 202.81.155.33:443 202.81.155.33
 202.81.155.140:443 202.81.155.140
 202.81.228.23:443 kkk.nintendo.bond
-202.81.228.91:443 yerhdsfnask.scappks.cc
-202.81.228.92:443 yerhdsfnask.scappks.cc
-202.81.228.93:443 yerhdsfnask.scappks.cc
-202.81.228.94:443 yerhdsfnask.scappks.cc
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.33:443 90.ly0909.top
 202.81.229.40:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
-202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.90:443 *.bitserve.online bitserve.online
@@ -225,6 +221,7 @@
 202.81.230.213:443 cloudfront.net *.cloudfront.net
 202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.222:443 waverider5.com
+202.81.230.226:443 012024.xyz 022024.xyz 122023.xyz ionfly.buzz ionfly.lat ionfly.xyz onfly.baby onfly.buzz onfly.cfd onfly.homes onfly.lat onfly.lol onfly.sbs onfly.top www.012024.xyz www.022024.xyz www.122023.xyz www.ionfly.buzz www.ionfly.lat www.ionfly.xyz www.onfly.baby www.onfly.buzz www.onfly.cfd www.onfly.homes www.onfly.lat www.onfly.lol www.onfly.sbs www.onfly.top
 202.81.230.238:443 hk.lolimua.com
 202.81.230.242:443 netfront.txxx.eu.org
 202.81.230.244:443 waverider5.com
@@ -265,7 +262,6 @@
 202.81.232.67:443 xzpppjjs.pppjjapkxds.cc
 202.81.232.68:443 xzpppjjs.pppjjapkxds.cc
 202.81.232.72:443 *.michaelzhang.top
-202.81.232.77:443 engine.ciallosin.com
 202.81.232.81:443 *.imgapp.top imgapp.top
 202.81.232.85:443 *.imgapp.top imgapp.top
 202.81.232.106:443 pppsldownstg.pppslapks.cc
@@ -273,10 +269,6 @@
 202.81.232.108:443 pppsldownstg.pppslapks.cc
 202.81.232.110:443 pppsldownstg.pppslapks.cc
 202.81.232.111:443 *.imgapp.top imgapp.top
-202.81.232.121:443 guoxin.pics
-202.81.232.123:443 guoxin.pics
-202.81.232.124:443 guoxin.pics
-202.81.232.125:443 guoxin.pics
 202.81.232.140:443 gdxgdz.shop
 202.81.232.163:443 t.laijicn.click
 202.81.232.190:443 www.crhcs.cc
@@ -301,7 +293,7 @@
 202.81.234.37:443 cpanel.netfront.net
 202.81.234.88:443 cpanel.netfront.net
 202.81.235.12:443 waverider4.com
-202.81.235.17:443 ips.www.cloudflare.com www.cloudflare.com
+202.81.235.17:443 asia.archive.pkgbuild.com
 202.81.235.21:443 www.learn.microsoft.com learn.microsoft.com
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.54:443 *.acuren.top acuren.top
@@ -321,9 +313,11 @@
 202.81.235.127:443 *.imgapp.top imgapp.top
 202.81.235.137:443 hyoukyou.moe
 202.81.235.160:443 kkm.ink
+202.81.235.175:443 *.smartparking.app smartparking.app
 202.81.235.182:443 *.imgapp.top imgapp.top
 202.81.235.189:443 *.imgapp.top imgapp.top
 202.81.235.191:443 *.imgapp.top imgapp.top
+202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.210:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.236.55:443 guoneng.pics
@@ -336,6 +330,8 @@
 202.81.236.136:443 cpppf.net www.cpppf.net
 202.81.236.137:443 cpppf.net www.cpppf.net
 202.81.237.8:443 hyoukyou.moe
+202.81.237.14:443 *.smartparking.app smartparking.app
+202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
@@ -348,7 +344,6 @@
 202.81.237.163:443 hub.registry.mirrors.edu.organic
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
-202.81.237.184:443 yac.crazylattice.fit
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
