@@ -22,6 +22,7 @@
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.144:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.9:443 medialintas.com
 202.81.49.42:443 cloud.mld.id
 202.81.52.52:443 mbx.mld.id
@@ -158,9 +159,11 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
+202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.91:443 202.81.155.91
@@ -224,8 +227,8 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
-202.81.230.213:443 cloudfront.net *.cloudfront.net
+202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.213:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.238:443 hk.lolimua.com
 202.81.230.242:443 netfront.txxx.eu.org
@@ -241,7 +244,7 @@
 202.81.231.142:443 netdisk.ridique.xyz
 202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.231.152:443 pan.llkaka.com
-202.81.231.161:443 autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
+202.81.231.161:443 mail.unitedservice.com.hk autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
 202.81.231.192:443 ins.runofo.xyz
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
@@ -260,10 +263,6 @@
 202.81.232.72:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.232.81:443 *.imgapp.top imgapp.top
 202.81.232.85:443 *.imgapp.top imgapp.top
-202.81.232.106:443 pppsldownstg.pppslapks.cc
-202.81.232.107:443 pppsldownstg.pppslapks.cc
-202.81.232.108:443 pppsldownstg.pppslapks.cc
-202.81.232.110:443 pppsldownstg.pppslapks.cc
 202.81.232.111:443 *.imgapp.top imgapp.top
 202.81.232.140:443 gdxgdz.shop
 202.81.232.163:443 t.laijicn.click
@@ -328,17 +327,16 @@
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.237.23:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.101:443 www.kkiikk02.top
-202.81.237.112:443 data.chaostu.cc
-202.81.237.140:443 www.cntoworld.online
+202.81.237.140:443 www.71815.net
 202.81.237.163:443 hub.registry.mirrors.edu.organic
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
-202.81.237.230:443 xt.om
+202.81.237.230:443 ecc.dearhouse.eu.org
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.243.69:443 www.ldcstudy.net
@@ -370,7 +368,6 @@
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
-202.81.252.176:443 *.netfront.net
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
