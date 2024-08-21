@@ -8,8 +8,6 @@
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.4.230:443 www.mywdms.com mywdms.com
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.5.202:443 ausdisability.com.au remote.ausdisability.com.au autodiscover.ausdisability.com.au
@@ -20,7 +18,6 @@
 202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.144:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.9:443 medialintas.com
@@ -34,40 +31,10 @@
 202.81.52.115:443 cp.wifi.web.id
 202.81.52.117:443 lab.mld.id
 202.81.52.118:443 dcm.mld.id
-202.81.97.157:443 loginbp.common.ggbluefox.com
-202.81.97.158:443 loginbp.common.ggbluefox.com
-202.81.97.159:443 loginbp.common.ggbluefox.com
-202.81.97.160:443 loginbp.common.ggbluefox.com
-202.81.97.161:443 loginbp.common.ggbluefox.com
-202.81.97.162:443 loginbp.common.ggbluefox.com
-202.81.97.163:443 loginbp.common.ggbluefox.com
-202.81.97.164:443 loginbp.common.ggbluefox.com
-202.81.97.165:443 loginbp.common.ggbluefox.com
-202.81.97.166:443 loginbp.common.ggbluefox.com
 202.81.98.12:443 *.garenanow.com
 202.81.98.13:443 *.garenanow.com
 202.81.98.21:443 *.advance.freefiremobile.com
 202.81.98.22:443 *.advance.freefiremobile.com
-202.81.99.1:443 clientbp.common.ggbluefox.com
-202.81.99.2:443 clientbp.common.ggbluefox.com
-202.81.99.3:443 clientbp.common.ggbluefox.com
-202.81.99.4:443 clientbp.common.ggbluefox.com
-202.81.99.5:443 clientbp.common.ggbluefox.com
-202.81.99.6:443 clientbp.common.ggbluefox.com
-202.81.99.7:443 clientbp.common.ggbluefox.com
-202.81.99.8:443 clientbp.common.ggbluefox.com
-202.81.99.9:443 clientbp.common.ggbluefox.com
-202.81.99.10:443 clientbp.common.ggbluefox.com
-202.81.99.11:443 clientbp.common.ggbluefox.com
-202.81.99.12:443 clientbp.common.ggbluefox.com
-202.81.99.13:443 clientbp.common.ggbluefox.com
-202.81.99.14:443 clientbp.common.ggbluefox.com
-202.81.99.15:443 clientbp.common.ggbluefox.com
-202.81.99.16:443 clientbp.common.ggbluefox.com
-202.81.99.17:443 clientbp.common.ggbluefox.com
-202.81.99.18:443 clientbp.common.ggbluefox.com
-202.81.99.19:443 clientbp.common.ggbluefox.com
-202.81.99.20:443 clientbp.common.ggbluefox.com
 202.81.99.116:443 *.advance.freefiremobile.com
 202.81.99.205:443 *.network.freefiremobile.com
 202.81.99.206:443 *.event.freefiremobile.com
@@ -84,7 +51,6 @@
 202.81.107.8:443 test.castle.api.freefiremobile.com
 202.81.107.11:443 *.advance.freefiremobile.com
 202.81.107.15:443 *.advance.freefiremobile.com
-202.81.107.170:443 bdversion.ggbluefox.com
 202.81.108.98:443 *.network.freefiremobile.com
 202.81.109.2:443 client.ind.freefiremobile.com
 202.81.109.4:443 client.ind.freefiremobile.com
@@ -118,6 +84,8 @@
 202.81.111.79:443 client.ind.freefiremobile.com
 202.81.111.80:443 client.ind.freefiremobile.com
 202.81.111.81:443 client.ind.freefiremobile.com
+202.81.111.139:443 *.ggblueshark.com
+202.81.111.140:443 *.ggblueshark.com
 202.81.113.139:443 ss-receiver.data.garenanow.com
 202.81.113.140:443 ss-receiver.data.garenanow.com
 202.81.113.143:443 shushu.data.jingle.cn
@@ -151,6 +119,8 @@
 202.81.120.146:443 driveapp.test.alpha.insea.io
 202.81.123.1:443 *.event.freefiremobile.com
 202.81.123.4:443 *.event.freefiremobile.com
+202.81.123.51:443 *.ggblueshark.com
+202.81.123.52:443 *.ggblueshark.com
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.123.114:443 *.advance.freefiremobile.com
@@ -227,7 +197,7 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.213:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.238:443 hk.lolimua.com
@@ -242,8 +212,9 @@
 202.81.231.91:443 chronus.sres.uk
 202.81.231.95:443 dc.gm.mba
 202.81.231.142:443 netdisk.ridique.xyz
-202.81.231.150:443 blog.api.www.cloudflare.com www.cloudflare.com
+202.81.231.150:443 ips.www.cloudflare.com www.cloudflare.com
 202.81.231.152:443 pan.llkaka.com
+202.81.231.157:443 91265.com www.91265.com
 202.81.231.161:443 mail.unitedservice.com.hk autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
 202.81.231.192:443 ins.runofo.xyz
 202.81.231.195:443 hk1195.worldbook.online
@@ -260,7 +231,7 @@
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.430079.xyz
 202.81.232.64:443 www.1902.store
-202.81.232.72:443 blog.api.www.cloudflare.com www.cloudflare.com
+202.81.232.72:443 ips.www.cloudflare.com www.cloudflare.com
 202.81.232.81:443 *.imgapp.top imgapp.top
 202.81.232.85:443 *.imgapp.top imgapp.top
 202.81.232.111:443 *.imgapp.top imgapp.top
@@ -317,18 +288,15 @@
 202.81.235.210:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.235.211:443 boota.luois.ninja
 202.81.236.76:443 clash-gaming.com clash-net.com clash-windows.com didatticapp.com.clash-gaming.com m.clash-gaming.com www.clash-gaming.com www.clash-net.com www.clash-windows.com
-202.81.236.134:443 cpppf.net www.cpppf.net
-202.81.236.135:443 cpppf.net www.cpppf.net
-202.81.236.136:443 cpppf.net www.cpppf.net
-202.81.236.137:443 cpppf.net www.cpppf.net
 202.81.237.8:443 hyoukyou.moe
 202.81.237.14:443 *.smartparking.app smartparking.app
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.237.55:443 v2hkd.51ssr.club
+202.81.237.100:443 91265.com www.91265.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.140:443 www.71815.net
 202.81.237.163:443 hub.registry.mirrors.edu.organic
@@ -340,6 +308,7 @@
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 *.imgapp.top imgapp.top
 202.81.243.69:443 www.ldcstudy.net
+202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
@@ -368,6 +337,7 @@
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
+202.81.252.176:443 *.netfront.net
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
