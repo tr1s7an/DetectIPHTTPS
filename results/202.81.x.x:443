@@ -22,8 +22,6 @@
 202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.147:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.49.9:443 medialintas.com
-202.81.49.42:443 cloud.mld.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.69:443 buyunk.web.id
@@ -34,6 +32,7 @@
 202.81.52.115:443 *.mld.id mld.id
 202.81.52.117:443 *.mld.id mld.id
 202.81.52.118:443 dcm.mld.id
+202.81.52.123:443 mbx.medialintas.net.id
 202.81.98.12:443 *.garenanow.com
 202.81.98.13:443 *.garenanow.com
 202.81.98.21:443 *.advance.freefiremobile.com
@@ -149,7 +148,6 @@
 202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
-202.81.230.112:443 20.hktv.live
 202.81.230.118:443 cabinnet.org *.cabinnet.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.120:443 cabinnet.org *.cabinnet.org
@@ -166,7 +164,6 @@
 202.81.230.139:443 cabinnet.org *.cabinnet.org
 202.81.230.140:443 cabinnet.org *.cabinnet.org
 202.81.230.143:443 cabinnet.org *.cabinnet.org
-202.81.230.167:443 yx.biubiufly.monster
 202.81.230.179:443 blog.gzcd.org
 202.81.230.184:443 k2.vip-go.net
 202.81.230.185:443 *.netv2.work
@@ -175,15 +172,13 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 cloudfront.net *.cloudfront.net
-202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
-202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
-202.81.230.238:443 hk.lolimua.com
+202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.213:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.33:443 m.16tuku.com
 202.81.231.35:443 a.sweet7.love
-202.81.231.80:443 20.hktv.live
 202.81.231.86:443 hk.shopee01.cyou
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.ridique.xyz
@@ -200,6 +195,7 @@
 202.81.231.236:443 nf.01010123.xyz
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.13:443 cabinnet.org *.cabinnet.org
+202.81.232.16:443 newsfish.top
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
@@ -210,11 +206,7 @@
 202.81.232.85:443 cabinnet.org *.cabinnet.org
 202.81.232.111:443 cabinnet.org *.cabinnet.org
 202.81.232.140:443 gdxgdz.shop
-202.81.232.190:443 www.crhcs.cc
 202.81.232.193:443 www.cgbjeck1.xyz
-202.81.232.197:443 www.crhcs.cc
-202.81.232.200:443 www.crhcs.cc
-202.81.232.202:443 www.crhcs.cc
 202.81.232.204:443 cabinnet.org *.cabinnet.org
 202.81.232.207:443 cabinnet.org *.cabinnet.org
 202.81.232.229:443 cabinnet.org *.cabinnet.org
@@ -233,7 +225,7 @@
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.54:443 *.acuren.top acuren.top
 202.81.235.56:443 api.dvpn.me grpc.dvpn.me rpc.dvpn.me
-202.81.235.57:443 m.zhenpay.cash www.zhenpay.cash zhenpay.cash
+202.81.235.57:443 www.zhenpay.cash zhenpay.cash
 202.81.235.63:443 api.dvpn.me grpc.dvpn.me rpc.dvpn.me
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
@@ -257,25 +249,22 @@
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.210:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.235.211:443 boota.luois.ninja
-202.81.236.76:443 clash-gaming.com clash-net.com clash-windows.com didatticapp.com.clash-gaming.com m.clash-gaming.com www.clash-gaming.com www.clash-net.com www.clash-windows.com
 202.81.237.8:443 hyoukyou.moe
 202.81.237.14:443 *.smartparking.app smartparking.app
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
 202.81.237.101:443 www.kkiikk02.top
-202.81.237.112:443 data.chaostu.cc
 202.81.237.140:443 www.71815.net
-202.81.237.163:443 hub.registry.mirrors.edu.organic
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 cabinnet.org *.cabinnet.org
 202.81.243.69:443 www.ldcstudy.net
