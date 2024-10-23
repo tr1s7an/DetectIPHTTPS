@@ -16,9 +16,7 @@
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.5.202:443 ausdisability.com.au remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
-202.81.6.74:443 riteq.wslc.com.au ess.wslc.com.au mobile.wslc.com.au www.ess.wslc.com.au www.mobile.wslc.com.au www.riteq.wslc.com.au
 202.81.6.193:443 remote.scag.com.au
-202.81.6.228:443 remote.mlahmc.org.au www.remote.mlahmc.org.au
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -117,7 +115,7 @@
 202.81.155.101:443 202.81.155.101
 202.81.155.140:443 202.81.155.140
 202.81.228.23:443 hk.caonima.world
-202.81.228.49:443 pd.itunes.apple.com desktop-music-legacy.itunes.apple.com itc.mzstatic.com sb.tv.apple.com edge.itunes.apple.com is4-ssl.mzstatic.com radio-quickplay.itunes.apple.com tv.apple.com images-mercury.mzstatic.com su.itunes.apple.com amp-api-edge.apps.apple.com s3.mzstatic.com bookkeeper.itunes.apple.com itunes.apple.com s1.mzstatic.com a2.mzstatic.com is1-ssl.mzstatic.com upp.itunes.apple.com a5.mzstatic.com api.itunes.apple.com s4.mzstatic.com b4.mzstatic.com configuration.apple.com radio-services.itunes.apple.com radio.itunes.apple.com b3.mzstatic.com init.itunes.apple.com b2.mzstatic.com music.apple.com is2-ssl.mzstatic.com is3-ssl.mzstatic.com sync.itunes.apple.com assets-mercury.mzstatic.com api.apps.apple.com api.music.apple.com a4.mzstatic.com b1.mzstatic.com podcasts.apple.com accertify.mzstatic.com api.podcasts.apple.com pcr.apple.com s.mzstatic.com api.books.apple.com metrics.mzstatic.com sp.itunes.apple.com videos.apple.com a3.mzstatic.com amp-api-edge.music.apple.com b5.mzstatic.com desktop-store.itunes.apple.com is5-ssl.mzstatic.com apps.mzstatic.com api.edu.apple.com atve.tv.apple.com sitemaps.itunes.apple.com books.apple.com uts-api-siri.itunes.apple.com s5.mzstatic.com api.videos.apple.com tf-feedback.itunes.apple.com api-edge.apps.apple.com apps.apple.com sf-api-token-service.itunes.apple.com amp-api-search-edge.apps.apple.com a1.mzstatic.com siri-search.itunes.apple.com vocabulary.itunes.apple.com se.itunes.apple.com s2.mzstatic.com search.itunes.apple.com store.mzstatic.com se-edge.itunes.apple.com radio-activity.itunes.apple.com sb.music.apple.com
+202.81.228.49:443 atve.tv.apple.com videos.apple.com assets-mercury.mzstatic.com books.apple.com is5-ssl.mzstatic.com accertify.mzstatic.com apps.mzstatic.com b5.mzstatic.com configuration.apple.com sp.itunes.apple.com metrics.mzstatic.com se-edge.itunes.apple.com is2-ssl.mzstatic.com s4.mzstatic.com api.books.apple.com a3.mzstatic.com music.apple.com is1-ssl.mzstatic.com bookkeeper.itunes.apple.com se.itunes.apple.com itunes.apple.com init.itunes.apple.com radio.itunes.apple.com a1.mzstatic.com search.itunes.apple.com siri-search.itunes.apple.com vocabulary.itunes.apple.com b4.mzstatic.com sb.music.apple.com s2.mzstatic.com images-mercury.mzstatic.com store.mzstatic.com upp.itunes.apple.com pd.itunes.apple.com api.podcasts.apple.com edge.itunes.apple.com itc.mzstatic.com s5.mzstatic.com api-edge.apps.apple.com tf-feedback.itunes.apple.com s3.mzstatic.com is3-ssl.mzstatic.com sb.tv.apple.com radio-activity.itunes.apple.com api.music.apple.com s1.mzstatic.com amp-api-search-edge.apps.apple.com b2.mzstatic.com desktop-music-legacy.itunes.apple.com is4-ssl.mzstatic.com tv.apple.com api.apps.apple.com b3.mzstatic.com api.videos.apple.com b1.mzstatic.com api.edu.apple.com sf-api-token-service.itunes.apple.com sitemaps.itunes.apple.com apps.apple.com su.itunes.apple.com amp-api-edge.apps.apple.com sync.itunes.apple.com a5.mzstatic.com podcasts.apple.com a4.mzstatic.com uts-api-siri.itunes.apple.com pcr.apple.com radio-quickplay.itunes.apple.com a2.mzstatic.com amp-api-edge.music.apple.com desktop-store.itunes.apple.com s.mzstatic.com api.itunes.apple.com radio-services.itunes.apple.com
 202.81.228.95:443 scroad.pics
 202.81.228.96:443 scroad.pics
 202.81.228.97:443 scroad.pics
@@ -132,7 +130,7 @@
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.92:443 *.nyaapasu.net
 202.81.229.104:443 lovecakezhang.uk
-202.81.229.117:443 cloudfront.net *.cloudfront.net
+202.81.229.117:443 n.sni-347-default.ssl.fastly.net
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
@@ -171,14 +169,13 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.33:443 m.16tuku.com
-202.81.231.35:443 ai.emmok.site
 202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
@@ -189,6 +186,7 @@
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com
+202.81.231.205:443 *.tesla.com tesla.com
 202.81.231.206:443 kkm.ink
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.231.236:443 nf.01010123.xyz
@@ -220,7 +218,7 @@
 202.81.234.10:443 cpanel.netfront.net
 202.81.234.37:443 cpanel.netfront.net
 202.81.234.88:443 cpanel.netfront.net
-202.81.235.11:443 angg.qingluyi.cn
+202.81.235.11:443 as1.qingluyi.cn
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.54:443 *.acuren.top acuren.top
 202.81.235.56:443 api.dvpn.me grpc.dvpn.me rpc.dvpn.me
@@ -254,7 +252,7 @@
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
 202.81.237.101:443 www.kkiikk02.top
@@ -264,7 +262,7 @@
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.237.238:443 hk1.feuler.tk
 202.81.237.246:443 tqhza.top *.tqhza.top
 202.81.243.69:443 www.ldcstudy.net
