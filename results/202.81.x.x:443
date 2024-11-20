@@ -11,7 +11,6 @@
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.228:443 wdms.cloud www.wdms.cloud
-202.81.4.230:443 www.mywdms.com mywdms.com
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
@@ -27,7 +26,7 @@
 202.81.52.67:443 ktg.mld.id
 202.81.52.69:443 buyunk.web.id
 202.81.52.108:443 crm.mld.id
-202.81.52.109:443 vp1.mld.id
+202.81.52.109:443 benyomjaya.mld.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
 202.81.52.115:443 *.mld.id mld.id
@@ -97,9 +96,25 @@
 202.81.119.81:443 *.fe.garena.com
 202.81.120.146:443 driveapp.test.alpha.insea.io
 202.81.123.2:443 *.ggblueshark.com
+202.81.123.7:443 *.ggblueshark.com
+202.81.123.8:443 *.ggblueshark.com
+202.81.123.11:443 *.ggblueshark.com
+202.81.123.14:443 *.ggblueshark.com
+202.81.123.16:443 *.ggblueshark.com
+202.81.123.17:443 *.ggblueshark.com
 202.81.123.18:443 *.ggblueshark.com
+202.81.123.20:443 *.ggblueshark.com
+202.81.123.21:443 *.ggblueshark.com
+202.81.123.45:443 *.ggblueshark.com
+202.81.123.46:443 *.ggblueshark.com
+202.81.123.47:443 *.ggblueshark.com
+202.81.123.48:443 *.ggblueshark.com
 202.81.123.51:443 *.ggblueshark.com
 202.81.123.52:443 *.ggblueshark.com
+202.81.123.57:443 *.ggblueshark.com
+202.81.123.58:443 *.ggblueshark.com
+202.81.123.61:443 *.ggblueshark.com
+202.81.123.66:443 *.ggblueshark.com
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.133.20:443 202.81.133.20
@@ -107,14 +122,11 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
-202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.89:443 202.81.155.89
-202.81.155.91:443 202.81.155.91
-202.81.155.100:443 202.81.155.100
 202.81.155.101:443 202.81.155.101
 202.81.155.140:443 202.81.155.140
 202.81.228.23:443 hk.caonima.world
@@ -125,9 +137,7 @@
 202.81.228.98:443 scroad.pics
 202.81.228.160:443 *.bitserve.online bitserve.online
 202.81.229.32:443 *.bitserve.online bitserve.online
-202.81.229.40:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.42:443 azure.microsoft.com dialtone.azure.microsoft.com
-202.81.229.48:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.89:443 *.bitserve.online bitserve.online
@@ -137,10 +147,9 @@
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
-202.81.229.169:443 kl892.com *.kl892.com
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
-202.81.229.175:443 kl892.com *.kl892.com
 202.81.229.206:443 wula.246810.store
+202.81.230.16:443 a.media.51ssr.club
 202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.29:443 hk006.xnet888.top
 202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -150,32 +159,17 @@
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.112:443 27.334420.org
-202.81.230.118:443 kl892.com *.kl892.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.120:443 kl892.com *.kl892.com
-202.81.230.125:443 kl892.com *.kl892.com
-202.81.230.126:443 kl892.com *.kl892.com
-202.81.230.128:443 kl892.com *.kl892.com
-202.81.230.129:443 kl892.com *.kl892.com
-202.81.230.130:443 kl892.com *.kl892.com
-202.81.230.132:443 kl892.com *.kl892.com
-202.81.230.134:443 kl892.com *.kl892.com
-202.81.230.135:443 kl892.com *.kl892.com
-202.81.230.136:443 kl892.com *.kl892.com
-202.81.230.137:443 kl892.com *.kl892.com
-202.81.230.139:443 kl892.com *.kl892.com
-202.81.230.140:443 kl892.com *.kl892.com
-202.81.230.143:443 kl892.com *.kl892.com
 202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
@@ -184,6 +178,7 @@
 202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
+202.81.231.157:443 91265.com www.91265.com
 202.81.231.161:443 mail.unitedservice.com.hk autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
 202.81.231.192:443 ins.runofo.xyz
 202.81.231.195:443 hk1195.worldbook.online
@@ -191,23 +186,15 @@
 202.81.231.204:443 *.catpromax.com
 202.81.231.205:443 *.tesla.com tesla.com
 202.81.231.233:443 v2hkg.51ssr.club
-202.81.231.236:443 nf.01010123.xyz
 202.81.232.12:443 *.ohohman.net ohohman.net
-202.81.232.13:443 kl892.com *.kl892.com
 202.81.232.18:443 isoc.hk www.isoc.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.51:443 *.yhtk.org yhtk.org
 202.81.232.55:443 nh.430079.xyz
 202.81.232.64:443 1902.store
-202.81.232.81:443 kl892.com *.kl892.com
 202.81.232.83:443 hk.1008006.xyz
-202.81.232.85:443 kl892.com *.kl892.com
-202.81.232.111:443 kl892.com *.kl892.com
 202.81.232.140:443 gdxgdz.shop
-202.81.232.204:443 kl892.com *.kl892.com
-202.81.232.207:443 kl892.com *.kl892.com
-202.81.232.229:443 kl892.com *.kl892.com
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.3:443 cpanel.netfront.net
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
@@ -219,7 +206,6 @@
 202.81.234.10:443 cpanel.netfront.net
 202.81.234.37:443 cpanel.netfront.net
 202.81.234.88:443 cpanel.netfront.net
-202.81.235.11:443 as1.qingluyi.cn
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.32:443 internal.viewturbo.com
 202.81.235.54:443 *.acuren.top acuren.top
@@ -230,19 +216,10 @@
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
 202.81.235.70:443 *.coz.moe
-202.81.235.71:443 kl892.com *.kl892.com
-202.81.235.74:443 kl892.com *.kl892.com
 202.81.235.76:443 grpc.dvpn.me
-202.81.235.83:443 kl892.com *.kl892.com
-202.81.235.88:443 kl892.com *.kl892.com
-202.81.235.95:443 kl892.com *.kl892.com
-202.81.235.116:443 kl892.com *.kl892.com
-202.81.235.127:443 kl892.com *.kl892.com
+202.81.235.85:443 blog.gzcd.org
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 *.smartparking.app smartparking.app
-202.81.235.182:443 kl892.com *.kl892.com
-202.81.235.189:443 kl892.com *.kl892.com
-202.81.235.191:443 kl892.com *.kl892.com
 202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.236.55:443 guoneng.pics
@@ -255,18 +232,19 @@
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.21:443 www.kkiikk02.top
-202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
+202.81.237.100:443 91265.com www.91265.com
 202.81.237.101:443 www.kkiikk02.top
 202.81.237.112:443 data.chaostu.cc
 202.81.237.140:443 www.71815.net
 202.81.237.163:443 huige233.com www.huige233.com
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
+202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
 202.81.237.230:443 ecc.dearhouse.eu.org
-202.81.237.246:443 kl892.com *.kl892.com
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
