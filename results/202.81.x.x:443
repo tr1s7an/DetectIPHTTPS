@@ -21,6 +21,7 @@
 202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.147:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.149:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.43:443 *.mld.id mld.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
@@ -122,12 +123,16 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.89:443 202.81.155.89
+202.81.155.91:443 202.81.155.91
+202.81.155.100:443 202.81.155.100
 202.81.155.101:443 202.81.155.101
+202.81.155.107:443 202.81.155.107
 202.81.155.140:443 202.81.155.140
 202.81.228.23:443 hk.caonima.world
 202.81.228.49:443 atve.tv.apple.com videos.apple.com assets-mercury.mzstatic.com books.apple.com is5-ssl.mzstatic.com accertify.mzstatic.com apps.mzstatic.com b5.mzstatic.com configuration.apple.com sp.itunes.apple.com metrics.mzstatic.com se-edge.itunes.apple.com is2-ssl.mzstatic.com s4.mzstatic.com api.books.apple.com a3.mzstatic.com music.apple.com is1-ssl.mzstatic.com bookkeeper.itunes.apple.com se.itunes.apple.com itunes.apple.com init.itunes.apple.com radio.itunes.apple.com a1.mzstatic.com search.itunes.apple.com siri-search.itunes.apple.com vocabulary.itunes.apple.com b4.mzstatic.com sb.music.apple.com s2.mzstatic.com images-mercury.mzstatic.com store.mzstatic.com upp.itunes.apple.com pd.itunes.apple.com api.podcasts.apple.com edge.itunes.apple.com itc.mzstatic.com s5.mzstatic.com api-edge.apps.apple.com tf-feedback.itunes.apple.com s3.mzstatic.com is3-ssl.mzstatic.com sb.tv.apple.com radio-activity.itunes.apple.com api.music.apple.com s1.mzstatic.com amp-api-search-edge.apps.apple.com b2.mzstatic.com desktop-music-legacy.itunes.apple.com is4-ssl.mzstatic.com tv.apple.com api.apps.apple.com b3.mzstatic.com api.videos.apple.com b1.mzstatic.com api.edu.apple.com sf-api-token-service.itunes.apple.com sitemaps.itunes.apple.com apps.apple.com su.itunes.apple.com amp-api-edge.apps.apple.com sync.itunes.apple.com a5.mzstatic.com podcasts.apple.com a4.mzstatic.com uts-api-siri.itunes.apple.com pcr.apple.com radio-quickplay.itunes.apple.com a2.mzstatic.com amp-api-edge.music.apple.com desktop-store.itunes.apple.com s.mzstatic.com api.itunes.apple.com radio-services.itunes.apple.com
@@ -165,16 +170,15 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 cloudfront.net *.cloudfront.net
+202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 cloudfront.net *.cloudfront.net
+202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.33:443 m.16tuku.com
 202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
@@ -196,16 +200,8 @@
 202.81.232.83:443 hk.1008006.xyz
 202.81.232.140:443 gdxgdz.shop
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
-202.81.234.3:443 cpanel.netfront.net
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
-202.81.234.5:443 cpanel.netfront.net
-202.81.234.6:443 cpanel.netfront.net
-202.81.234.7:443 cpanel.netfront.net
-202.81.234.8:443 cpanel.netfront.net
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
-202.81.234.10:443 cpanel.netfront.net
-202.81.234.37:443 cpanel.netfront.net
-202.81.234.88:443 cpanel.netfront.net
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.32:443 internal.viewturbo.com
 202.81.235.54:443 *.acuren.top acuren.top
@@ -217,6 +213,9 @@
 202.81.235.69:443 *.coz.moe
 202.81.235.70:443 *.coz.moe
 202.81.235.76:443 grpc.dvpn.me
+202.81.235.78:443 api.dvpn.me rpc.dvpn.me
+202.81.235.79:443 api.dvpn.me rpc.dvpn.me
+202.81.235.80:443 api.dvpn.me rpc.dvpn.me
 202.81.235.85:443 blog.gzcd.org
 202.81.235.137:443 hyoukyou.moe
 202.81.235.175:443 *.smartparking.app smartparking.app
@@ -231,11 +230,9 @@
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
-202.81.237.21:443 www.kkiikk02.top
 202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
-202.81.237.101:443 www.kkiikk02.top
 202.81.237.112:443 data.chaostu.cc
 202.81.237.140:443 www.71815.net
 202.81.237.163:443 huige233.com www.huige233.com
@@ -244,22 +241,11 @@
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
-202.81.237.230:443 ecc.dearhouse.eu.org
+202.81.237.230:443 xt.om
 202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
-202.81.244.250:443 mdm.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
-202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
-202.81.250.15:443 demo3.hkgisportal.com www.demo3.hkgisportal.com
-202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
-202.81.250.29:443 gisacademy.hk www.gisacademy.hk
-202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
-202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
-202.81.250.38:443 *.esapps.hk esapps.hk
-202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
-202.81.250.48:443 *.esapps.hk esapps.hk
-202.81.250.50:443 eportal.esapps.hk www.eportal.esapps.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
 202.81.252.15:443 *.netfront.net
@@ -282,4 +268,3 @@
 202.81.252.243:443 *.netfront.net
 202.81.252.244:443 *.netfront.net
 202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
-202.81.252.246:443 cpanel.netfront.net
