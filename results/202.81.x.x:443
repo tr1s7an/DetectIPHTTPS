@@ -147,7 +147,7 @@
 202.81.229.58:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.89:443 *.bitserve.online bitserve.online
-202.81.229.92:443 *.nyaapasu.net
+202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
 202.81.229.104:443 lovecakezhang.uk
 202.81.229.117:443 n.sni-347-default.ssl.fastly.net
 202.81.229.123:443 *.bitserve.online bitserve.online
@@ -164,6 +164,7 @@
 202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
+202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -173,13 +174,14 @@
 202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
-202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.213:443 cloudfront.net *.cloudfront.net
 202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.33:443 m.16tuku.com
+202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
 202.81.231.157:443 91265.com www.91265.com
@@ -197,15 +199,19 @@
 202.81.232.55:443 nh.430079.xyz
 202.81.232.83:443 hk.1008006.xyz
 202.81.232.140:443 gdxgdz.shop
+202.81.232.190:443 www.crhcs.cc
+202.81.232.197:443 www.crhcs.cc
+202.81.232.200:443 www.crhcs.cc
+202.81.232.202:443 www.crhcs.cc
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
+202.81.234.8:443 tdenaking.cc
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
 202.81.235.11:443 *.kl892.com kl892.com
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.32:443 internal.viewturbo.com
 202.81.235.54:443 *.acuren.top acuren.top
 202.81.235.56:443 *.kl892.com kl892.com
-202.81.235.57:443 www.zhenpay.cash zhenpay.cash
 202.81.235.63:443 *.kl892.com kl892.com
 202.81.235.64:443 *.kl892.com kl892.com
 202.81.235.67:443 *.coz.moe
@@ -230,12 +236,11 @@
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
-202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
 202.81.237.112:443 data.chaostu.cc
 202.81.237.140:443 ichinng.com www.ichinng.com
-202.81.237.163:443 huige233.com www.huige233.com
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.201:443 c.media.51ssr.club
@@ -249,7 +254,6 @@
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
-202.81.250.33:443 *.esapps.hk esapps.hk
 202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.38:443 *.esapps.hk esapps.hk
