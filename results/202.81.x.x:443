@@ -33,7 +33,6 @@
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
 202.81.52.115:443 *.mld.id mld.id
-202.81.52.117:443 *.mld.id mld.id
 202.81.52.123:443 mbx.medialintas.net.id
 202.81.98.12:443 *.garenanow.com
 202.81.98.13:443 *.garenanow.com
@@ -171,11 +170,11 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 cloudfront.net *.cloudfront.net
+202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 cloudfront.net *.cloudfront.net
+202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
@@ -186,7 +185,7 @@
 202.81.231.142:443 netdisk.dwoung.net
 202.81.231.157:443 91265.com www.91265.com
 202.81.231.161:443 mail.unitedservice.com.hk autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
-202.81.231.192:443 ins.runofo.xyz
+202.81.231.192:443 www.apple.com.cn www.apple.com images.apple.com
 202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.204:443 *.catpromax.com
@@ -205,7 +204,6 @@
 202.81.232.202:443 www.crhcs.cc
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
-202.81.234.8:443 tdenaking.cc
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
 202.81.235.11:443 *.kl892.com kl892.com
 202.81.235.26:443 hk004.xnet888.top
@@ -222,24 +220,18 @@
 202.81.235.78:443 api.dvpn.me rpc.dvpn.me
 202.81.235.79:443 api.dvpn.me rpc.dvpn.me
 202.81.235.80:443 api.dvpn.me rpc.dvpn.me
-202.81.235.85:443 blog.gzcd.org
 202.81.235.137:443 hyoukyou.moe
-202.81.235.175:443 *.smartparking.app smartparking.app
-202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.236.55:443 guoneng.pics
 202.81.236.56:443 guoneng.pics
 202.81.236.57:443 guoneng.pics
 202.81.236.58:443 guoneng.pics
 202.81.237.8:443 hyoukyou.moe
-202.81.237.14:443 *.smartparking.app smartparking.app
-202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
-202.81.237.112:443 data.chaostu.cc
 202.81.237.140:443 ichinng.com www.ichinng.com
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
