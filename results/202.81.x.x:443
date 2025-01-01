@@ -6,14 +6,13 @@
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
+202.81.4.170:443 external.jonesws.com.au
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.194:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
-202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.193:443 remote.scag.com.au
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -110,6 +109,7 @@
 202.81.123.46:443 *.ggblueshark.com
 202.81.123.47:443 *.ggblueshark.com
 202.81.123.48:443 *.ggblueshark.com
+202.81.123.50:443 *.ggblueshark.com
 202.81.123.51:443 *.ggblueshark.com
 202.81.123.52:443 *.ggblueshark.com
 202.81.123.57:443 *.ggblueshark.com
@@ -170,11 +170,11 @@
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.201:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.201:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
-202.81.230.213:443 cloudfront.net *.cloudfront.net
-202.81.230.214:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.213:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
+202.81.230.214:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
@@ -221,7 +221,9 @@
 202.81.235.79:443 api.dvpn.me rpc.dvpn.me
 202.81.235.80:443 api.dvpn.me rpc.dvpn.me
 202.81.235.137:443 hyoukyou.moe
+202.81.235.176:443 wj.xuuu.us
 202.81.235.203:443 hk2.regeneonline.com
+202.81.235.211:443 boota.luois.ninja
 202.81.236.55:443 guoneng.pics
 202.81.236.56:443 guoneng.pics
 202.81.236.57:443 guoneng.pics
@@ -229,16 +231,16 @@
 202.81.237.8:443 hyoukyou.moe
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
-202.81.237.23:443 cloudfront.net *.cloudfront.net
+202.81.237.23:443 ecx.images-amazon.com f.media-amazon.com g-ec2.images-amazon.com g-ecx.images-amazon.com g-images.amazon.com ia.media-imdb.com images-eu.ssl-images-amazon.com images-fe.ssl-images-amazon.com images-na.ssl-images-amazon.com images.amazon.com m.media-amazon.com z-ecx.images-amazon.com
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
+202.81.237.112:443 data.chaostu.cc
 202.81.237.140:443 ichinng.com www.ichinng.com
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
-202.81.243.69:443 www.ldcstudy.net
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.244.250:443 mdm.frenzymind.com
