@@ -26,11 +26,13 @@
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.44:443 dm.medialintas.net.id
 202.81.49.67:443 mbx.kopindosat.co.id
+202.81.49.71:443 cpanel.kopindosat.co.id
+202.81.49.72:443 cloud.kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.69:443 buyunk.web.id
 202.81.52.108:443 crm.mld.id
-202.81.52.109:443 benyomjaya.mld.id
+202.81.52.109:443 gunawan.mld.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
 202.81.52.115:443 *.mld.id mld.id
@@ -42,7 +44,6 @@
 202.81.99.56:443 *.advance.freefiremobile.com
 202.81.99.116:443 *.advance.freefiremobile.com
 202.81.107.8:443 test.castle.api.freefiremobile.com
-202.81.107.11:443 *.advance.freefiremobile.com
 202.81.107.15:443 *.advance.freefiremobile.com
 202.81.109.2:443 client.ind.freefiremobile.com
 202.81.109.4:443 client.ind.freefiremobile.com
@@ -68,7 +69,6 @@
 202.81.111.140:443 *.ggblueshark.com
 202.81.113.139:443 ss-receiver.data.garenanow.com
 202.81.113.140:443 ss-receiver.data.garenanow.com
-202.81.113.143:443 shushu.data.jingle.cn
 202.81.114.6:443 *.gre.garenanow.com
 202.81.115.90:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.91:443 *.keystats.seagroup.com keystats.seagroup.com
@@ -78,7 +78,6 @@
 202.81.118.6:443 *.tf-center.dhgamesdownload.com
 202.81.118.7:443 *.tf-center.dhgamesdownload.com
 202.81.118.8:443 *.tf-center.dhgamesdownload.com
-202.81.118.9:443 *.tf-center.dhgamesdownload.com
 202.81.119.1:443 bdversion.ggbluefox.com
 202.81.119.2:443 bdversion.ggbluefox.com
 202.81.119.3:443 bdversion.ggbluefox.com
@@ -102,7 +101,6 @@
 202.81.123.8:443 *.ggblueshark.com
 202.81.123.11:443 *.ggblueshark.com
 202.81.123.14:443 *.ggblueshark.com
-202.81.123.16:443 *.ggblueshark.com
 202.81.123.17:443 *.ggblueshark.com
 202.81.123.18:443 *.ggblueshark.com
 202.81.123.20:443 *.ggblueshark.com
@@ -125,9 +123,11 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
+202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.89:443 202.81.155.89
@@ -145,7 +145,6 @@
 202.81.229.60:443 azure.microsoft.com dialtone.azure.microsoft.com
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
-202.81.229.104:443 lovecakezhang.uk
 202.81.229.117:443 n.sni-347-default.ssl.fastly.net
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
@@ -171,13 +170,12 @@
 202.81.230.201:443 cloudfront.net *.cloudfront.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
-202.81.230.213:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.230.213:443 cloudfront.net *.cloudfront.net
 202.81.230.214:443 cloudfront.net *.cloudfront.net
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.33:443 m.16tuku.com
 202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
@@ -219,7 +217,6 @@
 202.81.235.78:443 api.dvpn.me rpc.dvpn.me
 202.81.235.79:443 api.dvpn.me rpc.dvpn.me
 202.81.235.80:443 api.dvpn.me rpc.dvpn.me
-202.81.235.85:443 www.cloudflare.com blog.api.www.cloudflare.com
 202.81.235.137:443 hyoukyou.moe
 202.81.235.160:443 jeeapp.org
 202.81.235.176:443 wj.xuuu.us
@@ -236,12 +233,12 @@
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
 202.81.237.112:443 data.chaostu.cc
+202.81.237.140:443 www.ichinng.com
 202.81.237.176:443 *.xyx.moe
 202.81.237.182:443 www.learn.microsoft.com learn.microsoft.com
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
-202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.244.250:443 mdm.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
