@@ -7,11 +7,23 @@
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
 202.81.4.170:443 external.jonesws.com.au
+202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.194:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.193:443 remote.scag.com.au
+202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.147:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.149:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.153:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.44:443 dm.medialintas.net.id
@@ -120,11 +132,9 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
@@ -159,6 +169,7 @@
 202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
+202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
@@ -175,6 +186,7 @@
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.33:443 m.16tuku.com
+202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
 202.81.231.157:443 91265.com www.91265.com
@@ -201,6 +213,7 @@
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
+202.81.235.9:443 www.cloudflare.com *.www.cloudflare.com
 202.81.235.11:443 *.kl892.com kl892.com
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.32:443 internal.viewturbo.com
@@ -228,7 +241,7 @@
 202.81.237.8:443 hyoukyou.moe
 202.81.237.17:443 *.hk-bak.mmd.ink *.hk.mmd.ink *.mmd.ink *.us-bak.mmd.ink *.us.mmd.ink mmd.ink
 202.81.237.20:443 img.mayiyiyi.com
-202.81.237.23:443 a248.e.akamai.net *.akamaized.net *.akamaized-staging.net *.akamaihd.net *.akamaihd-staging.net
+202.81.237.23:443 cloudfront.net *.cloudfront.net
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
 202.81.237.112:443 data.chaostu.cc
