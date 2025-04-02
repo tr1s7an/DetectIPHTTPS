@@ -2,12 +2,12 @@
 202.81.4.11:443 server.bictonmedical.com.au www.server.bictonmedical.com.au
 202.81.4.28:443 flowcentric.deltatech.au www.flowcentric.deltatech.au
 202.81.4.44:443 *.appointment.mobi appointment.mobi
-202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
 202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.115:443 remote.yilgarn.wa.gov.au AutoDiscover.yilgarn.wa.gov.au synergyapi.yilgarn.wa.gov.au
+202.81.4.122:443 *.coorow.wa.gov.au coorow.wa.gov.au
 202.81.4.170:443 external.jonesws.com.au
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.194:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -29,6 +29,7 @@
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.43:443 *.mld.id mld.id
+202.81.49.45:443 autodiscover.wifi.web.id mail.wifi.web.id wifi.web.id www.wifi.web.id
 202.81.49.66:443 cpcalendars.ns.kopindosat.co.id ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
 202.81.49.71:443 *.kopindosat.co.id kopindosat.co.id www.dev.kopindosat.co.id
@@ -38,6 +39,7 @@
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.69:443 crm.buyunk.web.id
+202.81.52.108:443 99teknologi.id www.99teknologi.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
 202.81.52.123:443 mbx.medialintas.net.id
@@ -131,11 +133,8 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
-202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
@@ -163,23 +162,15 @@
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
 202.81.229.206:443 wula.246810.store
 202.81.230.16:443 a.media.51ssr.club
-202.81.230.19:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.29:443 hk006.xnet888.top
 202.81.230.37:443 www.kkiikk02.top
-202.81.230.50:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.58:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.59:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.191:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.192:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.194:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
-202.81.230.195:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.235:443 ourea.ustc.cf
@@ -229,13 +220,15 @@
 202.81.235.91:443 *.kl892.com kl892.com
 202.81.235.95:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.235.137:443 hyoukyou.moe
-202.81.235.176:443 wj.xuuu.us
+202.81.235.175:443 *.smartparking.app smartparking.app
+202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.237.8:443 hyoukyou.moe
+202.81.237.14:443 *.smartparking.app smartparking.app
+202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
-202.81.237.163:443 pkg.mirror.zeroapp.dev
 202.81.237.176:443 *.xyx.moe
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
