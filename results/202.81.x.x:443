@@ -2,6 +2,7 @@
 202.81.4.11:443 server.bictonmedical.com.au www.server.bictonmedical.com.au
 202.81.4.28:443 flowcentric.deltatech.au www.flowcentric.deltatech.au
 202.81.4.44:443 *.appointment.mobi appointment.mobi
+202.81.4.52:443 *.healthypc.com.au healthypc.com.au
 202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
 202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
@@ -19,7 +20,6 @@
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.193:443 remote.scag.com.au
-202.81.7.139:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -28,14 +28,15 @@
 202.81.7.147:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.152:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.45:443 autodiscover.wifi.web.id mail.wifi.web.id wifi.web.id www.wifi.web.id
 202.81.49.66:443 cpcalendars.ns.kopindosat.co.id ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
 202.81.49.71:443 *.kopindosat.co.id kopindosat.co.id www.dev.kopindosat.co.id
 202.81.49.72:443 cloud.kopindosat.co.id
-202.81.49.73:443 mx2.kopindosat.co.id
-202.81.49.74:443 api1.kopindosat.co.id
+202.81.49.73:443 *.kopindosat.co.id kopindosat.co.id
+202.81.49.74:443 *.kopindosat.co.id kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.69:443 crm.buyunk.web.id
@@ -133,6 +134,7 @@
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
 202.81.155.47:443 202.81.155.47
@@ -159,25 +161,24 @@
 202.81.229.123:443 *.bitserve.online bitserve.online
 202.81.229.124:443 *.bitserve.online bitserve.online
 202.81.229.125:443 *.bitserve.online bitserve.online
+202.81.229.138:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
 202.81.229.206:443 wula.246810.store
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.29:443 hk006.xnet888.top
 202.81.230.37:443 www.kkiikk02.top
-202.81.230.60:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.193:443 *.deerlovescookie.asia *.deerlovessenbeis.asia *.deerlovessunnyday.asia
+202.81.230.189:443 v.7wz.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.235:443 ourea.ustc.cf
 202.81.230.251:443 hk4.feuler.tk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.35:443 yahoo.com tw.rd.yahoo.com s.yimg.com mbp.yimg.com hk.rd.yahoo.com fr-ca.rogers.yahoo.com ddl.fp.yahoo.com ca.rogers.yahoo.com ca.my.yahoo.com brb.yahoo.net add.my.yahoo.com *.yahoo.com *.www.yahoo.com *.media.yahoo.com *.att.yahoo.com *.amp.yimg.com
 202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
@@ -235,6 +236,7 @@
 202.81.237.213:443 dav.4broaf.net
 202.81.238.7:443 m1.mailfort.com
 202.81.238.10:443 whois.hk.com www.whois.hk.com
+202.81.238.22:443 platform.infrarisq.com
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
