@@ -12,6 +12,7 @@
 202.81.4.170:443 external.jonesws.com.au
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.194:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.197:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.228:443 wdms.cloud www.wdms.cloud
@@ -34,7 +35,6 @@
 202.81.49.66:443 cpcalendars.ns.kopindosat.co.id ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
 202.81.49.71:443 *.kopindosat.co.id kopindosat.co.id www.dev.kopindosat.co.id
-202.81.49.72:443 cloud.kopindosat.co.id
 202.81.49.73:443 *.kopindosat.co.id kopindosat.co.id
 202.81.49.74:443 *.kopindosat.co.id kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
@@ -167,11 +167,11 @@
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.29:443 hk006.xnet888.top
-202.81.230.37:443 www.kkiikk02.top
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
+202.81.230.166:443 www.cloudflare.com *.www.cloudflare.com
 202.81.230.189:443 v.7wz.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
