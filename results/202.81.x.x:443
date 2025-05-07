@@ -13,6 +13,7 @@
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.194:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.197:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.228:443 wdms.cloud www.wdms.cloud
@@ -23,12 +24,12 @@
 202.81.6.193:443 remote.scag.com.au
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.7.142:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.145:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.147:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.45:443 autodiscover.wifi.web.id mail.wifi.web.id wifi.web.id www.wifi.web.id
 202.81.49.66:443 cpanel.ns.kopindosat.co.id ns.kopindosat.co.id webmail.ns.kopindosat.co.id
@@ -38,7 +39,6 @@
 202.81.49.74:443 *.kopindosat.co.id kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
-202.81.52.69:443 my.buyunk.web.id
 202.81.52.108:443 99teknologi.id www.99teknologi.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
@@ -182,7 +182,6 @@
 202.81.231.91:443 chronus.sres.uk
 202.81.231.119:443 nft140.vps.shilli.site
 202.81.231.142:443 netdisk.dwoung.net
-202.81.231.157:443 91265.com www.91265.com
 202.81.231.161:443 mail.unitedservice.com.hk autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
 202.81.231.192:443 images.apple.com www.apple.com.cn www.apple.com
 202.81.231.195:443 hk1195.worldbook.online
@@ -200,13 +199,8 @@
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
-202.81.235.9:443 www.cloudflare.com blog.api.www.cloudflare.com
-202.81.235.11:443 *.kl892.com kl892.com
 202.81.235.26:443 hk004.xnet888.top
 202.81.235.41:443 canada.catpaw2012.com viphk.catpaw.net.cn viphk.cellsystech.com viphk.zyxel-sh.com
-202.81.235.56:443 *.kl892.com kl892.com
-202.81.235.63:443 *.kl892.com kl892.com
-202.81.235.64:443 *.kl892.com kl892.com
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -227,7 +221,6 @@
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.20:443 img.mayiyiyi.com
 202.81.237.55:443 v2hkd.51ssr.club
-202.81.237.100:443 91265.com www.91265.com
 202.81.237.176:443 *.xyx.moe
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
@@ -235,9 +228,9 @@
 202.81.238.7:443 m1.mailfort.com
 202.81.238.10:443 whois.hk.com www.whois.hk.com
 202.81.238.22:443 platform.infrarisq.com
+202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
-202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
 202.81.250.33:443 *.esapps.hk esapps.hk
