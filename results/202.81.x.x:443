@@ -28,6 +28,8 @@
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
+202.81.7.155:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.156:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.66:443 ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
@@ -77,6 +79,7 @@
 202.81.111.81:443 client.ind.freefiremobile.com
 202.81.111.139:443 *.ggblueshark.com
 202.81.111.140:443 *.ggblueshark.com
+202.81.111.150:443 *.ggblueshark.com
 202.81.113.139:443 ss-receiver.data.garenanow.com
 202.81.113.140:443 ss-receiver.data.garenanow.com
 202.81.113.143:443 shushu.data.jingle.cn
@@ -99,14 +102,18 @@
 202.81.119.7:443 bdversion.ggbluefox.com
 202.81.119.8:443 bdversion.ggbluefox.com
 202.81.119.9:443 bdversion.ggbluefox.com
+202.81.119.10:443 *.ggblueshark.com
 202.81.119.11:443 bdversion.ggbluefox.com
 202.81.119.12:443 bdversion.ggbluefox.com
 202.81.119.13:443 bdversion.ggbluefox.com
 202.81.119.14:443 bdversion.ggbluefox.com
+202.81.119.15:443 *.ggblueshark.com
 202.81.119.40:443 *.fe.garena.com
 202.81.119.78:443 *.fe.garena.com
 202.81.119.80:443 *.fe.garena.com
 202.81.119.81:443 *.fe.garena.com
+202.81.119.85:443 *.ggblueshark.com
+202.81.119.87:443 *.ggblueshark.com
 202.81.123.2:443 *.ggblueshark.com
 202.81.123.7:443 *.ggblueshark.com
 202.81.123.8:443 *.ggblueshark.com
@@ -133,28 +140,15 @@
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.131.22:443 202.81.131.22
-202.81.131.45:443 202.81.131.45
 202.81.133.20:443 202.81.133.20
 202.81.148.108:443 202.81.148.108
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
-202.81.155.54:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.55:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.56:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.57:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.62:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.63:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.64:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.65:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.66:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
-202.81.155.68:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
 202.81.155.89:443 202.81.155.89
@@ -211,6 +205,7 @@
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
+202.81.232.25:443 *.emmaus.com.hk emmaus.com.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.51:443 cloudfront.net *.cloudfront.net
@@ -247,6 +242,7 @@
 202.81.238.22:443 platform.infrarisq.com
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
+202.81.244.250:443 mdm.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
@@ -275,6 +271,7 @@
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
+202.81.252.232:443 *.emmaus.com.hk emmaus.com.hk
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
