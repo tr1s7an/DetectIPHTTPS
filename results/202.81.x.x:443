@@ -25,11 +25,13 @@
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.145:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.147:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.148:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
 202.81.7.155:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.7.156:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.156:443 *.wseedlings.com.au wseedlings.com.au
+202.81.10.109:443 *.vpj.co.jp vpj.co.jp
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.66:443 ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
@@ -50,6 +52,7 @@
 202.81.99.116:443 *.advance.freefiremobile.com
 202.81.99.205:443 *.ggblueshark.com
 202.81.99.206:443 *.ggblueshark.com
+202.81.106.8:443 dl.test.kg.garenanow.com
 202.81.106.83:443 *.ggblueshark.com
 202.81.106.102:443 *.ggblueshark.com
 202.81.106.107:443 *.ggblueshark.com
@@ -57,6 +60,8 @@
 202.81.107.8:443 test.castle.api.freefiremobile.com
 202.81.107.11:443 *.advance.freefiremobile.com
 202.81.107.15:443 *.advance.freefiremobile.com
+202.81.108.1:443 *.ggblueshark.com
+202.81.108.77:443 *.ggblueshark.com
 202.81.109.2:443 client.ind.freefiremobile.com
 202.81.109.4:443 client.ind.freefiremobile.com
 202.81.109.5:443 client.ind.freefiremobile.com
@@ -102,7 +107,6 @@
 202.81.119.7:443 bdversion.ggbluefox.com
 202.81.119.8:443 bdversion.ggbluefox.com
 202.81.119.9:443 bdversion.ggbluefox.com
-202.81.119.10:443 *.ggblueshark.com
 202.81.119.11:443 bdversion.ggbluefox.com
 202.81.119.12:443 bdversion.ggbluefox.com
 202.81.119.13:443 bdversion.ggbluefox.com
@@ -140,15 +144,29 @@
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.131.22:443 202.81.131.22
+202.81.131.45:443 202.81.131.45
 202.81.133.20:443 202.81.133.20
 202.81.148.108:443 202.81.148.108
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
+202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
+202.81.155.53:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.54:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.55:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.56:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.57:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.62:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.63:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.64:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.65:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.66:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
+202.81.155.68:443 *.zscalertwo.net zscalertwo.net gateway.zscalertwo.net
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
 202.81.155.89:443 202.81.155.89
@@ -164,6 +182,8 @@
 202.81.228.160:443 *.bitserve.online bitserve.online
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.229.7:443 anycom.sbs
+202.81.229.12:443 *.161883.com 161883.com
+202.81.229.16:443 *.161883.com 161883.com
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.39:443 delete.netfront.net
@@ -208,7 +228,7 @@
 202.81.232.25:443 *.emmaus.com.hk emmaus.com.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
-202.81.232.51:443 cloudfront.net *.cloudfront.net
+202.81.232.51:443 s0.awsstatic.com
 202.81.232.55:443 nh.430079.xyz
 202.81.232.83:443 hk.1008006.xyz
 202.81.232.159:443 027.3584673.xyz
@@ -227,9 +247,7 @@
 202.81.235.91:443 *.kl892.com kl892.com
 202.81.235.137:443 hyoukyou.moe
 202.81.235.203:443 hk2.regeneonline.com
-202.81.235.211:443 boota.luois.ninja
 202.81.237.8:443 hyoukyou.moe
-202.81.237.20:443 img.mayiyiyi.com
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
 202.81.237.163:443 hk.pkg.zeroteam.top
@@ -239,10 +257,9 @@
 202.81.237.213:443 dav.4broaf.net
 202.81.238.7:443 m1.mailfort.com
 202.81.238.10:443 com.hk.com
-202.81.238.22:443 platform.infrarisq.com
+202.81.238.22:443 www.hk.com
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
-202.81.244.250:443 mdm.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
@@ -276,4 +293,4 @@
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
 202.81.252.244:443 *.netfront.net
-202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
+202.81.252.245:443 cpanel.hosting.netfront.net cpcalendars.hosting.netfront.net cpcontacts.hosting.netfront.net hosting.netfront.net mail.hosting.netfront.net webdisk.hosting.netfront.net webmail.hosting.netfront.net whm.hosting.netfront.net www.hosting.netfront.net
