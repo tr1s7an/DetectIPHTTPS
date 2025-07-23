@@ -14,7 +14,6 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
@@ -62,6 +61,28 @@
 202.81.107.15:443 *.advance.freefiremobile.com
 202.81.108.1:443 *.ggblueshark.com
 202.81.108.77:443 *.ggblueshark.com
+202.81.109.2:443 client.ind.freefiremobile.com
+202.81.109.4:443 client.ind.freefiremobile.com
+202.81.109.5:443 client.ind.freefiremobile.com
+202.81.109.6:443 client.ind.freefiremobile.com
+202.81.109.39:443 client.ind.freefiremobile.com
+202.81.109.40:443 client.ind.freefiremobile.com
+202.81.109.41:443 client.ind.freefiremobile.com
+202.81.109.42:443 client.ind.freefiremobile.com
+202.81.109.43:443 client.ind.freefiremobile.com
+202.81.109.65:443 client.ind.freefiremobile.com
+202.81.111.72:443 client.ind.freefiremobile.com
+202.81.111.73:443 client.ind.freefiremobile.com
+202.81.111.74:443 client.ind.freefiremobile.com
+202.81.111.75:443 client.ind.freefiremobile.com
+202.81.111.76:443 client.ind.freefiremobile.com
+202.81.111.77:443 client.ind.freefiremobile.com
+202.81.111.78:443 client.ind.freefiremobile.com
+202.81.111.79:443 client.ind.freefiremobile.com
+202.81.111.80:443 client.ind.freefiremobile.com
+202.81.111.81:443 client.ind.freefiremobile.com
+202.81.111.139:443 *.ggblueshark.com
+202.81.111.140:443 *.ggblueshark.com
 202.81.111.150:443 *.ggblueshark.com
 202.81.113.139:443 ss-receiver.data.garenanow.com
 202.81.113.140:443 ss-receiver.data.garenanow.com
@@ -141,6 +162,7 @@
 202.81.155.101:443 202.81.155.101
 202.81.155.107:443 202.81.155.107
 202.81.155.108:443 202.81.155.108
+202.81.155.115:443 202.81.155.115
 202.81.155.140:443 202.81.155.140
 202.81.228.23:443 hk.caonima.world
 202.81.228.49:443 a3.mzstatic.com api.books.apple.com sp.itunes.apple.com amp-api-edge.music.apple.com s2.mzstatic.com sitemaps.itunes.apple.com api.podcasts.apple.com b1.mzstatic.com desktop-store.itunes.apple.com sb.music.apple.com apps.apple.com b3.mzstatic.com videos.apple.com radio.itunes.apple.com atve.tv.apple.com books.apple.com api.edu.apple.com b4.mzstatic.com uts-api-siri.itunes.apple.com accertify.mzstatic.com api.videos.apple.com b5.mzstatic.com is2-ssl.mzstatic.com metrics.mzstatic.com api.music.apple.com configuration.apple.com radio-services.itunes.apple.com api.apps.apple.com apps.mzstatic.com api.itunes.apple.com a2.mzstatic.com s.mzstatic.com is3-ssl.mzstatic.com assets-mercury.mzstatic.com pcr.apple.com radio-quickplay.itunes.apple.com tv.apple.com a4.mzstatic.com itc.mzstatic.com bookkeeper.itunes.apple.com podcasts.apple.com radio-activity.itunes.apple.com sync.itunes.apple.com siri-search.itunes.apple.com a1.mzstatic.com desktop-music-legacy.itunes.apple.com vocabulary.itunes.apple.com init.itunes.apple.com search.itunes.apple.com a5.mzstatic.com is1-ssl.mzstatic.com music.apple.com s1.mzstatic.com su.itunes.apple.com images-mercury.mzstatic.com s4.mzstatic.com sf-api-token-service.itunes.apple.com b2.mzstatic.com amp-api-edge.apps.apple.com is4-ssl.mzstatic.com upp.itunes.apple.com is5-ssl.mzstatic.com api-edge.apps.apple.com amp-api-search-edge.apps.apple.com s5.mzstatic.com s3.mzstatic.com se-edge.itunes.apple.com sb.tv.apple.com itunes.apple.com se.itunes.apple.com store.mzstatic.com tf-feedback.itunes.apple.com pd.itunes.apple.com edge.itunes.apple.com
@@ -163,7 +185,6 @@
 202.81.229.125:443 *.bitserve.online bitserve.online
 202.81.229.138:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
-202.81.229.198:443 netft.vps.shilli.site
 202.81.229.206:443 wula.246810.store
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
