@@ -3,7 +3,6 @@
 202.81.4.28:443 flowcentric.deltatech.au www.flowcentric.deltatech.au
 202.81.4.44:443 *.appointment.mobi appointment.mobi
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
-202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
 202.81.4.167:443 ardea.3cx.com.au
@@ -13,12 +12,15 @@
 202.81.4.197:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.193:443 remote.scag.com.au
+202.81.7.135:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.7.137:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.138:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -31,7 +33,6 @@
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
 202.81.7.155:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.156:443 *.wseedlings.com.au wseedlings.com.au
-202.81.10.109:443 *.vpj.co.jp vpj.co.jp
 202.81.49.43:443 *.mld.id mld.id
 202.81.49.66:443 ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
@@ -92,7 +93,6 @@
 202.81.115.91:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.102:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.185:443 *.sea.com sea.com
-202.81.115.215:443 deb.repo.garenanow.com image.repo.garenanow.com rpm.repo.garenanow.com
 202.81.118.6:443 *.tf-center.dhgamesdownload.com
 202.81.118.7:443 *.tf-center.dhgamesdownload.com
 202.81.118.8:443 *.tf-center.dhgamesdownload.com
@@ -168,12 +168,10 @@
 202.81.228.137:443 hk-vip2-2.awsno.com
 202.81.228.160:443 *.bitserve.online bitserve.online
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
-202.81.229.7:443 anycom.sbs
 202.81.229.12:443 *.161883.com 161883.com
 202.81.229.16:443 *.161883.com 161883.com
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
-202.81.229.39:443 delete.netfront.net
 202.81.229.42:443 dialtone.azure.microsoft.com azure.microsoft.com
 202.81.229.58:443 dialtone.azure.microsoft.com azure.microsoft.com
 202.81.229.60:443 dialtone.azure.microsoft.com azure.microsoft.com
@@ -185,7 +183,8 @@
 202.81.229.125:443 *.bitserve.online bitserve.online
 202.81.229.138:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
-202.81.229.206:443 wula.246810.store
+202.81.229.198:443 netft.vps.shilli.site
+202.81.229.206:443 hk.246810.club
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.29:443 hk006.xnet888.top
@@ -193,9 +192,8 @@
 202.81.230.75:443 www.cloudflare.com *.www.cloudflare.com
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.100:443 www.cloudflare.com *.www.cloudflare.com
-202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
-202.81.230.123:443 chaos.sres.uk
+202.81.230.123:443 api.trtsz.cn
 202.81.230.189:443 v.7wz.net
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
@@ -203,7 +201,6 @@
 202.81.230.235:443 ourea.ustc.cf
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
 202.81.231.157:443 91265.com www.91265.com
