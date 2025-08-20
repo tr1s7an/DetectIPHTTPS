@@ -16,7 +16,6 @@
 202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
-202.81.5.136:443 remote.vassallo.com.au www.remote.vassallo.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.193:443 remote.scag.com.au
@@ -48,6 +47,9 @@
 202.81.52.123:443 cpl.wtcyber.id
 202.81.98.12:443 *.garenanow.com
 202.81.98.13:443 *.garenanow.com
+202.81.98.21:443 *.advance.freefiremobile.com
+202.81.98.22:443 *.advance.freefiremobile.com
+202.81.99.116:443 *.advance.freefiremobile.com
 202.81.99.205:443 *.ggblueshark.com
 202.81.99.206:443 *.ggblueshark.com
 202.81.106.8:443 dl.test.kg.garenanow.com
@@ -55,6 +57,9 @@
 202.81.106.102:443 *.ggblueshark.com
 202.81.106.107:443 *.ggblueshark.com
 202.81.106.109:443 *.ggblueshark.com
+202.81.107.8:443 test.castle.api.freefiremobile.com
+202.81.107.11:443 *.advance.freefiremobile.com
+202.81.107.15:443 *.advance.freefiremobile.com
 202.81.108.1:443 *.ggblueshark.com
 202.81.108.77:443 *.ggblueshark.com
 202.81.109.2:443 client.ind.freefiremobile.com
@@ -136,14 +141,17 @@
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.131.22:443 202.81.131.22
+202.81.131.45:443 202.81.131.45
 202.81.133.20:443 202.81.133.20
 202.81.148.108:443 202.81.148.108
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
+202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
+202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
@@ -159,11 +167,11 @@
 202.81.228.137:443 hk-vip2-2.awsno.com
 202.81.228.160:443 *.bitserve.online bitserve.online
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
-202.81.229.12:443 *.161883.com 161883.com
-202.81.229.16:443 *.161883.com 161883.com
+202.81.229.7:443 anycom.sbs
+202.81.229.12:443 161883.com *.161883.com
+202.81.229.16:443 161883.com *.161883.com
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
-202.81.229.33:443 nf.wyl.lol
 202.81.229.42:443 dialtone.azure.microsoft.com azure.microsoft.com
 202.81.229.58:443 dialtone.azure.microsoft.com azure.microsoft.com
 202.81.229.60:443 dialtone.azure.microsoft.com azure.microsoft.com
@@ -181,7 +189,6 @@
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.29:443 hk006.xnet888.top
 202.81.230.72:443 v.weixiaoran.top
-202.81.230.75:443 www.cloudflare.com *.www.cloudflare.com
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
@@ -221,12 +228,17 @@
 202.81.235.78:443 api.dvpn.me rpc.dvpn.me
 202.81.235.79:443 api.dvpn.me rpc.dvpn.me
 202.81.235.80:443 api.dvpn.me rpc.dvpn.me
-202.81.235.81:443 *.161883.com 161883.com
-202.81.235.91:443 *.161883.com 161883.com
+202.81.235.81:443 161883.com *.161883.com
+202.81.235.91:443 161883.com *.161883.com
+202.81.235.175:443 *.smartparking.app smartparking.app
+202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.236:443 hk-vip3-1.awsno.com
+202.81.237.14:443 *.smartparking.app smartparking.app
+202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
+202.81.237.153:443 apple-shield.apple.com
 202.81.237.163:443 hk.pkg.zeroteam.top
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
@@ -236,6 +248,7 @@
 202.81.238.22:443 www.hk.com
 202.81.239.242:443 inas.online www.inas.online
 202.81.239.246:443 nexoedge.io
+202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
