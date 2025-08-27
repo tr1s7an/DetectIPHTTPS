@@ -18,6 +18,7 @@
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
+202.81.6.82:443 autodiscover.jvit.com.au autodiscover.neonglow.com.au mail.jvit.com.au mail.neonglow.com.au
 202.81.6.193:443 remote.scag.com.au
 202.81.7.135:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.137:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -187,12 +188,13 @@
 202.81.229.206:443 hk.246810.club
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
-202.81.230.29:443 hk006.xnet888.top
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
+202.81.230.146:443 www.cloudflare.com blog.api.www.cloudflare.com
 202.81.230.189:443 v.7wz.net
+202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.211:443 rancho888.mccloud.gay
@@ -238,7 +240,6 @@
 202.81.237.15:443 *.smartparking.app smartparking.app
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
-202.81.237.153:443 apple-shield.apple.com
 202.81.237.163:443 hk.pkg.zeroteam.top
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
@@ -276,10 +277,9 @@
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
-202.81.252.176:443 *.netfront.net
 202.81.252.232:443 *.emmaus.com.hk emmaus.com.hk
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
 202.81.252.244:443 *.netfront.net
-202.81.252.245:443 cpanel.hosting.netfront.net cpcalendars.hosting.netfront.net cpcontacts.hosting.netfront.net hosting.netfront.net mail.hosting.netfront.net webdisk.hosting.netfront.net webmail.hosting.netfront.net whm.hosting.netfront.net www.hosting.netfront.net
+202.81.252.245:443 *.hosting.netfront.net hosting.netfront.net
