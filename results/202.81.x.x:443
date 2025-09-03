@@ -163,7 +163,7 @@
 202.81.155.108:443 202.81.155.108
 202.81.155.115:443 202.81.155.115
 202.81.155.140:443 202.81.155.140
-202.81.228.23:443 hk.caonima.world
+202.81.228.23:443 wo.caonima.cloud
 202.81.228.49:443 a3.mzstatic.com api.books.apple.com sp.itunes.apple.com amp-api-edge.music.apple.com s2.mzstatic.com sitemaps.itunes.apple.com api.podcasts.apple.com b1.mzstatic.com desktop-store.itunes.apple.com sb.music.apple.com apps.apple.com b3.mzstatic.com videos.apple.com radio.itunes.apple.com atve.tv.apple.com books.apple.com api.edu.apple.com b4.mzstatic.com uts-api-siri.itunes.apple.com accertify.mzstatic.com api.videos.apple.com b5.mzstatic.com is2-ssl.mzstatic.com metrics.mzstatic.com api.music.apple.com configuration.apple.com radio-services.itunes.apple.com api.apps.apple.com apps.mzstatic.com api.itunes.apple.com a2.mzstatic.com s.mzstatic.com is3-ssl.mzstatic.com assets-mercury.mzstatic.com pcr.apple.com radio-quickplay.itunes.apple.com tv.apple.com a4.mzstatic.com itc.mzstatic.com bookkeeper.itunes.apple.com podcasts.apple.com radio-activity.itunes.apple.com sync.itunes.apple.com siri-search.itunes.apple.com a1.mzstatic.com desktop-music-legacy.itunes.apple.com vocabulary.itunes.apple.com init.itunes.apple.com search.itunes.apple.com a5.mzstatic.com is1-ssl.mzstatic.com music.apple.com s1.mzstatic.com su.itunes.apple.com images-mercury.mzstatic.com s4.mzstatic.com sf-api-token-service.itunes.apple.com b2.mzstatic.com amp-api-edge.apps.apple.com is4-ssl.mzstatic.com upp.itunes.apple.com is5-ssl.mzstatic.com api-edge.apps.apple.com amp-api-search-edge.apps.apple.com s5.mzstatic.com s3.mzstatic.com se-edge.itunes.apple.com sb.tv.apple.com itunes.apple.com se.itunes.apple.com store.mzstatic.com tf-feedback.itunes.apple.com pd.itunes.apple.com edge.itunes.apple.com
 202.81.228.137:443 hk-vip2-2.awsno.com
 202.81.228.160:443 *.bitserve.online bitserve.online
@@ -173,9 +173,6 @@
 202.81.229.16:443 161883.com *.161883.com
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
-202.81.229.42:443 dialtone.azure.microsoft.com azure.microsoft.com
-202.81.229.58:443 dialtone.azure.microsoft.com azure.microsoft.com
-202.81.229.60:443 dialtone.azure.microsoft.com azure.microsoft.com
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
 202.81.229.117:443 n.sni-347-default.ssl.fastly.net
@@ -186,6 +183,7 @@
 202.81.229.170:443 *.3xxaa.net 3xxaa.net
 202.81.229.198:443 netft.vps.shilli.site
 202.81.229.206:443 hk.246810.club
+202.81.229.248:443 hk.246810.club
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.72:443 v.weixiaoran.top
@@ -198,6 +196,8 @@
 202.81.230.207:443 phanes.ustc.cf
 202.81.230.208:443 mm.mcwy.pro
 202.81.230.211:443 rancho888.mccloud.gay
+202.81.230.213:443 zone-c-cn2-hk-f.alicloud-ddns-hn16.xyz
+202.81.230.214:443 zone-c-cn2-hk-d.alicloud-ddns-hn16.xyz
 202.81.230.235:443 ourea.ustc.cf
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
@@ -221,7 +221,6 @@
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
-202.81.235.42:443 *.lightnovel.app lightnovel.app
 202.81.235.67:443 *.coz.moe
 202.81.235.68:443 *.coz.moe
 202.81.235.69:443 *.coz.moe
@@ -238,8 +237,10 @@
 202.81.235.236:443 hk-vip3-1.awsno.com
 202.81.237.14:443 *.smartparking.app smartparking.app
 202.81.237.15:443 *.smartparking.app smartparking.app
+202.81.237.23:443 zone-c-cn2-hk-e.alicloud-ddns-hn16.xyz
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.100:443 91265.com www.91265.com
+202.81.237.153:443 apple-shield.apple.com
 202.81.237.163:443 hk.pkg.zeroteam.top
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
@@ -277,6 +278,7 @@
 202.81.252.51:443 *.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
+202.81.252.176:443 *.netfront.net
 202.81.252.232:443 *.emmaus.com.hk emmaus.com.hk
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
