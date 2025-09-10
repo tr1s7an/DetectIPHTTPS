@@ -11,6 +11,7 @@
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.194:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.197:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
 202.81.4.228:443 wdms.cloud www.wdms.cloud
@@ -142,33 +143,25 @@
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.131.22:443 202.81.131.22
-202.81.131.45:443 202.81.131.45
 202.81.133.20:443 202.81.133.20
 202.81.148.108:443 202.81.148.108
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
-202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
-202.81.155.91:443 202.81.155.91
-202.81.155.100:443 202.81.155.100
 202.81.155.101:443 202.81.155.101
 202.81.155.107:443 202.81.155.107
 202.81.155.108:443 202.81.155.108
-202.81.155.115:443 202.81.155.115
 202.81.155.140:443 202.81.155.140
 202.81.228.23:443 wo.caonima.cloud
-202.81.228.49:443 a3.mzstatic.com api.books.apple.com sp.itunes.apple.com amp-api-edge.music.apple.com s2.mzstatic.com sitemaps.itunes.apple.com api.podcasts.apple.com b1.mzstatic.com desktop-store.itunes.apple.com sb.music.apple.com apps.apple.com b3.mzstatic.com videos.apple.com radio.itunes.apple.com atve.tv.apple.com books.apple.com api.edu.apple.com b4.mzstatic.com uts-api-siri.itunes.apple.com accertify.mzstatic.com api.videos.apple.com b5.mzstatic.com is2-ssl.mzstatic.com metrics.mzstatic.com api.music.apple.com configuration.apple.com radio-services.itunes.apple.com api.apps.apple.com apps.mzstatic.com api.itunes.apple.com a2.mzstatic.com s.mzstatic.com is3-ssl.mzstatic.com assets-mercury.mzstatic.com pcr.apple.com radio-quickplay.itunes.apple.com tv.apple.com a4.mzstatic.com itc.mzstatic.com bookkeeper.itunes.apple.com podcasts.apple.com radio-activity.itunes.apple.com sync.itunes.apple.com siri-search.itunes.apple.com a1.mzstatic.com desktop-music-legacy.itunes.apple.com vocabulary.itunes.apple.com init.itunes.apple.com search.itunes.apple.com a5.mzstatic.com is1-ssl.mzstatic.com music.apple.com s1.mzstatic.com su.itunes.apple.com images-mercury.mzstatic.com s4.mzstatic.com sf-api-token-service.itunes.apple.com b2.mzstatic.com amp-api-edge.apps.apple.com is4-ssl.mzstatic.com upp.itunes.apple.com is5-ssl.mzstatic.com api-edge.apps.apple.com amp-api-search-edge.apps.apple.com s5.mzstatic.com s3.mzstatic.com se-edge.itunes.apple.com sb.tv.apple.com itunes.apple.com se.itunes.apple.com store.mzstatic.com tf-feedback.itunes.apple.com pd.itunes.apple.com edge.itunes.apple.com
+202.81.228.49:443 is5-ssl.mzstatic.com assets-mercury.mzstatic.com b2.mzstatic.com is2-ssl.mzstatic.com amp-api-search-edge.apps.apple.com books.apple.com configuration.apple.com videos.apple.com s1.mzstatic.com atve.tv.apple.com b4.mzstatic.com radio-quickplay.itunes.apple.com s3.mzstatic.com api-edge.apps.apple.com s.mzstatic.com s5.mzstatic.com desktop-store.itunes.apple.com a3.mzstatic.com sync.itunes.apple.com su.itunes.apple.com is1-ssl.mzstatic.com a4.mzstatic.com edge.itunes.apple.com api.edu.apple.com images-mercury.mzstatic.com radio-activity.itunes.apple.com api.videos.apple.com store.mzstatic.com apps.apple.com s4.mzstatic.com desktop-music-legacy.itunes.apple.com se-edge.itunes.apple.com vocabulary.itunes.apple.com a1.mzstatic.com search.itunes.apple.com api.books.apple.com api.apps.apple.com api.music.apple.com apps.mzstatic.com upp.itunes.apple.com sb.tv.apple.com is3-ssl.mzstatic.com api.podcasts.apple.com tf-feedback.itunes.apple.com pd.itunes.apple.com accertify.mzstatic.com uts-api-siri.itunes.apple.com a5.mzstatic.com radio-services.itunes.apple.com itc.mzstatic.com a2.mzstatic.com api.itunes.apple.com bookkeeper.itunes.apple.com itunes.apple.com sb.music.apple.com tv.apple.com metrics.mzstatic.com siri-search.itunes.apple.com amp-api-edge.apps.apple.com amp-api-edge.music.apple.com b5.mzstatic.com podcasts.apple.com se.itunes.apple.com s2.mzstatic.com sp.itunes.apple.com init.itunes.apple.com radio.itunes.apple.com is4-ssl.mzstatic.com b1.mzstatic.com music.apple.com sf-api-token-service.itunes.apple.com b3.mzstatic.com
 202.81.228.137:443 hk-vip2-2.awsno.com
 202.81.228.160:443 *.bitserve.online bitserve.online
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
-202.81.229.7:443 anycom.sbs
 202.81.229.12:443 161883.com *.161883.com
 202.81.229.16:443 161883.com *.161883.com
 202.81.229.24:443 nft140.vps.shilli.site
@@ -190,7 +183,8 @@
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
-202.81.230.146:443 www.cloudflare.com blog.api.www.cloudflare.com
+202.81.230.146:443 www.cloudflare.com *.www.cloudflare.com
+202.81.230.166:443 hk03.abyss.moe
 202.81.230.189:443 v.7wz.net
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
 202.81.230.207:443 phanes.ustc.cf
@@ -234,6 +228,7 @@
 202.81.235.175:443 *.smartparking.app smartparking.app
 202.81.235.192:443 *.smartparking.app smartparking.app
 202.81.235.203:443 hk2.regeneonline.com
+202.81.235.211:443 boota.luois.ninja
 202.81.235.236:443 hk-vip3-1.awsno.com
 202.81.237.14:443 *.smartparking.app smartparking.app
 202.81.237.15:443 *.smartparking.app smartparking.app
