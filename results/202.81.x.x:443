@@ -3,6 +3,7 @@
 202.81.4.28:443 flowcentric.deltatech.au www.flowcentric.deltatech.au
 202.81.4.44:443 *.appointment.mobi appointment.mobi
 202.81.4.52:443 *.healthypc.com.au healthypc.com.au
+202.81.4.62:443 *.wagin.wa.gov.au wagin.wa.gov.au
 202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.99:443 *.australce.com australce.com
 202.81.4.103:443 *.australce.com australce.com
@@ -23,7 +24,6 @@
 202.81.6.193:443 remote.scag.com.au
 202.81.7.135:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.137:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
-202.81.7.138:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.143:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -50,7 +50,6 @@
 202.81.98.13:443 *.garenanow.com
 202.81.98.21:443 *.advance.freefiremobile.com
 202.81.98.22:443 *.advance.freefiremobile.com
-202.81.99.116:443 *.advance.freefiremobile.com
 202.81.99.205:443 *.ggblueshark.com
 202.81.99.206:443 *.ggblueshark.com
 202.81.106.8:443 dl.test.kg.garenanow.com
@@ -86,8 +85,8 @@
 202.81.111.139:443 *.ggblueshark.com
 202.81.111.140:443 *.ggblueshark.com
 202.81.111.150:443 *.ggblueshark.com
-202.81.113.139:443 ss-receiver.data.garenanow.com
-202.81.113.140:443 ss-receiver.data.garenanow.com
+202.81.113.139:443 *.data.garenanow.com
+202.81.113.140:443 *.data.garenanow.com
 202.81.113.143:443 shushu.data.jingle.cn
 202.81.114.6:443 *.gre.garenanow.com
 202.81.115.90:443 *.keystats.seagroup.com keystats.seagroup.com
@@ -171,6 +170,8 @@
 202.81.229.16:443 161883.com *.161883.com
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
+202.81.229.86:443 *.bitserve.cloud bitserve.cloud
+202.81.229.87:443 *.bitserve.cloud bitserve.cloud
 202.81.229.89:443 *.bitserve.online bitserve.online
 202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
 202.81.229.117:443 n.sni-347-default.ssl.fastly.net
@@ -210,7 +211,6 @@
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
-202.81.232.25:443 *.emmaus.com.hk emmaus.com.hk
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.51:443 s0.awsstatic.com
@@ -229,23 +229,33 @@
 202.81.235.79:443 api.dvpn.me rpc.dvpn.me
 202.81.235.80:443 api.dvpn.me rpc.dvpn.me
 202.81.235.81:443 161883.com *.161883.com
+202.81.235.83:443 *.echoawakening.cc
 202.81.235.91:443 161883.com *.161883.com
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.211:443 boota.luois.ninja
 202.81.235.236:443 hk-vip3-1.awsno.com
 202.81.237.23:443 zone-c-cn2-hk-e.alicloud-ddns-hn16.xyz
 202.81.237.55:443 v2hkd.51ssr.club
+202.81.237.86:443 *.bitserve.cloud bitserve.cloud
 202.81.237.100:443 91265.com www.91265.com
+202.81.237.115:443 *.bitserve.cloud bitserve.cloud
+202.81.237.117:443 *.bitserve.cloud bitserve.cloud
+202.81.237.118:443 *.bitserve.cloud bitserve.cloud
+202.81.237.119:443 *.bitserve.cloud bitserve.cloud
+202.81.237.130:443 *.bitserve.cloud bitserve.cloud
 202.81.237.153:443 apple-shield.apple.com
 202.81.237.163:443 hk.pkg.zeroteam.top
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
 202.81.237.213:443 dav.4broaf.net
+202.81.237.218:443 *.bitserve.cloud bitserve.cloud
+202.81.237.227:443 *.bitserve.cloud bitserve.cloud
 202.81.238.7:443 m1.mailfort.com
 202.81.238.10:443 com.hk.com
 202.81.238.22:443 www.hk.com
 202.81.239.242:443 inas.online www.inas.online
 202.81.239.246:443 nexoedge.io
+202.81.239.248:443 asiainsurance.hkedge.hk
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
@@ -275,7 +285,6 @@
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
-202.81.252.232:443 *.emmaus.com.hk emmaus.com.hk
 202.81.252.240:443 *.netfront.net
 202.81.252.241:443 *.netfront.net
 202.81.252.243:443 *.netfront.net
