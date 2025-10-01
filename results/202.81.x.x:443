@@ -15,7 +15,6 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
-202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
@@ -37,7 +36,7 @@
 202.81.7.156:443 *.wseedlings.com.au wseedlings.com.au
 202.81.49.66:443 ns.kopindosat.co.id
 202.81.49.68:443 kopindosat.co.id www.kopindosat.co.id
-202.81.49.71:443 *.kopindosat.co.id kopindosat.co.id
+202.81.49.71:443 cpanel.hotel.wifi.web.id cpcalendars.hotel.wifi.web.id cpcontacts.hotel.wifi.web.id hotel.wifi.web.id www.hotel.wifi.web.id
 202.81.49.73:443 *.kopindosat.co.id kopindosat.co.id
 202.81.49.74:443 *.kopindosat.co.id kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
@@ -140,8 +139,9 @@
 202.81.123.66:443 *.ggblueshark.com
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
-202.81.131.22:443 202.81.131.22
+202.81.123.134:443 *.advance.freefiremobile.com
 202.81.133.20:443 202.81.133.20
+202.81.139.11:443 202.81.139.11
 202.81.148.108:443 202.81.148.108
 202.81.150.28:443 202.81.150.28
 202.81.155.10:443 202.81.155.10
@@ -151,6 +151,7 @@
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
+202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.77:443 202.81.155.77
@@ -189,7 +190,7 @@
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
-202.81.230.146:443 www.cloudflare.com *.www.cloudflare.com
+202.81.230.146:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.230.166:443 hk03.abyss.moe
 202.81.230.189:443 v.7wz.net
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
@@ -234,7 +235,6 @@
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.211:443 boota.luois.ninja
 202.81.235.236:443 hk-vip3-1.awsno.com
-202.81.237.23:443 zone-c-cn2-hk-e.alicloud-ddns-hn16.xyz
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.86:443 *.bitserve.cloud bitserve.cloud
 202.81.237.100:443 91265.com www.91265.com
