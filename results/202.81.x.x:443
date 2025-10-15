@@ -18,6 +18,8 @@
 202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
+202.81.5.115:443 traccar.premierillawarra.com.au
+202.81.5.116:443 traccar.premierillawarra.com.au
 202.81.5.202:443 remote.ausdisability.com.au autodiscover.ausdisability.com.au
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.82:443 autodiscover.jvit.com.au autodiscover.neonglow.com.au mail.jvit.com.au mail.neonglow.com.au
@@ -45,10 +47,39 @@
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
 202.81.52.123:443 cpl.wtcyber.id
+202.81.97.157:443 *.ggwhitehawk.com
+202.81.97.158:443 *.ggwhitehawk.com
+202.81.97.159:443 *.ggwhitehawk.com
+202.81.97.160:443 *.ggwhitehawk.com
+202.81.97.161:443 *.ggwhitehawk.com
+202.81.97.162:443 *.ggwhitehawk.com
+202.81.97.163:443 *.ggwhitehawk.com
+202.81.97.164:443 *.ggwhitehawk.com
+202.81.97.165:443 *.ggwhitehawk.com
+202.81.97.166:443 *.ggwhitehawk.com
 202.81.98.12:443 *.garenanow.com
 202.81.98.13:443 *.garenanow.com
 202.81.98.21:443 *.advance.freefiremobile.com
 202.81.98.22:443 *.advance.freefiremobile.com
+202.81.99.1:443 *.ggwhitehawk.com
+202.81.99.3:443 *.ggwhitehawk.com
+202.81.99.4:443 *.ggwhitehawk.com
+202.81.99.5:443 *.ggwhitehawk.com
+202.81.99.6:443 *.ggwhitehawk.com
+202.81.99.7:443 *.ggwhitehawk.com
+202.81.99.8:443 *.ggwhitehawk.com
+202.81.99.9:443 *.ggwhitehawk.com
+202.81.99.10:443 *.ggwhitehawk.com
+202.81.99.11:443 *.ggwhitehawk.com
+202.81.99.12:443 *.ggwhitehawk.com
+202.81.99.13:443 *.ggwhitehawk.com
+202.81.99.14:443 *.ggwhitehawk.com
+202.81.99.15:443 *.ggwhitehawk.com
+202.81.99.16:443 *.ggwhitehawk.com
+202.81.99.17:443 *.ggwhitehawk.com
+202.81.99.18:443 *.ggwhitehawk.com
+202.81.99.19:443 *.ggwhitehawk.com
+202.81.99.20:443 *.ggwhitehawk.com
 202.81.99.205:443 *.ggblueshark.com
 202.81.99.206:443 *.ggblueshark.com
 202.81.106.8:443 dl.test.kg.garenanow.com
@@ -59,6 +90,7 @@
 202.81.107.8:443 test.castle.api.freefiremobile.com
 202.81.107.11:443 *.advance.freefiremobile.com
 202.81.107.15:443 *.advance.freefiremobile.com
+202.81.107.173:443 *.ggwhitehawk.com
 202.81.108.1:443 *.ggblueshark.com
 202.81.108.77:443 *.ggblueshark.com
 202.81.109.2:443 client.ind.freefiremobile.com
@@ -151,9 +183,9 @@
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
+202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
-202.81.155.77:443 202.81.155.77
 202.81.155.91:443 202.81.155.91
 202.81.155.100:443 202.81.155.100
 202.81.155.101:443 202.81.155.101
@@ -169,6 +201,7 @@
 202.81.229.16:443 161883.com *.161883.com
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
+202.81.229.51:443 hk.stickman.top
 202.81.229.86:443 *.bitserve.cloud bitserve.cloud
 202.81.229.87:443 *.bitserve.cloud bitserve.cloud
 202.81.229.89:443 *.bitserve.online bitserve.online
@@ -189,7 +222,6 @@
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 www.cloudflare.com timeline.www.cloudflare.com
-202.81.230.166:443 hk03.abyss.moe
 202.81.230.189:443 v.7wz.net
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
 202.81.230.207:443 phanes.ustc.cf
@@ -226,7 +258,6 @@
 202.81.235.79:443 api.dvpn.me rpc.dvpn.me
 202.81.235.80:443 api.dvpn.me rpc.dvpn.me
 202.81.235.81:443 161883.com *.161883.com
-202.81.235.83:443 *.echoawakening.cc
 202.81.235.91:443 161883.com *.161883.com
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.211:443 boota.luois.ninja
@@ -250,19 +281,9 @@
 202.81.238.10:443 com.hk.com
 202.81.238.22:443 www.hk.com
 202.81.239.242:443 inas.online www.inas.online
-202.81.239.246:443 nexoedge.io
 202.81.239.248:443 asiainsurance.hkedge.hk
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
-202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
-202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
-202.81.250.29:443 gisacademy.hk www.gisacademy.hk
-202.81.250.33:443 *.esapps.hk esapps.hk
-202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
-202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
-202.81.250.38:443 *.esapps.hk esapps.hk
-202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
-202.81.250.48:443 *.esapps.hk esapps.hk
 202.81.250.50:443 *.esapps.hk esapps.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
