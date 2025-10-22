@@ -15,7 +15,6 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
-202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.115:443 traccar.premierillawarra.com.au
@@ -24,7 +23,6 @@
 202.81.6.73:443 mail.wslc.com.au www.mail.wslc.com.au
 202.81.6.82:443 autodiscover.jvit.com.au autodiscover.neonglow.com.au mail.jvit.com.au mail.neonglow.com.au
 202.81.6.193:443 remote.scag.com.au
-202.81.7.135:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.137:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.140:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.141:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -43,6 +41,7 @@
 202.81.49.74:443 *.kopindosat.co.id kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
+202.81.52.69:443 crm.buyunk.web.id
 202.81.52.108:443 99teknologi.id www.99teknologi.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
@@ -172,6 +171,7 @@
 202.81.123.105:443 bdversion.ggbluefox.com
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.123.134:443 *.advance.freefiremobile.com
+202.81.131.45:443 202.81.131.45
 202.81.133.20:443 202.81.133.20
 202.81.139.11:443 202.81.139.11
 202.81.148.108:443 202.81.148.108
@@ -219,6 +219,7 @@
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
+202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 www.cloudflare.com timeline.www.cloudflare.com
@@ -230,12 +231,12 @@
 202.81.230.235:443 ourea.ustc.cf
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
+202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
 202.81.231.157:443 91265.com www.91265.com
 202.81.231.161:443 mail.unitedservice.com.hk autodiscover.unitedservice.com.hk download.mail.unitedservice.com.hk ustex2019.unitedservice.com.hk
 202.81.231.192:443 www.apple.com images.apple.com www.apple.com.cn
-202.81.231.195:443 hk1195.worldbook.online
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.12:443 *.ohohman.net ohohman.net
@@ -282,8 +283,18 @@
 202.81.238.22:443 www.hk.com
 202.81.239.242:443 inas.online www.inas.online
 202.81.239.248:443 asiainsurance.hkedge.hk
+202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
+202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
+202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
+202.81.250.29:443 gisacademy.hk www.gisacademy.hk
+202.81.250.33:443 *.esapps.hk esapps.hk
+202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
+202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
+202.81.250.38:443 *.esapps.hk esapps.hk
+202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
+202.81.250.48:443 *.esapps.hk esapps.hk
 202.81.250.50:443 *.esapps.hk esapps.hk
 202.81.252.12:443 lento.3cx.hk
 202.81.252.13:443 lg.netfront.net
