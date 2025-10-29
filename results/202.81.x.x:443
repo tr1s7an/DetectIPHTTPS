@@ -15,6 +15,7 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.54:443 mail.neocorp.com.au
 202.81.5.115:443 traccar.premierillawarra.com.au
@@ -41,7 +42,7 @@
 202.81.49.74:443 *.kopindosat.co.id kopindosat.co.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
-202.81.52.69:443 crm.buyunk.web.id
+202.81.52.69:443 wa.buyunk.web.id
 202.81.52.108:443 99teknologi.id www.99teknologi.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
@@ -123,8 +124,6 @@
 202.81.115.91:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.102:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.185:443 *.sea.com sea.com
-202.81.118.6:443 *.tf-center.dhgamesdownload.com
-202.81.118.7:443 *.tf-center.dhgamesdownload.com
 202.81.118.8:443 *.tf-center.dhgamesdownload.com
 202.81.118.9:443 *.tf-center.dhgamesdownload.com
 202.81.119.1:443 bdversion.ggbluefox.com
@@ -199,7 +198,6 @@
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.229.12:443 161883.com *.161883.com
 202.81.229.16:443 161883.com *.161883.com
-202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.51:443 hk.stickman.top
 202.81.229.86:443 *.bitserve.cloud bitserve.cloud
@@ -222,7 +220,7 @@
 202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
-202.81.230.146:443 www.cloudflare.com timeline.www.cloudflare.com
+202.81.230.146:443 www.cloudflare.com blog.api.www.cloudflare.com
 202.81.230.189:443 v.7wz.net
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
 202.81.230.207:443 phanes.ustc.cf
@@ -283,7 +281,6 @@
 202.81.238.22:443 www.hk.com
 202.81.239.242:443 inas.online www.inas.online
 202.81.239.248:443 asiainsurance.hkedge.hk
-202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
