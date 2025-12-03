@@ -32,7 +32,6 @@
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
-202.81.7.156:443 *.wseedlings.com.au wseedlings.com.au
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.69:443 bengkel.jbone.my.id
@@ -192,7 +191,6 @@
 202.81.229.32:443 *.bitserve.online bitserve.online
 202.81.229.41:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.229.46:443 www.cloudflare.com timeline.www.cloudflare.com
-202.81.229.47:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.229.51:443 hk.stickman.top
 202.81.229.61:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.229.86:443 *.bitserve.cloud bitserve.cloud
@@ -216,6 +214,7 @@
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 www.cloudflare.com timeline.www.cloudflare.com
+202.81.230.147:443 hk02.m0qo.aoko.moe
 202.81.230.189:443 v.7wz.net
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
 202.81.230.207:443 phanes.ustc.cf
@@ -264,7 +263,6 @@
 202.81.237.118:443 *.bitserve.cloud bitserve.cloud
 202.81.237.119:443 *.bitserve.cloud bitserve.cloud
 202.81.237.130:443 *.bitserve.cloud bitserve.cloud
-202.81.237.153:443 apple-shield.apple.com
 202.81.237.163:443 hk.pkg.zeroteam.top
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
@@ -276,6 +274,7 @@
 202.81.238.22:443 www.hk.com
 202.81.239.241:443 hkedge.hk www.hkedge.hk
 202.81.239.242:443 inas.online www.inas.online
+202.81.239.248:443 asiainsurance.hkedge.hk
 202.81.244.244:443 mail.frenzymind.com mx.frenzymind.com
 202.81.244.245:443 vsp.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com sentry.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
