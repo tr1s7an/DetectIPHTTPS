@@ -14,6 +14,7 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.231:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.52:443 neocloud.neohost.com.au
@@ -37,7 +38,6 @@
 202.81.10.108:443 *.vpj-demo.site vpj-demo.site
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
-202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
 202.81.52.123:443 cpl.wtcyber.id
 202.81.97.157:443 *.ggwhitehawk.com
@@ -103,7 +103,6 @@
 202.81.111.76:443 client.ind.freefiremobile.com
 202.81.111.77:443 client.ind.freefiremobile.com
 202.81.111.78:443 client.ind.freefiremobile.com
-202.81.111.79:443 client.ind.freefiremobile.com
 202.81.111.80:443 client.ind.freefiremobile.com
 202.81.111.81:443 client.ind.freefiremobile.com
 202.81.111.139:443 *.ggblueshark.com
@@ -171,6 +170,7 @@
 202.81.131.45:443 202.81.131.45
 202.81.133.20:443 202.81.133.20
 202.81.139.11:443 202.81.139.11
+202.81.139.18:443 202.81.139.18
 202.81.148.11:443 202.81.148.11
 202.81.148.108:443 202.81.148.108
 202.81.150.26:443 202.81.150.26
@@ -200,11 +200,10 @@
 202.81.229.12:443 161883.com *.161883.com
 202.81.229.16:443 161883.com *.161883.com
 202.81.229.32:443 *.bitserve.online bitserve.online
-202.81.229.41:443 www.cloudflare.com *.www.cloudflare.com
-202.81.229.46:443 www.cloudflare.com *.www.cloudflare.com
-202.81.229.47:443 www.cloudflare.com *.www.cloudflare.com
+202.81.229.41:443 www.cloudflare.com timeline.www.cloudflare.com
+202.81.229.46:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.229.51:443 hk.stickman.top
-202.81.229.61:443 www.cloudflare.com *.www.cloudflare.com
+202.81.229.61:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.229.86:443 *.bitserve.cloud bitserve.cloud
 202.81.229.87:443 *.bitserve.cloud bitserve.cloud
 202.81.229.89:443 *.bitserve.online bitserve.online
@@ -224,7 +223,7 @@
 202.81.230.112:443 27.334420.org
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
-202.81.230.146:443 www.cloudflare.com *.www.cloudflare.com
+202.81.230.146:443 www.cloudflare.com timeline.www.cloudflare.com
 202.81.230.147:443 hk02.m0qo.aoko.moe
 202.81.230.189:443 v.7wz.net
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
@@ -247,7 +246,7 @@
 202.81.232.51:443 s0.awsstatic.com
 202.81.232.55:443 nh.430079.xyz
 202.81.232.83:443 hk.1008006.xyz
-202.81.232.159:443 027.3584673.xyz
+202.81.232.159:443 www.89062503.xyz
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
