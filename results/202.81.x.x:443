@@ -14,6 +14,7 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.231:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.52:443 neocloud.neohost.com.au
@@ -235,6 +236,7 @@
 202.81.231.80:443 27.334420.org
 202.81.231.91:443 chronus.sres.uk
 202.81.231.142:443 netdisk.dwoung.net
+202.81.231.157:443 91265.com www.91265.com
 202.81.231.192:443 images.apple.com www.apple.com www.apple.com.cn
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.233:443 v2hkg.51ssr.club
@@ -244,7 +246,6 @@
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.55:443 nh.430079.xyz
 202.81.232.83:443 hk.1008006.xyz
-202.81.232.159:443 www.89062503.xyz
 202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
 202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
 202.81.234.9:443 map.qianh.tw qianh.tw www.qianh.tw
@@ -256,6 +257,7 @@
 202.81.235.211:443 boota.luois.ninja
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.86:443 *.bitserve.cloud bitserve.cloud
+202.81.237.100:443 91265.com www.91265.com
 202.81.237.115:443 *.bitserve.cloud bitserve.cloud
 202.81.237.117:443 *.bitserve.cloud bitserve.cloud
 202.81.237.118:443 *.bitserve.cloud bitserve.cloud
@@ -267,9 +269,6 @@
 202.81.237.213:443 dav.4broaf.net
 202.81.237.218:443 *.bitserve.cloud bitserve.cloud
 202.81.237.227:443 *.bitserve.cloud bitserve.cloud
-202.81.238.7:443 m1.mailfort.com
-202.81.238.10:443 com.hk.com
-202.81.238.22:443 www.hk.com
 202.81.239.241:443 hkedge.hk www.hkedge.hk
 202.81.239.242:443 inas.online www.inas.online
 202.81.244.244:443 mail.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com mdm.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
