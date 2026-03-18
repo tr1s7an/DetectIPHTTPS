@@ -171,6 +171,7 @@
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.123.134:443 *.advance.freefiremobile.com
 202.81.133.20:443 202.81.133.20
+202.81.136.12:443 202.81.136.12
 202.81.139.11:443 202.81.139.11
 202.81.139.15:443 202.81.139.15
 202.81.139.18:443 202.81.139.18
@@ -211,7 +212,6 @@
 202.81.229.125:443 *.bitserve.online bitserve.online
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.198:443 netft.vps.shilli.site
-202.81.230.7:443 tadeyun.com www.tadeyun.com
 202.81.230.15:443 ak.ossksdcks.org
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.17:443 dialtone.azure.microsoft.com azure.microsoft.com
@@ -224,17 +224,14 @@
 202.81.230.146:443 hk01.ovmd.aoko.moe
 202.81.230.147:443 hk02.m0qo.aoko.moe
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
-202.81.230.207:443 phanes.ustc.cf
 202.81.230.209:443 portal.smartdatainstitute.com
 202.81.230.213:443 zone-c-cn2-hk-f.alicloud-ddns-hn16.xyz
 202.81.230.214:443 zone-c-cn2-hk-d.alicloud-ddns-hn16.xyz
-202.81.230.235:443 ourea.ahau.cf
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.39:443 wechat.jasonka.com
 202.81.231.80:443 27.334420.org
-202.81.231.91:443 chronus.sres.uk
-202.81.231.142:443 netdisk.dwoung.net
+202.81.231.142:443 netdisk.dwoung.net hgtw.dwoung.net navi.dwoung.net
 202.81.231.157:443 91265.com www.91265.com
 202.81.231.192:443 images.apple.com www.apple.com www.apple.com.cn
 202.81.231.199:443 *.tongyifan.me tongyifan.me
@@ -271,18 +268,16 @@
 202.81.238.7:443 m1.mailfort.com
 202.81.238.10:443 com.hk.com
 202.81.238.22:443 www.hk.com
-202.81.239.241:443 hkedge.hk www.hkedge.hk
+202.81.239.241:443 hkdata.io
 202.81.239.242:443 inas.online www.inas.online
 202.81.239.243:443 *.cucoding.com
 202.81.239.249:443 huasan.hkedge.hk
 202.81.244.244:443 mail.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com mdm.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
 202.81.244.245:443 mail.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com mdm.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
-202.81.244.250:443 mail.frenzymind.com awproxy.frenzymind.com enterpriseenrollment.frenzymind.com mdm.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
-202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
 202.81.250.48:443 *.esapps.hk esapps.hk
