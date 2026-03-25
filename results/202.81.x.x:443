@@ -212,6 +212,7 @@
 202.81.229.125:443 *.bitserve.online bitserve.online
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.198:443 netft.vps.shilli.site
+202.81.230.13:443 www.737613004.xyz
 202.81.230.15:443 ak.ossksdcks.org
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.17:443 dialtone.azure.microsoft.com azure.microsoft.com
@@ -224,7 +225,6 @@
 202.81.230.146:443 hk01.ovmd.aoko.moe
 202.81.230.147:443 hk02.m0qo.aoko.moe
 202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
-202.81.230.209:443 portal.smartdatainstitute.com
 202.81.230.213:443 zone-c-cn2-hk-f.alicloud-ddns-hn16.xyz
 202.81.230.214:443 zone-c-cn2-hk-d.alicloud-ddns-hn16.xyz
 202.81.231.2:443 *.netfront.net
@@ -278,6 +278,7 @@
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.27:443 training.esrichina.hk www.training.esrichina.hk
 202.81.250.29:443 gisacademy.hk www.gisacademy.hk
+202.81.250.34:443 arcgisdemo.esrichina.hk www.arcgisdemo.esrichina.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
 202.81.250.48:443 *.esapps.hk esapps.hk
