@@ -35,6 +35,7 @@
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
 202.81.10.108:443 *.vpj-demo.site vpj-demo.site
+202.81.34.2:443 monitor.estiko.biz.id zabbix.estiko.biz.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.110:443 pdns.mld.id
@@ -170,23 +171,17 @@
 202.81.123.106:443 bdversion.ggbluefox.com
 202.81.123.134:443 *.advance.freefiremobile.com
 202.81.133.20:443 202.81.133.20
-202.81.136.12:443 202.81.136.12
 202.81.139.11:443 202.81.139.11
-202.81.139.15:443 202.81.139.15
 202.81.139.18:443 202.81.139.18
 202.81.148.11:443 202.81.148.11
 202.81.148.108:443 202.81.148.108
-202.81.150.26:443 202.81.150.26
 202.81.150.28:443 202.81.150.28
-202.81.150.62:443 202.81.150.62
 202.81.155.10:443 202.81.155.10
 202.81.155.11:443 202.81.155.11
 202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.91:443 202.81.155.91
@@ -218,14 +213,10 @@
 202.81.230.17:443 dialtone.azure.microsoft.com azure.microsoft.com
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.72:443 v.weixiaoran.top
-202.81.230.83:443 www.mcbar-globalaccess.com mcbar-globalaccess.com wiki.mcbar-globalaccess.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 hk01.ovmd.aoko.moe
 202.81.230.147:443 hk02.m0qo.aoko.moe
-202.81.230.201:443 zone-c-cn2-hk-c.alicloud-ddns-hn16.xyz
-202.81.230.213:443 zone-c-cn2-hk-f.alicloud-ddns-hn16.xyz
-202.81.230.214:443 zone-c-cn2-hk-d.alicloud-ddns-hn16.xyz
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.39:443 wechat.jasonka.com
@@ -233,6 +224,7 @@
 202.81.231.157:443 91265.com www.91265.com
 202.81.231.192:443 images.apple.com www.apple.com www.apple.com.cn
 202.81.231.199:443 *.tongyifan.me tongyifan.me
+202.81.231.208:443 *.dev.tedx.net *.frp.tedx.net *.frp.wugui.org *.frp.yigu.org *.icp.tedx.net *.server.tedx.net *.server.yigu.org *.tedx.net *.tp.tedx.net *.wugui.org *.xyxb.com *.yigu.org tedx.net wugui.org xyxb.com yigu.org
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.18:443 isoc.hk www.isoc.hk
@@ -257,6 +249,7 @@
 202.81.237.118:443 *.bitserve.cloud bitserve.cloud
 202.81.237.119:443 *.bitserve.cloud bitserve.cloud
 202.81.237.130:443 *.bitserve.cloud bitserve.cloud
+202.81.237.150:443 hk01.0314888.xyz
 202.81.237.163:443 hk.pkg.zeroteam.top
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
