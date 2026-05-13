@@ -3,6 +3,7 @@
 202.81.4.28:443 flowcentric.deltatech.au www.flowcentric.deltatech.au
 202.81.4.33:443 synergyapi.sandstone.wa.gov.au
 202.81.4.44:443 *.appointment.mobi appointment.mobi
+202.81.4.70:443 remote.toodyaymedicalgroup.com.au www.remote.toodyaymedicalgroup.com.au
 202.81.4.167:443 ardea.3cx.com.au
 202.81.4.170:443 external.jonesws.com.au
 202.81.4.193:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -172,6 +173,7 @@
 202.81.133.20:443 202.81.133.20
 202.81.136.12:443 202.81.136.12
 202.81.139.11:443 202.81.139.11
+202.81.139.15:443 202.81.139.15
 202.81.139.18:443 202.81.139.18
 202.81.148.11:443 202.81.148.11
 202.81.148.108:443 202.81.148.108
@@ -201,6 +203,8 @@
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.229.24:443 nft140.vps.shilli.site
 202.81.229.32:443 *.bitserve.online bitserve.online
+202.81.229.41:443 www.cloudflare.com
+202.81.229.47:443 www.cloudflare.com
 202.81.229.86:443 *.bitserve.cloud bitserve.cloud
 202.81.229.87:443 *.bitserve.cloud bitserve.cloud
 202.81.229.89:443 *.bitserve.online bitserve.online
@@ -211,7 +215,6 @@
 202.81.229.125:443 *.bitserve.online bitserve.online
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.230.13:443 www.737613004.xyz
-202.81.230.15:443 ak.ossksdcks.org
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.72:443 v.weixiaoran.top
@@ -222,9 +225,8 @@
 202.81.230.238:443 lento.3cx.hk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
-202.81.231.39:443 wechat.jasonka.com
 202.81.231.142:443 netdisk.dwoung.net hgtw.dwoung.net navi.dwoung.net
-202.81.231.157:443 91265.com www.91265.com
+202.81.231.160:443 202.81.231.160
 202.81.231.192:443 images.apple.com www.apple.com www.apple.com.cn
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.208:443 *.dev.tedx.net *.frp.tedx.net *.frp.wugui.org *.frp.yigu.org *.icp.tedx.net *.server.tedx.net *.server.yigu.org *.tedx.net *.tp.tedx.net *.wugui.org *.xyxb.com *.yigu.org tedx.net wugui.org xyxb.com yigu.org
@@ -234,9 +236,9 @@
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.55:443 nh.430079.xyz
-202.81.234.2:443 cpanel.yxguwen.com cpcalendars.yxguwen.com cpcontacts.yxguwen.com mail.yxguwen.com webdisk.yxguwen.com webmail.yxguwen.com www.yxguwen.com yxguwen.com
+202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
-202.81.234.4:443 b-ide.com mail.b-ide.com webmail.b-ide.com www.b-ide.com
+202.81.234.4:443 cpanel.netfront.net
 202.81.234.5:443 cpanel.netfront.net
 202.81.234.6:443 cpanel.netfront.net
 202.81.234.7:443 cpanel.procommons.hk procommons.hk procommons.org.hk www.procommons.hk www.procommons.org.hk
@@ -253,7 +255,6 @@
 202.81.235.211:443 boota.luois.ninja
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.86:443 *.bitserve.cloud bitserve.cloud
-202.81.237.100:443 91265.com www.91265.com
 202.81.237.115:443 *.bitserve.cloud bitserve.cloud
 202.81.237.117:443 *.bitserve.cloud bitserve.cloud
 202.81.237.118:443 *.bitserve.cloud bitserve.cloud
