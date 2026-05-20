@@ -34,7 +34,6 @@
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
-202.81.10.108:443 *.vpj-demo.site vpj-demo.site
 202.81.34.2:443 monitor.estiko.biz.id zabbix.estiko.biz.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
