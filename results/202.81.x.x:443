@@ -12,6 +12,7 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.231:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.232:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -142,6 +143,7 @@
 202.81.119.81:443 *.fe.garena.com
 202.81.119.85:443 *.ggblueshark.com
 202.81.119.87:443 *.ggblueshark.com
+202.81.120.134:443 s.eunoo.ai
 202.81.123.2:443 *.ggblueshark.com
 202.81.123.7:443 *.ggblueshark.com
 202.81.123.8:443 *.ggblueshark.com
@@ -197,6 +199,7 @@
 202.81.155.124:443 202.81.155.124
 202.81.155.125:443 202.81.155.125
 202.81.155.126:443 202.81.155.126
+202.81.155.127:443 202.81.155.127
 202.81.155.140:443 202.81.155.140
 202.81.228.51:443 *.bitserve.cloud bitserve.cloud
 202.81.228.116:443 *.bitserve.online bitserve.online
@@ -214,7 +217,9 @@
 202.81.230.13:443 www.737613004.xyz
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
+202.81.230.36:443 admin.buytimehk.com api.buytimehk.com buytimehk.com www.buytimehk.com
 202.81.230.72:443 v.weixiaoran.top
+202.81.230.110:443 www.learn.microsoft.com learn.microsoft.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 mrl9bj0fi2.nanachi.net
@@ -254,7 +259,6 @@
 202.81.237.115:443 *.bitserve.online bitserve.online
 202.81.237.117:443 *.bitserve.online bitserve.online
 202.81.237.119:443 *.bitserve.online bitserve.online
-202.81.237.150:443 hk01.0314888.xyz
 202.81.237.163:443 202.81.237.163
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
