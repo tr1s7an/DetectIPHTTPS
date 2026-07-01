@@ -34,7 +34,7 @@
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
 202.81.10.108:443 *.vpj-demo.site vpj-demo.site
-202.81.34.2:443 monitor.estiko.biz.id zabbix.estiko.biz.id
+202.81.34.2:443 app.inikomps.biz.id
 202.81.52.52:443 *.mld.id mld.id
 202.81.52.67:443 ktg.mld.id
 202.81.52.110:443 pdns.mld.id
@@ -75,10 +75,9 @@
 202.81.99.20:443 *.ggpolarbear.com
 202.81.99.205:443 *.ggblueshark.com
 202.81.99.206:443 *.ggblueshark.com
-202.81.106.8:443 dl.test.kg.garenanow.com
+202.81.106.8:443 *.garenanow.com
 202.81.106.83:443 *.ggblueshark.com
 202.81.106.102:443 *.ggblueshark.com
-202.81.106.107:443 *.ggblueshark.com
 202.81.106.109:443 *.ggblueshark.com
 202.81.107.8:443 test.castle.api.freefiremobile.com
 202.81.107.11:443 *.advance.freefiremobile.com
@@ -166,7 +165,6 @@
 202.81.123.58:443 *.ggblueshark.com
 202.81.123.61:443 *.ggblueshark.com
 202.81.123.66:443 *.ggblueshark.com
-202.81.123.89:443 *.freefiremobile.com
 202.81.123.105:443 version.common.redflamenco.com
 202.81.123.106:443 version.common.redflamenco.com
 202.81.123.134:443 *.advance.freefiremobile.com
@@ -200,6 +198,7 @@
 202.81.155.125:443 202.81.155.125
 202.81.155.126:443 202.81.155.126
 202.81.155.127:443 202.81.155.127
+202.81.155.128:443 202.81.155.128
 202.81.155.140:443 202.81.155.140
 202.81.228.51:443 *.bitserve.cloud bitserve.cloud
 202.81.228.116:443 *.bitserve.online bitserve.online
@@ -219,7 +218,6 @@
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.36:443 admin.buytimehk.com api.buytimehk.com buytimehk.com www.buytimehk.com
 202.81.230.72:443 v.weixiaoran.top
-202.81.230.110:443 www.learn.microsoft.com learn.microsoft.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 mrl9bj0fi2.nanachi.net
