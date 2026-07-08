@@ -12,7 +12,6 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
-202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.231:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.232:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -116,8 +115,6 @@
 202.81.115.91:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.102:443 *.keystats.seagroup.com keystats.seagroup.com
 202.81.115.185:443 *.sea.com sea.com
-202.81.118.8:443 *.tf-center.dhgamesdownload.com
-202.81.118.9:443 *.tf-center.dhgamesdownload.com
 202.81.119.1:443 version.common.redflamenco.com
 202.81.119.2:443 version.common.redflamenco.com
 202.81.119.3:443 version.common.redflamenco.com
@@ -187,6 +184,7 @@
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.82:443 202.81.155.82
+202.81.155.83:443 202.81.155.83
 202.81.155.91:443 202.81.155.91
 202.81.155.96:443 202.81.155.96
 202.81.155.100:443 202.81.155.100
@@ -205,19 +203,21 @@
 202.81.228.160:443 *.bitserve.cloud bitserve.cloud
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.229.24:443 nft140.vps.shilli.site
-202.81.229.41:443 www.cloudflare.com
-202.81.229.47:443 www.cloudflare.com
+202.81.229.41:443 blog.api.www.cloudflare.com www.cloudflare.com
+202.81.229.47:443 blog.api.www.cloudflare.com www.cloudflare.com
 202.81.229.86:443 *.bitserve.cloud bitserve.cloud
 202.81.229.87:443 *.bitserve.cloud bitserve.cloud
 202.81.229.89:443 *.bitserve.cloud bitserve.cloud
 202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
 202.81.229.117:443 n.sni-347-default.ssl.fastly.net
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
+202.81.230.8:443 tkzhuangx2.kejizhu.xyz
 202.81.230.13:443 www.737613004.xyz
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.36:443 admin.buytimehk.com api.buytimehk.com buytimehk.com www.buytimehk.com
 202.81.230.72:443 v.weixiaoran.top
+202.81.230.110:443 www.learn.microsoft.com learn.microsoft.com
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 mrl9bj0fi2.nanachi.net
@@ -227,11 +227,9 @@
 202.81.231.5:443 *.netfront.net
 202.81.231.142:443 netdisk.dwoung.net hgtw.dwoung.net navi.dwoung.net
 202.81.231.160:443 202.81.231.160
-202.81.231.192:443 images.apple.com www.apple.com www.apple.com.cn
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.208:443 *.dev.tedx.net *.frp.tedx.net *.frp.wugui.org *.frp.yigu.org *.icp.tedx.net *.server.tedx.net *.server.yigu.org *.tedx.net *.tp.tedx.net *.wugui.org *.xyxb.com *.yigu.org tedx.net wugui.org xyxb.com yigu.org
 202.81.231.233:443 v2hkg.51ssr.club
-202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.55:443 nh.430079.xyz
