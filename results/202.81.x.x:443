@@ -12,6 +12,7 @@
 202.81.4.200:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.202:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.203:443 ncentral.healthypc.com.au www.ncentral.healthypc.com.au
+202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.231:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.232:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
@@ -50,7 +51,6 @@
 202.81.97.165:443 *.ggwhitehawk.com
 202.81.97.166:443 *.ggwhitehawk.com
 202.81.98.12:443 *.garenanow.com
-202.81.98.13:443 *.garenanow.com
 202.81.98.21:443 *.advance.freefiremobile.com
 202.81.98.22:443 *.advance.freefiremobile.com
 202.81.99.1:443 *.ggpolarbear.com
@@ -200,21 +200,20 @@
 202.81.155.140:443 202.81.155.140
 202.81.228.51:443 *.bitserve.cloud bitserve.cloud
 202.81.228.116:443 *.bitserve.online bitserve.online
-202.81.228.160:443 *.bitserve.cloud bitserve.cloud
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.229.24:443 nft140.vps.shilli.site
-202.81.229.41:443 blog.api.www.cloudflare.com www.cloudflare.com
-202.81.229.47:443 blog.api.www.cloudflare.com www.cloudflare.com
-202.81.229.86:443 *.bitserve.cloud bitserve.cloud
-202.81.229.87:443 *.bitserve.cloud bitserve.cloud
-202.81.229.89:443 *.bitserve.cloud bitserve.cloud
 202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
 202.81.229.117:443 n.sni-347-default.ssl.fastly.net
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
+202.81.230.7:443 *.bitserve.cloud bitserve.cloud
 202.81.230.8:443 tkzhuangx2.kejizhu.xyz
+202.81.230.10:443 sphk03.appacc.xyz
 202.81.230.13:443 www.737613004.xyz
+202.81.230.15:443 *.bitserve.cloud bitserve.cloud
 202.81.230.16:443 a.media.51ssr.club
+202.81.230.17:443 *.bitserve.cloud bitserve.cloud
 202.81.230.20:443 v2hke.51ssr.club
+202.81.230.32:443 *.bitserve.cloud bitserve.cloud
 202.81.230.36:443 admin.buytimehk.com api.buytimehk.com buytimehk.com www.buytimehk.com
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.110:443 www.learn.microsoft.com learn.microsoft.com
