@@ -88,8 +88,8 @@
 202.81.111.139:443 *.ggblueshark.com
 202.81.111.140:443 *.ggblueshark.com
 202.81.111.150:443 *.ggblueshark.com
-202.81.113.139:443 *.data.garenanow.com
-202.81.113.140:443 *.data.garenanow.com
+202.81.113.139:443 ss-receiver.data.garenanow.com
+202.81.113.140:443 ss-receiver.data.garenanow.com
 202.81.113.143:443 shushu.data.jingle.cn
 202.81.114.6:443 *.gre.garenanow.com
 202.81.115.90:443 *.keystats.seagroup.com keystats.seagroup.com
@@ -161,7 +161,6 @@
 202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.82:443 202.81.155.82
@@ -200,7 +199,7 @@
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.123:443 api.trtsz.cn
 202.81.230.146:443 mrl9bj0fi2.nanachi.net
-202.81.230.147:443 mo77wrrtfl.nanachi.net
+202.81.230.147:443 crb79g7y.nanachi.net
 202.81.230.238:443 lento.3cx.hk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
@@ -210,10 +209,10 @@
 202.81.231.199:443 *.tongyifan.me tongyifan.me
 202.81.231.208:443 *.dev.tedx.net *.frp.tedx.net *.frp.wugui.org *.frp.yigu.org *.icp.tedx.net *.server.tedx.net *.server.yigu.org *.tedx.net *.tp.tedx.net *.wugui.org *.xyxb.com *.yigu.org tedx.net wugui.org xyxb.com
 202.81.231.233:443 v2hkg.51ssr.club
-202.81.232.12:443 *.ohohman.net ohohman.net
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
 202.81.232.55:443 nh.430079.xyz
+202.81.232.195:443 stickman.top
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
 202.81.234.4:443 cpanel.netfront.net
