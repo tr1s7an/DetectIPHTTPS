@@ -45,18 +45,9 @@
 202.81.98.22:443 *.advance.freefiremobile.com
 202.81.99.1:443 *.ggpolarbear.com
 202.81.99.3:443 *.ggpolarbear.com
-202.81.99.4:443 *.ggpolarbear.com
 202.81.99.5:443 *.ggpolarbear.com
 202.81.99.6:443 *.ggpolarbear.com
-202.81.99.7:443 *.ggpolarbear.com
-202.81.99.8:443 *.ggpolarbear.com
-202.81.99.9:443 *.ggpolarbear.com
-202.81.99.10:443 *.ggpolarbear.com
-202.81.99.13:443 *.ggpolarbear.com
-202.81.99.16:443 *.ggpolarbear.com
-202.81.99.17:443 *.ggpolarbear.com
 202.81.99.18:443 *.ggpolarbear.com
-202.81.99.19:443 *.ggpolarbear.com
 202.81.99.20:443 *.ggpolarbear.com
 202.81.99.68:443 *.garenanow.com
 202.81.99.204:443 *.dhgamesdownload.com
@@ -146,22 +137,24 @@
 202.81.155.140:443 202.81.155.140
 202.81.228.51:443 *.bitserve.cloud bitserve.cloud
 202.81.228.116:443 *.bitserve.online bitserve.online
+202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
 202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
 202.81.229.138:443 hicat.link *.hicat.link
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.198:443 nft56.vps.shilli.site
 202.81.230.7:443 *.bitserve.cloud bitserve.cloud
 202.81.230.10:443 sphk03.appacc.xyz
+202.81.230.13:443 www.737613004.xyz
 202.81.230.15:443 *.bitserve.cloud bitserve.cloud
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.17:443 *.bitserve.cloud bitserve.cloud
 202.81.230.20:443 v2hke.51ssr.club
 202.81.230.32:443 *.bitserve.cloud bitserve.cloud
-202.81.230.46:443 tkzhuangx2.kejizhu.xyz
 202.81.230.48:443 nft140.vps.shilli.site
 202.81.230.72:443 v.weixiaoran.top
 202.81.230.119:443 *.4uo.cn 4uo.cn
 202.81.230.182:443 images.apple.com
+202.81.230.238:443 lento.3cx.hk
 202.81.231.2:443 *.netfront.net
 202.81.231.5:443 *.netfront.net
 202.81.231.39:443 *.hosting.netfront.net hosting.netfront.net
