@@ -134,6 +134,7 @@
 202.81.155.126:443 202.81.155.126
 202.81.155.127:443 202.81.155.127
 202.81.155.128:443 202.81.155.128
+202.81.155.133:443 202.81.155.133
 202.81.155.140:443 202.81.155.140
 202.81.228.51:443 *.bitserve.cloud bitserve.cloud
 202.81.228.116:443 *.bitserve.online bitserve.online
@@ -207,7 +208,6 @@
 202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.14:443 demo2.hkgisportal.com www.demo2.hkgisportal.com
 202.81.250.28:443 trust.hkarcgis.hk
-202.81.250.29:443 gisacademy.hk www.gisacademy.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
 202.81.250.48:443 *.esapps.hk esapps.hk
@@ -225,6 +225,7 @@
 202.81.252.46:443 *.netfront.net
 202.81.252.47:443 *.netfront.net
 202.81.252.51:443 *.netfront.net
+202.81.252.101:443 pvegw.netfront.net
 202.81.252.122:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.175:443 broadband.netfront.net ftp.netfront.net home.netfront.net hope.netfront.net ipass.netfront.net mail.netfront.net netfront.net oldwm1.netfront.net webmail.netfront.net webmailold.netfront.net www.2012ltd.hk www.netfront.net
 202.81.252.176:443 *.netfront.net
