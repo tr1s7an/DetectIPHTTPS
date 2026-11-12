@@ -41,7 +41,6 @@
 202.81.52.67:443 ktg.mld.id
 202.81.52.110:443 pdns.mld.id
 202.81.52.114:443 ldn.mld.id
-202.81.94.52:443 *.yudukot.net yudukot.net
 202.81.97.33:443 *.ggpolarbear.com
 202.81.97.46:443 *.ggpolarbear.com
 202.81.98.12:443 *.garenanow.com
@@ -59,7 +58,7 @@
 202.81.107.11:443 *.advance.freefiremobile.com
 202.81.107.15:443 *.advance.freefiremobile.com
 202.81.107.87:443 *.gre.garenanow.com
-202.81.107.173:443 *.ggpolarbear.com
+202.81.107.173:443 *.ppmainecoonghj.com
 202.81.111.139:443 *.ggblueshark.com
 202.81.111.140:443 *.ggblueshark.com
 202.81.113.82:443 shushu.data.jingle.cn
@@ -99,7 +98,6 @@
 202.81.119.78:443 *.fe.garena.com
 202.81.119.80:443 *.fe.garena.com
 202.81.119.81:443 *.fe.garena.com
-202.81.120.134:443 admin.eunoo.ai
 202.81.123.2:443 *.ggblueshark.com
 202.81.123.13:443 *.ggpolarbear.com
 202.81.123.18:443 *.ggblueshark.com
@@ -139,7 +137,6 @@
 202.81.155.108:443 202.81.155.108
 202.81.155.115:443 202.81.155.115
 202.81.155.124:443 202.81.155.124
-202.81.155.125:443 202.81.155.125
 202.81.155.126:443 202.81.155.126
 202.81.155.127:443 202.81.155.127
 202.81.155.128:443 202.81.155.128
@@ -151,7 +148,7 @@
 202.81.228.51:443 *.bitserve.cloud bitserve.cloud
 202.81.228.116:443 *.bitserve.online bitserve.online
 202.81.229.6:443 hkg01.ntwk.tyty.dev *.hkg01.ntwk.tyty.dev
-202.81.229.92:443 local-ct.nyaapasu.net *.nyaapasu.net local-cm.nyaapasu.net local-cu.nyaapasu.net nyaapasu.net
+202.81.229.92:443 *.nyaapasu.net nyaapasu.net
 202.81.229.138:443 hicat.link *.hicat.link
 202.81.229.139:443 imap.submailhub.com mail.submailhub.com pop.submailhub.com smtp.submailhub.com
 202.81.229.198:443 nft56.vps.shilli.site
@@ -166,8 +163,6 @@
 202.81.230.48:443 nft140.vps.shilli.site
 202.81.230.70:443 admin.buytimehk.com api.buytimehk.com app.buytimehk.com buytimehk.com www.buytimehk.com
 202.81.230.72:443 v.weixiaoran.top
-202.81.230.73:443 202.81.230.73
-202.81.230.77:443 amd.com account.amd.com connect-sit.amd.com connect.amd.com creators.radeon.com download.amd.com drivers.amd.com explore.amd.com gaming.radeon.com gpuopen.com instinct.radeon.com mars.amd.com pro.radeon.com products.amd.com radeon.com search.amd.com shop-ca-en.amd.com shop-eu-de.amd.com shop-eu-en.amd.com shop-eu-fr.amd.com shop-us-en.amd.com shop.amd.com support-sit.amd.com support.amd.com verification.amd.com www.amd.com www.gpuopen.com www.radeon.com
 202.81.230.83:443 *.mcbar.cc gbps-speed.premium.mcbar.cc mirror.deb.mcbar.cc
 202.81.230.90:443 status.0288996.xyz
 202.81.230.93:443 status.blob.productions turn-hk.blob.productions
@@ -203,7 +198,6 @@
 202.81.235.70:443 *.coz.moe
 202.81.235.203:443 hk2.regeneonline.com
 202.81.235.211:443 boota.luois.ninja
-202.81.237.23:443 zone-c-cn2-hk-e.alicloud-ddns-hn16.bond
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.86:443 *.bitserve.cloud bitserve.cloud
 202.81.237.115:443 *.bitserve.online bitserve.online
@@ -221,7 +215,9 @@
 202.81.238.22:443 www.hk.com
 202.81.239.241:443 hkdata.io
 202.81.239.242:443 inas.online www.inas.online
-202.81.244.245:443 awproxy.frenzymind.com enterpriseenrollment.frenzymind.com mail.frenzymind.com mdm.frenzymind.com mdmgateway.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
+202.81.244.244:443 enterpriseenrollment.frenzymind.com mail.frenzymind.com mdm.frenzymind.com mdmgateway.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
+202.81.244.245:443 enterpriseenrollment.frenzymind.com mail.frenzymind.com mdm.frenzymind.com mdmgateway.frenzymind.com mx.frenzymind.com sentry.frenzymind.com vsp.frenzymind.com
+202.81.246.121:443 ogcioconnector.edps.com.hk
 202.81.250.28:443 trust.hkarcgis.hk
 202.81.250.35:443 glc.esrichina.hk www.glc.esrichina.hk
 202.81.250.44:443 support.esrichina.hk www.support.esrichina.hk
