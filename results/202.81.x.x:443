@@ -14,6 +14,7 @@
 202.81.4.228:443 wdms.cloud www.wdms.cloud
 202.81.4.231:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.232:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
+202.81.4.234:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.4.235:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.5.52:443 neocloud.neohost.com.au
 202.81.5.54:443 mail.neocorp.com.au
@@ -33,7 +34,6 @@
 202.81.7.150:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.151:443 *.vpn.sdwancloud.net vpn.sdwancloud.net
 202.81.7.154:443 images.mobilexray.com.au www.images.mobilexray.com.au
-202.81.10.108:443 *.vpj-demo.site vpj-demo.site
 202.81.10.188:443 eguchiku.chatan.jp jaagaruku.chatan.jp kamiseiku.chatan.jp kitamaeku.chatan.jp kitatamaku.chatan.jp kodomokai.chatan.jp kuwaeku.chatan.jp mihamaku.chatan.jp miyagiku.chatan.jp sunabeku.chatan.jp toubaruku.chatan.jp uzibaruku.chatan.jp
 202.81.34.2:443 app.inikomps.biz.id estiko.biz.id inikomps.biz.id inikomps.com portal.inikomps.biz.id
 202.81.49.9:443 *.mld.id mld.id
@@ -111,27 +111,19 @@
 202.81.133.20:443 202.81.133.20
 202.81.136.12:443 202.81.136.12
 202.81.139.11:443 202.81.139.11
-202.81.139.15:443 202.81.139.15
 202.81.139.18:443 202.81.139.18
 202.81.139.22:443 202.81.139.22
 202.81.148.11:443 202.81.148.11
-202.81.150.28:443 202.81.150.28
-202.81.150.62:443 202.81.150.62
 202.81.152.12:443 202.81.152.12
 202.81.155.10:443 202.81.155.10
 202.81.155.12:443 202.81.155.12
-202.81.155.16:443 202.81.155.16
-202.81.155.22:443 202.81.155.22
 202.81.155.32:443 202.81.155.32
 202.81.155.33:443 202.81.155.33
-202.81.155.38:443 202.81.155.38
 202.81.155.47:443 202.81.155.47
 202.81.155.76:443 202.81.155.76
 202.81.155.82:443 202.81.155.82
 202.81.155.83:443 202.81.155.83
-202.81.155.91:443 202.81.155.91
 202.81.155.96:443 202.81.155.96
-202.81.155.100:443 202.81.155.100
 202.81.155.101:443 202.81.155.101
 202.81.155.107:443 202.81.155.107
 202.81.155.108:443 202.81.155.108
@@ -159,6 +151,7 @@
 202.81.230.16:443 a.media.51ssr.club
 202.81.230.17:443 *.bitserve.cloud bitserve.cloud
 202.81.230.20:443 v2hke.51ssr.club
+202.81.230.25:443 smh988.com www.smh988.com
 202.81.230.32:443 *.bitserve.cloud bitserve.cloud
 202.81.230.48:443 nft140.vps.shilli.site
 202.81.230.70:443 admin.buytimehk.com api.buytimehk.com app.buytimehk.com buytimehk.com www.buytimehk.com
@@ -180,7 +173,6 @@
 202.81.231.233:443 v2hkg.51ssr.club
 202.81.232.26:443 *.q9tech.com q9tech.com
 202.81.232.27:443 *.q9tech.com q9tech.com
-202.81.232.55:443 concepttree.org nh.430079.xyz overleaf.concepttree.org
 202.81.232.195:443 stickman.top
 202.81.234.2:443 cpanel.netfront.net
 202.81.234.3:443 cpanel.netfront.net
@@ -200,13 +192,14 @@
 202.81.235.211:443 boota.luois.ninja
 202.81.237.55:443 v2hkd.51ssr.club
 202.81.237.86:443 *.bitserve.cloud bitserve.cloud
+202.81.237.112:443 data.chaostu.cc
 202.81.237.115:443 *.bitserve.online bitserve.online
 202.81.237.117:443 *.bitserve.online bitserve.online
 202.81.237.119:443 *.bitserve.online bitserve.online
 202.81.237.153:443 202.81.237.153
 202.81.237.201:443 c.media.51ssr.club
 202.81.237.202:443 hkf.mobox.xyz
-202.81.237.213:443 dav.4broaf.net
+202.81.237.213:443 hkn.4broaf.net
 202.81.237.218:443 *.bitserve.cloud bitserve.cloud
 202.81.237.227:443 *.bitserve.cloud bitserve.cloud
 202.81.237.245:443 202-81-237-245.sslip.io
